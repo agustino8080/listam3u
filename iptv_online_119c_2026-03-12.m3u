@@ -1,0 +1,358 @@
+#EXTM3U
+#EXTINF:-1 group-title="++Rakuten TV met NL ondertiteling++",Grjngo
+https://be23a3aa4c7c4dd2b6221ba7ca51283e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-nl_GrjngoWesternFilms/playlist.m3u8
+
+#EXTINF:-1 group-title="Grjngo",Rakuten TV Action
+https://action-rakuten-tv-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6073/master.m3u8
+
+#EXTINF:-1 group-title="Rakuten TV Action",Rakuten TV Komedie
+https://comedy-rakuten-tv-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6185/master.m3u8
+
+#EXTINF:-1 group-title="Rakuten TV Komedie",Rakuten TV Top Movies
+https://top-movies-rakuten-tv-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6054/master.m3u8
+
+#EXTINF:-1 group-title="++Rakuten TV - muziek++",That’s 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="That’s 80s",That’s 90s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+
+#EXTINF:-1 group-title="++Rakuten TV Duitsland++",BBC Top Gear Germany
+https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Curiosity Now Germany",DEFA TV
+https://wdrmediagroup-defatv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Deluxe Lounge HD",FilmGold
+https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FilmGold",Fluss Monster
+https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Focus TV",Hell's Kitchen Germany
+https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Hell's Kitchen Germany",LooLoo Kids TV
+https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
+
+#EXTINF:-1 group-title="LooLoo Kids TV",MyTime Movie Network Germany
+https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MyTime Movie Network Germany",Naruto Germany
+https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="One Terra",Qwest TV
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8?ads_amagi_channel=711&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=firefox&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=de&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=09bef241-987c-45b2-b024-acc61a336afa&ads_rtv_content_id=2270&ads_rtv_content_language=eng&ads_rtvid=271862&ads_streaming_id=55a2d2a5-3d30-4ee7-8c6e-2616db55d529&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 group-title="Revry News",Royalworld Germany
+https://amogonetworx-royalworld-2-de.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Spiegel TV Konflikte",Starke Frauen
+https://mainstreamstarkefrauen-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Tempora",Tennis Channel Germany
+https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Terra Mater WILD",The Graham Norton Show Germany
+https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Tierwelt",Top Sci-Fi
+https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8
+
+#EXTINF:-1 group-title="Top Sci-Fi",Top Serien
+https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 group-title="Top Serien",Travelxp Germany
+https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Travelxp Germany",Vevo Pop Germany
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Vevo Pop Germany",Vevo Schlager Pop
+https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Vevo Schlager Pop",Wicked Tuna Germany
+https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="++Rakuten TV Finland++",BBC Top Gear Finland
+https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="++Rakuten TV Frankrijk++",BBC Top Gear France
+https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="BBC Top Gear France",Enquetes de Choc
+https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Enquetes de Choc",Generation Sitcoms
+https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8
+
+#EXTINF:-1 group-title="Generation Sitcoms",Le Meilleur de la TV Realite
+https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="Le Meilleur de la TV Realite",Nature Time France
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Nature Time France",Travelxp France
+https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Travelxp France",Zylo Into Crime
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Rakuten TV Alerte Cobra",Rakuten TV Comédie
+https://jmp2.uk/sam-FR26000068C.m3u8
+
+#EXTINF:-1 group-title="Rakuten TV Comédie",Rakuten TV Crime
+https://jmp2.uk/sam-FR2600009UG.m3u8
+
+#EXTINF:-1 group-title="Rakuten TV Crime",Rakuten TV Drames
+https://jmp2.uk/sam-FR2600005LH.m3u8
+
+#EXTINF:-1 group-title="Rakuten TV Drames",Rakuten TV Documentaires
+https://jmp2.uk/sam-FR26000089E.m3u8
+
+#EXTINF:-1 group-title="Rakuten TV Documentaries France",Rakuten TV Famille
+https://jmp2.uk/sam-FR2600001PI.m3u8
+
+#EXTINF:-1 group-title="Rakuten TV Famille",Rakuten TV Films d'Action
+https://jmp2.uk/sam-FR2600002X9.m3u8
+
+#EXTINF:-1 group-title="Rakuten TV Films Thriller",Rakuten TV Romantiques
+https://jmp2.uk/sam-FR2600003OZ.m3u8
+
+#EXTINF:-1 group-title="Rakuten TV Séries Crime",Rakuten TV Top Films
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+
+#EXTINF:-1 group-title="Rakuten TV Top Films",Rakuten TV Top Films (#)
+https://jmp2.uk/sam-FR2600007CB.m3u8
+
+#EXTINF:-1 group-title="++Rakuten TV Groot-Brittanië++",Baby Shark TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Baby Shark TV",Come Dine With Me
+https://amg00654-itv-amg00654c2-rakuten-uk-1281.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="Come Dine With Me",Cosmic Frontiers
+https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="Deal Masters",Dog The Bounty Hunter
+https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="Dog The Bounty Hunter",Don't Tell The Bride
+https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Don't Tell The Bride",Drive TV
+https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Escape to The Country",Filmzie
+https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Filmzie",Great British Menu
+https://all3media-great-british-menu-1-gb.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="GREAT! Real",Hardcore Pawn
+https://amg00627-amg00627c8-rakuten-uk-4801.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Hardcore Pawn",Hell's Kitchen
+https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Hell's Kitchen",Highway Thru Hell
+https://amg00627-amg00627c15-rakuten-uk-4803.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Highway Thru Hell",History Hunters
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="Homeful",Homes Under Hammer
+https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Homes Under Hammer",InFast
+https://lifestyle-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="InFast",InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="InTravel",Jail
+https://langleyproductions-jail-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="LOL! Network",Love Pets
+https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8
+
+#EXTINF:-1 group-title="Mech+",Mr. Bean Anime
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="Mr. Bean Anime",MyTime Movie Network
+https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MyTime Movie Network",Mythbusters
+https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
+
+#EXTINF:-1 group-title="Mythbusters",MyZen Wellbeing TV
+https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
+
+#EXTINF:-1 group-title="MyZen Wellbeing TV",Nature Time
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Nature Time",Ninja Warrior
+https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Ninja Warrior",NTD News
+https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
+
+#EXTINF:-1 group-title="Pointless",Popflix
+https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Rakuten Viki (#)",Rakuten TV Viki (#)
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Rakuten TV Viki Europe",Rakuten TV Viki Europe (#)
+https://jmp2.uk/sam-FR26000068C.m3u8
+
+#EXTINF:-1 group-title="Stormcast Westerns",Strongman
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Strongman",Tastemade
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Tastemade",Tennis+
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Tennis+",The Chat Show Channel
+https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="The Chat Show Channel",The Graham Norton Show
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="The Graham Norton Show",The Hotel Inspector
+https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="True Crime Now",True Lives
+https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="True Lives",Vevo Hip-Hop & R&B
+https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Vevo Hip-Hop & R&B",Vevo Pop
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Vevo Pop",World of Freesports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="World of Freesports",World of Love Island
+https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="World of Love Island",World War TV
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="World War TV",XITE
+https://xite-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="XITE",Yu-Gi-Oh!
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+
+#EXTINF:-1 group-title="BBC Doctor Who Italy",BBC Drama Italy
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="BBC Drama Italy",BBC Top Gear Italy
+https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="BBC Top Gear Italy",Brividy Cinema
+https://ixmediasrl-serially-1-it.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Brividy Cinema",CG Grandi Film
+https://cgentertainment-cgtv-1-it.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CG Grandi Film",Grjngo Italy
+https://amogonetworx-grjngo-6-it.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Grjngo Italy",Hell's Kitchen Italy
+https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Hell's Kitchen Italy",Inazuma Eleven Go Italy
+https://minerva-pictures-inazumaelevengo-1-it.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Inazuma Eleven Go Italy",Mr. Bean Anime Italy
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+#EXTINF:-1 group-title="Rakuten TV Trailers Italy",Risate Dal Sud
+https://ixmedia-srl-risatealsud-1-it.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Risate Dal Sud",Radio Italia Trend
+https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 group-title="Radio Italia Trend",Serially Crime
+https://ixmediasrl-seriallycrime-1-it.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Serially Crime",Soap Latino
+https://fast-channels-network-soaplatino-1-it.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Soap Latino",Soap Turco
+https://fast-channels-network-soapturco-1-it.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Soap Turco",Vevo '90s & '00s Italy
+https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Vevo '90s & '00s Italy",Vevo Pop Italy
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Vevo Pop Italy",Vive Kanal D Drama
+https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Vive Kanal D Drama",Yu-Gi-Oh! Italy
+https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
+
+#EXTINF:-1 group-title="++Raluten TV Portugal++",Rakuten TV Family
+https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
+
+#EXTINF:-1 group-title="BBC Doctor Who",Beyblade en Español
+https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Beyblade en Español",Cops
+https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Cops",Cops en Español
+https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Cops en Español",Crímenes Reales
+https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Crímenes Reales",Grjngo Spain
+https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Grjngo Spain",Ideas En 5 Minutos
+https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Ideas En 5 Minutos",Mr. Bean Anime Spain
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
+#EXTINF:-1 group-title="Stormcast Novelas",TOP Barça Spain
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Top Gear en Espanol",Travelxp Spain
+https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Travelxp Spain",Vevo Latino
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Vevo Latino",Vevo Pop Spain
+https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Vevo Pop Spain",Yu-Gi-Oh! En Espanol
+https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
+
+#EXTINF:-1 group-title="Yu-Gi-Oh! En Espanol",Zylo Cine Friki
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="++Rakuten TV USA++",Curiosity Now
+https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
+
+#EXTINF:-1 group-title="Project Runway",Real Crime Beta
+https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Real Crime Beta",True Crime Now
+https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowww-rakutenus/playlist.m3u8
+
+#EXTINF:-1 group-title="True Crime Now",Waterbear
+https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Waterbear",Wicked Tuna
+https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8
+
