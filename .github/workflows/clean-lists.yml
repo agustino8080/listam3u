@@ -1,165 +1,248 @@
-name: Limpieza de Listas
+name: Limpieza de Archivos M3U
 
 on:
   schedule:
-    - cron: '0 9 * * *'
-  workflow_dispatch:
+    - cron: '0 9 * * *'  # Diariamente a las 9 AM
+  workflow_dispatch:      # Ejecutar manualmente
 
 jobs:
   cleanup:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout
+      - name: Checkout repositorio
         uses: actions/checkout@v4
-
-      - name: Detectar formato y obtener listas antiguas
-        id: get_lists
+        with:
+          fetch-depth: 0  # Historial completo para análisis
+      
+      - name: Configurar Git
         run: |
-          REPO="${{ github.repository }}"
-          OWNER=$(echo "$REPO" | cut -d'/' -f1)
-          REPO_NAME=$(echo "$REPO" | cut -d'/' -f2)
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+      
+      - name: Detectar archivos antiguos y temporales
+        id: detect
+        run: |
+          echo "🔍 Buscando archivos para limpiar..."
           
-          echo "Buscando listas del repositorio $REPO_NAME..."
+          # Crear directorio de reportes
+          mkdir -p reports
           
-          curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/$OWNER/$REPO_NAME/lists" > lists.json
+          # Archivos a eliminar (más de 30 días sin modificar)
+          DAYS_OLD=30
           
-          EXTENSIONS="m3u|m3u8|mp4|mp3|vod|mkv"
+          # Buscar archivos temporales
+          TEMP_FILES=$(find . -type f \( -name "*-temp-*" -o -name "temp-*" -o -name "*.tmp" \) 2>/dev/null || echo "")
           
-          LISTS=$(jq -r --arg exts "$EXTENSIONS" '
-            .[] | select(
-              (.name | test("^[a-zA-Z0-9_-]+-temp-"; "i")) or
-              (.name | test("^temp-"; "i")) or
-              (.name | test("\\.(" + $exts + ")$"; "i"))
-            ) | {id: .id, name: .name, created_at: .created_at, updated_at: .updated_at, description: (.description // "N/A")}
-          ' lists.json 2>/dev/null || echo "")
+          # Buscar archivos M3U antiguos (más de 30 días)
+          OLD_M3U=$(find . -type f \( -name "*.m3u" -o -name "*.m3u8" \) -mtime +${DAYS_OLD} 2>/dev/null || echo "")
           
-          if [ -z "$LISTS" ] || [ "$LISTS" = "null" ]; then
-            echo "found=0" >> $GITHUB_OUTPUT
-            echo "[]" > lists_data.json
-            echo "No se encontraron listas para eliminar"
-            exit 0
+          # Buscar archivos duplicados
+          DUPLICATES=$(find . -type f -name "*.m3u" -o -name "*.m3u8" | sort | uniq -d 2>/dev/null || echo "")
+          
+          # Contar archivos
+          TEMP_COUNT=$(echo "$TEMP_FILES" | grep -v '^$' | wc -l)
+          OLD_COUNT=$(echo "$OLD_M3U" | grep -v '^$' | wc -l)
+          DUP_COUNT=$(echo "$DUPLICATES" | grep -v '^$' | wc -l)
+          TOTAL=$((TEMP_COUNT + OLD_COUNT + DUP_COUNT))
+          
+          echo "temp_count=$TEMP_COUNT" >> $GITHUB_OUTPUT
+          echo "old_count=$OLD_COUNT" >> $GITHUB_OUTPUT
+          echo "dup_count=$DUP_COUNT" >> $GITHUB_OUTPUT
+          echo "total=$TOTAL" >> $GITHUB_OUTPUT
+          
+          # Guardar listas para siguiente paso
+          echo "$TEMP_FILES" > reports/temp_files.txt
+          echo "$OLD_M3U" > reports/old_files.txt
+          echo "$DUPLICATES" > reports/duplicate_files.txt
+          
+          echo "📊 Archivos detectados:"
+          echo "  - Temporales: $TEMP_COUNT"
+          echo "  - Antiguos (>30 días): $OLD_COUNT"
+          echo "  - Duplicados: $DUP_COUNT"
+          echo "  - Total: $TOTAL"
+      
+      - name: Generar reporte detallado
+        if: steps.detect.outputs.total != '0'
+        run: |
+          TIMESTAMP=$(date +%Y%m%d_%H%M%S)
+          REPORT_FILE="reports/cleanup_report_${TIMESTAMP}.md"
+          
+          echo "# 🧹 Reporte de Limpieza Automática" > "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+          echo "**Fecha:** $(date -Iseconds)" >> "$REPORT_FILE"
+          echo "**Repositorio:** ${{ github.repository }}" >> "$REPORT_FILE"
+          echo "**Workflow Run:** [#${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})" >> "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+          
+          echo "## 📊 Resumen" >> "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+          echo "| Categoría | Cantidad |" >> "$REPORT_FILE"
+          echo "|-----------|----------|" >> "$REPORT_FILE"
+          echo "| 🗑️ Archivos temporales | ${{ steps.detect.outputs.temp_count }} |" >> "$REPORT_FILE"
+          echo "| ⏰ Archivos antiguos | ${{ steps.detect.outputs.old_count }} |" >> "$REPORT_FILE"
+          echo "| 📋 Archivos duplicados | ${{ steps.detect.outputs.dup_count }} |" >> "$REPORT_FILE"
+          echo "| **📦 Total** | **${{ steps.detect.outputs.total }}** |" >> "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+          
+          echo "## 📁 Archivos Detectados" >> "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+          
+          if [ -s reports/temp_files.txt ]; then
+            echo "### 🗑️ Archivos Temporales" >> "$REPORT_FILE"
+            echo "\`\`\`" >> "$REPORT_FILE"
+            cat reports/temp_files.txt >> "$REPORT_FILE"
+            echo "\`\`\`" >> "$REPORT_FILE"
+            echo "" >> "$REPORT_FILE"
           fi
           
-          echo "$LISTS" | jq -s '.' > lists_data.json
-          COUNT=$(jq 'length' lists_data.json)
+          if [ -s reports/old_files.txt ]; then
+            echo "### ⏰ Archivos Antiguos (>30 días)" >> "$REPORT_FILE"
+            echo "\`\`\`" >> "$REPORT_FILE"
+            cat reports/old_files.txt >> "$REPORT_FILE"
+            echo "\`\`\`" >> "$REPORT_FILE"
+            echo "" >> "$REPORT_FILE"
+          fi
           
-          echo "found=$COUNT" >> $GITHUB_OUTPUT
-          echo "Se encontraron $COUNT listas para eliminar"
-
-      - name: Eliminar listas detectadas
-        if: steps.get_lists.outputs.found != '0'
+          if [ -s reports/duplicate_files.txt ]; then
+            echo "### 📋 Archivos Duplicados" >> "$REPORT_FILE"
+            echo "\`\`\`" >> "$REPORT_FILE"
+            cat reports/duplicate_files.txt >> "$REPORT_FILE"
+            echo "\`\`\`" >> "$REPORT_FILE"
+            echo "" >> "$REPORT_FILE"
+          fi
+          
+          echo "REPORT_FILE=$REPORT_FILE" >> $GITHUB_ENV
+          
+          cat "$REPORT_FILE"
+      
+      - name: Eliminar archivos detectados
+        if: steps.detect.outputs.total != '0'
         run: |
-          REPO="${{ github.repository }}"
-          OWNER=$(echo "$REPO" | cut -d'/' -f1)
-          REPO_NAME=$(echo "$REPO" | cut -d'/' -f2)
-          API_BASE="https://api.github.com/repos/$OWNER/$REPO_NAME"
-          
           DELETED=0
           FAILED=0
-          REPORT_FILE="cleanup_report_$(date +%Y%m%d_%H%M%S).json"
           
-          echo "[" > "$REPORT_FILE"
+          echo "🗑️ Iniciando eliminación de archivos..."
           
-          FIRST=true
-          jq -c '.[]' lists_data.json | while read -r item; do
-            list_id=$(echo "$item" | jq -r '.id')
-            list_name=$(echo "$item" | jq -r '.name')
-            created_at=$(echo "$item" | jq -r '.created_at')
-            updated_at=$(echo "$item" | jq -r '.updated_at')
-            description=$(echo "$item" | jq -r '.description')
-            
-            detection_reason="nombre_temp"
-            if echo "$list_name" | grep -qiE '\.(m3u|m3u8|mp4|mp3|vod|mkv)$'; then
-              detection_reason="extension_soportada"
+          # Eliminar temporales
+          while IFS= read -r file; do
+            if [ -n "$file" ] && [ -f "$file" ]; then
+              if git rm -f "$file" 2>/dev/null; then
+                echo "✅ Eliminado: $file"
+                ((DELETED++))
+              else
+                echo "❌ Error eliminando: $file"
+                ((FAILED++))
+              fi
             fi
-            
-            response=$(curl -s -o /dev/null -w "%{http_code}" \
-              -X DELETE \
-              -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-              -H "Accept: application/vnd.github.v3+json" \
-              "$API_BASE/lists/$list_id")
-            
-            if [ "$response" = "204" ]; then
-              status="eliminada"
-              ((DELETED++))
-              echo "✓ Lista '$list_name' (ID: $list_id) eliminada"
-            else
-              status="fallida"
-              ((FAILED++))
-              echo "✗ Error eliminando '$list_name' (ID: $list_id) - HTTP $response"
-            fi
-            
-            if [ "$FIRST" = true ]; then
-              FIRST=false
-            else
-              echo "," >> "$REPORT_FILE"
-            fi
-            
-            echo "{\"id\":\"$list_id\",\"name\":$(echo "$list_name" | jq -R -s '.'),\"status\":\"$status\",\"http_code\":\"$response\",\"detection\":\"$detection_reason\",\"created_at\":\"$created_at\",\"updated_at\":\"$updated_at\",\"description\":$(echo "$description" | jq -R -s '.')}" >> "$REPORT_FILE"
-          done
+          done < reports/temp_files.txt
           
-          echo "]" >> "$REPORT_FILE"
+          # Eliminar antiguos
+          while IFS= read -r file; do
+            if [ -n "$file" ] && [ -f "$file" ]; then
+              if git rm -f "$file" 2>/dev/null; then
+                echo "✅ Eliminado: $file"
+                ((DELETED++))
+              else
+                echo "❌ Error eliminando: $file"
+                ((FAILED++))
+              fi
+            fi
+          done < reports/old_files.txt
           
-          echo "| Métrica | Valor |" > summary.md
-          echo "|---------|-------|" >> summary.md
-          echo "| Total procesadas | $((DELETED + FAILED)) |" >> summary.md
-          echo "| Eliminadas | $DELETED |" >> summary.md
-          echo "| Fallidas | $FAILED |" >> summary.md
-          echo "| Fecha ejecución | $(date -Iseconds) |" >> summary.md
+          # Eliminar duplicados
+          while IFS= read -r file; do
+            if [ -n "$file" ] && [ -f "$file" ]; then
+              if git rm -f "$file" 2>/dev/null; then
+                echo "✅ Eliminado: $file"
+                ((DELETED++))
+              else
+                echo "❌ Error eliminando: $file"
+                ((FAILED++))
+              fi
+            fi
+          done < reports/duplicate_files.txt
           
           echo "DELETED=$DELETED" >> $GITHUB_ENV
           echo "FAILED=$FAILED" >> $GITHUB_ENV
-          echo "REPORT_FILE=$REPORT_FILE" >> $GITHUB_ENV
           
-          echo "Resumen: $DELETED eliminadas, $FAILED fallidas"
+          echo ""
+          echo "📊 Resultado:"
+          echo "  ✅ Eliminados: $DELETED"
+          echo "  ❌ Fallidos: $FAILED"
+      
+      - name: Commit cambios
+        if: steps.detect.outputs.total != '0' && env.DELETED != '0'
+        run: |
+          # Agregar reporte
+          git add reports/ || true
+          
+          # Commit
+          git commit -m "🧹 Limpieza automática: $DELETED archivos eliminados
 
-      - name: Subir informe de limpieza
-        if: steps.get_lists.outputs.found != '0'
+          - Temporales: ${{ steps.detect.outputs.temp_count }}
+          - Antiguos: ${{ steps.detect.outputs.old_count }}
+          - Duplicados: ${{ steps.detect.outputs.dup_count }}
+          
+          Workflow: ${{ github.workflow }}
+          Run: ${{ github.run_number }}" || echo "No hay cambios para commitear"
+          
+          # Push
+          git push origin ${{ github.ref_name }} || echo "Error al hacer push"
+      
+      - name: Subir artefactos
+        if: steps.detect.outputs.total != '0'
         uses: actions/upload-artifact@v4
         with:
-          name: cleanup-report-$(date +%Y%m%d-%H%M%S)
-          path: |
-            cleanup_report_*.json
-            summary.md
-            lists_data.json
+          name: cleanup-report-${{ github.run_number }}
+          path: reports/
           retention-days: 30
-
-      - name: Crear issue de resumen (si hay fallos)
-        if: steps.get_lists.outputs.found != '0' && env.FAILED != '0'
+      
+      - name: Crear issue si hay errores
+        if: steps.detect.outputs.total != '0' && env.FAILED != '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const reportContent = fs.readFileSync(process.env.REPORT_FILE, 'utf8');
+            
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `⚠️ Limpieza con errores - ${new Date().toISOString().split('T')[0]}`,
+              body: `${reportContent}
+              
+              ---
+              
+              ## ⚠️ Errores Detectados
+              
+              - **Archivos fallidos:** ${process.env.FAILED}
+              - **Archivos eliminados:** ${process.env.DELETED}
+              
+              **Acción requerida:** Revisar manualmente los archivos que no pudieron eliminarse.
+              
+              **Workflow:** [Run #${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})`,
+              labels: ['automated', 'cleanup', 'needs-attention']
+            });
+      
+      - name: Resumen final
+        if: always()
         run: |
-          REPO="${{ github.repository }}"
-          OWNER=$(echo "$REPO" | cut -d'/' -f1)
-          REPO_NAME=$(echo "$REPO" | cut -d'/' -f2)
+          echo "## 🧹 Limpieza de Archivos M3U" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
           
-          BODY="## 🧹 Informe de Limpieza Automática
-          
-          | Métrica | Valor |
-          |---------|-------|
-          | Total procesadas | $((DELETED + FAILED)) |
-          | ✅ Eliminadas | $DELETED |
-          | ❌ Fallidas | $FAILED |
-          | ⏰ Fecha | $(date -Iseconds) |
-          
-          ### Archivos adjuntos
-          - Reporte detallado: \`$REPORT_FILE\`
-          
-          > Workflow: \`${{ github.workflow }}\`
-          > Run: [#${{ github.run_number }}](https://github.com/$OWNER/$REPO_NAME/actions/runs/${{ github.run_id }})"
-          
-          curl -s -X POST \
-            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/$OWNER/$REPO_NAME/issues" \
-            -d "{\"title\":\"[Limpieza] Fallos en eliminación de listas - $(date +%Y-%m-%d)\",\"body\":$(echo "$BODY" | jq -R -s '.'),\"labels\":[\"automated\",\"cleanup\",\"needs-attention\"]}"
-
-      - name: Verificar resultado
-        if: steps.get_lists.outputs.found != '0'
-        run: |
-          if [ "$DELETED" -eq 0 ] && [ "$FAILED" -gt 0 ]; then
-            echo "Error: No se eliminó ninguna lista y hubo fallos"
-            exit 1
+          if [ "${{ steps.detect.outputs.total }}" = "0" ]; then
+            echo "✅ **No se encontraron archivos para limpiar**" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "| Métrica | Valor |" >> $GITHUB_STEP_SUMMARY
+            echo "|---------|-------|" >> $GITHUB_STEP_SUMMARY
+            echo "| 🗑️ Temporales | ${{ steps.detect.outputs.temp_count }} |" >> $GITHUB_STEP_SUMMARY
+            echo "| ⏰ Antiguos | ${{ steps.detect.outputs.old_count }} |" >> $GITHUB_STEP_SUMMARY
+            echo "| 📋 Duplicados | ${{ steps.detect.outputs.dup_count }} |" >> $GITHUB_STEP_SUMMARY
+            echo "| **📦 Total detectado** | **${{ steps.detect.outputs.total }}** |" >> $GITHUB_STEP_SUMMARY
+            echo "| **✅ Eliminados** | **${DELETED:-0}** |" >> $GITHUB_STEP_SUMMARY
+            echo "| **❌ Fallidos** | **${FAILED:-0}** |" >> $GITHUB_STEP_SUMMARY
           fi
-          echo "Limpieza completada correctamente"
-          exit 0
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Fecha:** $(date -Iseconds)" >> $GITHUB_STEP_SUMMARY
