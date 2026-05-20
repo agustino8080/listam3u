@@ -1,0 +1,165 @@
+name: Limpieza de Listas
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Detectar formato y obtener listas antiguas
+        id: get_lists
+        run: |
+          REPO="${{ github.repository }}"
+          OWNER=$(echo "$REPO" | cut -d'/' -f1)
+          REPO_NAME=$(echo "$REPO" | cut -d'/' -f2)
+          
+          echo "Buscando listas del repositorio $REPO_NAME..."
+          
+          curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/$OWNER/$REPO_NAME/lists" > lists.json
+          
+          EXTENSIONS="m3u|m3u8|mp4|mp3|vod|mkv"
+          
+          LISTS=$(jq -r --arg exts "$EXTENSIONS" '
+            .[] | select(
+              (.name | test("^[a-zA-Z0-9_-]+-temp-"; "i")) or
+              (.name | test("^temp-"; "i")) or
+              (.name | test("\\.(" + $exts + ")$"; "i"))
+            ) | {id: .id, name: .name, created_at: .created_at, updated_at: .updated_at, description: (.description // "N/A")}
+          ' lists.json 2>/dev/null || echo "")
+          
+          if [ -z "$LISTS" ] || [ "$LISTS" = "null" ]; then
+            echo "found=0" >> $GITHUB_OUTPUT
+            echo "[]" > lists_data.json
+            echo "No se encontraron listas para eliminar"
+            exit 0
+          fi
+          
+          echo "$LISTS" | jq -s '.' > lists_data.json
+          COUNT=$(jq 'length' lists_data.json)
+          
+          echo "found=$COUNT" >> $GITHUB_OUTPUT
+          echo "Se encontraron $COUNT listas para eliminar"
+
+      - name: Eliminar listas detectadas
+        if: steps.get_lists.outputs.found != '0'
+        run: |
+          REPO="${{ github.repository }}"
+          OWNER=$(echo "$REPO" | cut -d'/' -f1)
+          REPO_NAME=$(echo "$REPO" | cut -d'/' -f2)
+          API_BASE="https://api.github.com/repos/$OWNER/$REPO_NAME"
+          
+          DELETED=0
+          FAILED=0
+          REPORT_FILE="cleanup_report_$(date +%Y%m%d_%H%M%S).json"
+          
+          echo "[" > "$REPORT_FILE"
+          
+          FIRST=true
+          jq -c '.[]' lists_data.json | while read -r item; do
+            list_id=$(echo "$item" | jq -r '.id')
+            list_name=$(echo "$item" | jq -r '.name')
+            created_at=$(echo "$item" | jq -r '.created_at')
+            updated_at=$(echo "$item" | jq -r '.updated_at')
+            description=$(echo "$item" | jq -r '.description')
+            
+            detection_reason="nombre_temp"
+            if echo "$list_name" | grep -qiE '\.(m3u|m3u8|mp4|mp3|vod|mkv)$'; then
+              detection_reason="extension_soportada"
+            fi
+            
+            response=$(curl -s -o /dev/null -w "%{http_code}" \
+              -X DELETE \
+              -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+              -H "Accept: application/vnd.github.v3+json" \
+              "$API_BASE/lists/$list_id")
+            
+            if [ "$response" = "204" ]; then
+              status="eliminada"
+              ((DELETED++))
+              echo "✓ Lista '$list_name' (ID: $list_id) eliminada"
+            else
+              status="fallida"
+              ((FAILED++))
+              echo "✗ Error eliminando '$list_name' (ID: $list_id) - HTTP $response"
+            fi
+            
+            if [ "$FIRST" = true ]; then
+              FIRST=false
+            else
+              echo "," >> "$REPORT_FILE"
+            fi
+            
+            echo "{\"id\":\"$list_id\",\"name\":$(echo "$list_name" | jq -R -s '.'),\"status\":\"$status\",\"http_code\":\"$response\",\"detection\":\"$detection_reason\",\"created_at\":\"$created_at\",\"updated_at\":\"$updated_at\",\"description\":$(echo "$description" | jq -R -s '.')}" >> "$REPORT_FILE"
+          done
+          
+          echo "]" >> "$REPORT_FILE"
+          
+          echo "| Métrica | Valor |" > summary.md
+          echo "|---------|-------|" >> summary.md
+          echo "| Total procesadas | $((DELETED + FAILED)) |" >> summary.md
+          echo "| Eliminadas | $DELETED |" >> summary.md
+          echo "| Fallidas | $FAILED |" >> summary.md
+          echo "| Fecha ejecución | $(date -Iseconds) |" >> summary.md
+          
+          echo "DELETED=$DELETED" >> $GITHUB_ENV
+          echo "FAILED=$FAILED" >> $GITHUB_ENV
+          echo "REPORT_FILE=$REPORT_FILE" >> $GITHUB_ENV
+          
+          echo "Resumen: $DELETED eliminadas, $FAILED fallidas"
+
+      - name: Subir informe de limpieza
+        if: steps.get_lists.outputs.found != '0'
+        uses: actions/upload-artifact@v4
+        with:
+          name: cleanup-report-$(date +%Y%m%d-%H%M%S)
+          path: |
+            cleanup_report_*.json
+            summary.md
+            lists_data.json
+          retention-days: 30
+
+      - name: Crear issue de resumen (si hay fallos)
+        if: steps.get_lists.outputs.found != '0' && env.FAILED != '0'
+        run: |
+          REPO="${{ github.repository }}"
+          OWNER=$(echo "$REPO" | cut -d'/' -f1)
+          REPO_NAME=$(echo "$REPO" | cut -d'/' -f2)
+          
+          BODY="## 🧹 Informe de Limpieza Automática
+          
+          | Métrica | Valor |
+          |---------|-------|
+          | Total procesadas | $((DELETED + FAILED)) |
+          | ✅ Eliminadas | $DELETED |
+          | ❌ Fallidas | $FAILED |
+          | ⏰ Fecha | $(date -Iseconds) |
+          
+          ### Archivos adjuntos
+          - Reporte detallado: \`$REPORT_FILE\`
+          
+          > Workflow: \`${{ github.workflow }}\`
+          > Run: [#${{ github.run_number }}](https://github.com/$OWNER/$REPO_NAME/actions/runs/${{ github.run_id }})"
+          
+          curl -s -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/$OWNER/$REPO_NAME/issues" \
+            -d "{\"title\":\"[Limpieza] Fallos en eliminación de listas - $(date +%Y-%m-%d)\",\"body\":$(echo "$BODY" | jq -R -s '.'),\"labels\":[\"automated\",\"cleanup\",\"needs-attention\"]}"
+
+      - name: Verificar resultado
+        if: steps.get_lists.outputs.found != '0'
+        run: |
+          if [ "$DELETED" -eq 0 ] && [ "$FAILED" -gt 0 ]; then
+            echo "Error: No se eliminó ninguna lista y hubo fallos"
+            exit 1
+          fi
+          echo "Limpieza completada correctamente"
+          exit 0
