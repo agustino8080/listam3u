@@ -18,10 +18,10 @@ jobs:
       - name: 🔍 Mostrar estructura del repositorio
         run: |
           echo "📁 Estructura actual del repositorio:"
-          tree -L 2 || ls -lah
+          ls -lah
           echo ""
           echo "📋 Archivos M3U encontrados:"
-          find . -type f \( -name "*.m3u" -o -name "*.m3u8" \) -ls
+          find . -type f \( -name "*.m3u" -o -name "*.m3u8" \) -ls || echo "No se encontraron archivos M3U"
       
       - name: Configurar Git
         run: |
@@ -39,22 +39,38 @@ jobs:
           
           # Archivos temporales
           echo "Buscando archivos temporales..."
-          TEMP_FILES=$(find . -type f \( -name "*-temp-*" -o -name "temp-*" -o -name "*.tmp" \) ! -path "./.git/*" 2>/dev/null)
-          TEMP_COUNT=$(echo "$TEMP_FILES" | grep -c . || echo 0)
+          TEMP_FILES=""
+          if find . -type f \( -name "*-temp-*" -o -name "temp-*" -o -name "*.tmp" \) ! -path "./.git/*" 2>/dev/null | grep -q .; then
+            TEMP_FILES=$(find . -type f \( -name "*-temp-*" -o -name "temp-*" -o -name "*.tmp" \) ! -path "./.git/*" 2>/dev/null)
+          fi
+          
+          if [ -z "$TEMP_FILES" ]; then
+            TEMP_COUNT=0
+          else
+            TEMP_COUNT=$(echo "$TEMP_FILES" | wc -l)
+          fi
           
           echo "✅ Temporales encontrados: $TEMP_COUNT"
-          if [ "$TEMP_COUNT" -gt 0 ]; then
+          if [ $TEMP_COUNT -gt 0 ]; then
             echo "$TEMP_FILES"
           fi
           echo ""
           
           # Archivos antiguos (30+ días)
           echo "Buscando archivos M3U antiguos (30+ días)..."
-          OLD_M3U=$(find . -type f \( -name "*.m3u" -o -name "*.m3u8" \) -mtime +30 ! -path "./.git/*" 2>/dev/null)
-          OLD_COUNT=$(echo "$OLD_M3U" | grep -c . || echo 0)
+          OLD_M3U=""
+          if find . -type f \( -name "*.m3u" -o -name "*.m3u8" \) -mtime +30 ! -path "./.git/*" 2>/dev/null | grep -q .; then
+            OLD_M3U=$(find . -type f \( -name "*.m3u" -o -name "*.m3u8" \) -mtime +30 ! -path "./.git/*" 2>/dev/null)
+          fi
+          
+          if [ -z "$OLD_M3U" ]; then
+            OLD_COUNT=0
+          else
+            OLD_COUNT=$(echo "$OLD_M3U" | wc -l)
+          fi
           
           echo "✅ Antiguos encontrados: $OLD_COUNT"
-          if [ "$OLD_COUNT" -gt 0 ]; then
+          if [ $OLD_COUNT -gt 0 ]; then
             echo "$OLD_M3U"
           fi
           echo ""
@@ -74,10 +90,10 @@ jobs:
           echo "$TEMP_FILES" > reports/temp_files.txt
           echo "$OLD_M3U" > reports/old_files.txt
           
-          # Output
-          echo "temp_count=$TEMP_COUNT" >> $GITHUB_OUTPUT
-          echo "old_count=$OLD_COUNT" >> $GITHUB_OUTPUT
-          echo "total=$TOTAL" >> $GITHUB_OUTPUT
+          # Outputs (corregidos)
+          echo "temp_count=${TEMP_COUNT}" >> $GITHUB_OUTPUT
+          echo "old_count=${OLD_COUNT}" >> $GITHUB_OUTPUT
+          echo "total=${TOTAL}" >> $GITHUB_OUTPUT
       
       - name: 📝 Generar reporte detallado
         if: steps.detect.outputs.total != '0'
@@ -85,26 +101,28 @@ jobs:
           TIMESTAMP=$(date +%Y%m%d_%H%M%S)
           REPORT="reports/cleanup_report_${TIMESTAMP}.md"
           
-          cat > "$REPORT" << EOF
-          # 🧹 Reporte de Limpieza Automática
+          cat > "$REPORT" << 'EOF'
+# 🧹 Reporte de Limpieza Automática
+
+**Fecha:** $(date)
+**Total archivos a eliminar:** ${{ steps.detect.outputs.total }}
+
+## 📊 Detalles
+
+### 🗑️ Archivos Temporales (${{ steps.detect.outputs.temp_count }})
+EOF
           
-          **Fecha:** $(date)
-          **Total archivos a eliminar:** ${{ steps.detect.outputs.total }}
+          echo '```' >> "$REPORT"
+          cat reports/temp_files.txt >> "$REPORT"
+          echo '```' >> "$REPORT"
           
-          ## 📊 Detalles
+          echo "" >> "$REPORT"
+          echo "### ⏰ Archivos Antiguos (${{ steps.detect.outputs.old_count }})" >> "$REPORT"
+          echo '```' >> "$REPORT"
+          cat reports/old_files.txt >> "$REPORT"
+          echo '```' >> "$REPORT"
           
-          ### 🗑️ Archivos Temporales (${{ steps.detect.outputs.temp_count }})
-          \`\`\`
-          $(cat reports/temp_files.txt)
-          \`\`\`
-          
-          ### ⏰ Archivos Antiguos (${{ steps.detect.outputs.old_count }})
-          \`\`\`
-          $(cat reports/old_files.txt)
-          \`\`\`
-          EOF
-          
-          echo "REPORT=$REPORT" >> $GITHUB_ENV
+          echo "REPORT=${REPORT}" >> $GITHUB_ENV
           
           echo "========================================"
           echo "📄 REPORTE GENERADO"
@@ -122,32 +140,36 @@ jobs:
           FAILED=0
           
           # Procesar archivos temporales
-          while IFS= read -r file; do
-            if [ -n "$file" ] && [ -f "$file" ]; then
-              echo "Eliminando: $file"
-              if git rm -f "$file" 2>/dev/null; then
-                echo "  ✅ Eliminado"
-                ((DELETED++))
-              else
-                echo "  ❌ Error"
-                ((FAILED++))
+          if [ -s reports/temp_files.txt ]; then
+            while IFS= read -r file; do
+              if [ -n "$file" ] && [ -f "$file" ]; then
+                echo "Eliminando: $file"
+                if git rm -f "$file" 2>/dev/null; then
+                  echo "  ✅ Eliminado"
+                  DELETED=$((DELETED + 1))
+                else
+                  echo "  ❌ Error"
+                  FAILED=$((FAILED + 1))
+                fi
               fi
-            fi
-          done < reports/temp_files.txt
+            done < reports/temp_files.txt
+          fi
           
           # Procesar archivos antiguos
-          while IFS= read -r file; do
-            if [ -n "$file" ] && [ -f "$file" ]; then
-              echo "Eliminando: $file"
-              if git rm -f "$file" 2>/dev/null; then
-                echo "  ✅ Eliminado"
-                ((DELETED++))
-              else
-                echo "  ❌ Error"
-                ((FAILED++))
+          if [ -s reports/old_files.txt ]; then
+            while IFS= read -r file; do
+              if [ -n "$file" ] && [ -f "$file" ]; then
+                echo "Eliminando: $file"
+                if git rm -f "$file" 2>/dev/null; then
+                  echo "  ✅ Eliminado"
+                  DELETED=$((DELETED + 1))
+                else
+                  echo "  ❌ Error"
+                  FAILED=$((FAILED + 1))
+                fi
               fi
-            fi
-          done < reports/old_files.txt
+            done < reports/old_files.txt
+          fi
           
           echo "========================================"
           echo "📊 RESULTADO DE ELIMINACIÓN"
@@ -156,17 +178,20 @@ jobs:
           echo "❌ Errores: $FAILED"
           echo "========================================"
           
-          echo "DELETED=$DELETED" >> $GITHUB_ENV
-          echo "FAILED=$FAILED" >> $GITHUB_ENV
+          echo "DELETED=${DELETED}" >> $GITHUB_ENV
+          echo "FAILED=${FAILED}" >> $GITHUB_ENV
       
       - name: 💾 Commit y push
         if: steps.detect.outputs.total != '0' && env.DELETED != '0'
         run: |
-          git add reports/ || true
+          git add reports/ 2>/dev/null || true
           
-          git commit -m "🧹 Limpieza automática - $DELETED archivos eliminados" || true
-          
-          git push || echo "⚠️  No se pudo hacer push"
+          if git diff --staged --quiet; then
+            echo "No hay cambios para commitear"
+          else
+            git commit -m "🧹 Limpieza automática - ${DELETED} archivos eliminados" || true
+            git push || echo "⚠️  No se pudo hacer push"
+          fi
       
       - name: 📦 Subir reportes
         if: steps.detect.outputs.total != '0'
@@ -179,22 +204,41 @@ jobs:
       - name: ✅ Resumen final
         if: always()
         run: |
-          echo "## 🧹 Limpieza de Archivos M3U" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
+          TEMP_COUNT="${{ steps.detect.outputs.temp_count }}"
+          OLD_COUNT="${{ steps.detect.outputs.old_count }}"
+          TOTAL="${{ steps.detect.outputs.total }}"
+          DELETED="${DELETED:-0}"
+          FAILED="${FAILED:-0}"
           
-          if [ "${{ steps.detect.outputs.total }}" = "0" ]; then
-            echo "✅ **No se encontraron archivos para limpiar**" >> $GITHUB_STEP_SUMMARY
-            echo "" >> $GITHUB_STEP_SUMMARY
-            echo "El repositorio está limpio. No hay archivos temporales ni antiguos." >> $GITHUB_STEP_SUMMARY
+          cat >> $GITHUB_STEP_SUMMARY << EOF
+          ## 🧹 Limpieza de Archivos M3U
+          
+          EOF
+          
+          if [ "$TOTAL" = "0" ] || [ -z "$TOTAL" ]; then
+            cat >> $GITHUB_STEP_SUMMARY << EOF
+          ✅ **No se encontraron archivos para limpiar**
+          
+          El repositorio está limpio. No hay:
+          - ❌ Archivos temporales (*-temp-*, temp-*, *.tmp)
+          - ❌ Archivos M3U antiguos (más de 30 días sin modificar)
+          
+          **Próxima ejecución programada:** Mañana a las 9:00 AM
+          EOF
           else
-            echo "| Métrica | Valor |" >> $GITHUB_STEP_SUMMARY
-            echo "|---------|-------|" >> $GITHUB_STEP_SUMMARY
-            echo "| 🗑️ Temporales | ${{ steps.detect.outputs.temp_count }} |" >> $GITHUB_STEP_SUMMARY
-            echo "| ⏰ Antiguos | ${{ steps.detect.outputs.old_count }} |" >> $GITHUB_STEP_SUMMARY
-            echo "| 📦 Total | ${{ steps.detect.outputs.total }} |" >> $GITHUB_STEP_SUMMARY
-            echo "| ✅ Eliminados | ${DELETED:-0} |" >> $GITHUB_STEP_SUMMARY
-            echo "| ❌ Fallidos | ${FAILED:-0} |" >> $GITHUB_STEP_SUMMARY
+            cat >> $GITHUB_STEP_SUMMARY << EOF
+          | Métrica | Valor |
+          |---------|-------|
+          | 🗑️ Temporales detectados | ${TEMP_COUNT} |
+          | ⏰ Antiguos detectados | ${OLD_COUNT} |
+          | 📦 Total detectado | ${TOTAL} |
+          | ✅ Eliminados exitosamente | ${DELETED} |
+          | ❌ Errores al eliminar | ${FAILED} |
+          EOF
           fi
           
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**Ejecutado:** $(date)" >> $GITHUB_STEP_SUMMARY
+          cat >> $GITHUB_STEP_SUMMARY << EOF
+          
+          ---
+          **Ejecutado:** $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          EOF
