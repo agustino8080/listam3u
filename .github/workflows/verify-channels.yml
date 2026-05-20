@@ -1,0 +1,335 @@
+name: Verificar y Limpiar Canales
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Diario a las 2 AM
+  workflow_dispatch:      # Ejecutar manualmente
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    
+    steps:
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Instalar dependencias
+        run: |
+          pip install requests
+      
+      - name: Configurar Git
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+      
+      - name: Verificar canales en listas M3U
+        run: |
+          cat > verify_channels.py << 'PYTHON_SCRIPT'
+          import os
+          import re
+          import requests
+          from datetime import datetime
+          from urllib.parse import urlparse
+          
+          def check_stream(url, timeout=10):
+              """Verifica si un stream está online"""
+              try:
+                  headers = {
+                      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+                  }
+                  
+                  # Intento HEAD primero (más rápido)
+                  response = requests.head(url, headers=headers, timeout=timeout, allow_redirects=True)
+                  
+                  if response.status_code == 200:
+                      return True, response.status_code, "Online"
+                  elif response.status_code == 405:  # Method Not Allowed, intentar GET
+                      response = requests.get(url, headers=headers, timeout=timeout, stream=True, allow_redirects=True)
+                      if response.status_code == 200:
+                          return True, response.status_code, "Online"
+                  
+                  return False, response.status_code, f"HTTP {response.status_code}"
+                  
+              except requests.exceptions.Timeout:
+                  return False, 0, "Timeout"
+              except requests.exceptions.ConnectionError:
+                  return False, 0, "Connection Error"
+              except requests.exceptions.TooManyRedirects:
+                  return False, 0, "Too Many Redirects"
+              except Exception as e:
+                  return False, 0, f"Error: {str(e)[:50]}"
+          
+          def parse_m3u(content):
+              """Parse M3U y extrae canales con sus URLs"""
+              channels = []
+              lines = content.strip().split('\n')
+              
+              i = 0
+              while i < len(lines):
+                  line = lines[i].strip()
+                  
+                  # Detectar línea EXTINF
+                  if line.startswith('#EXTINF'):
+                      # Extraer nombre del canal
+                      match = re.search(r',(.+)$', line)
+                      name = match.group(1).strip() if match else "Unknown"
+                      
+                      # La siguiente línea debería ser la URL
+                      if i + 1 < len(lines):
+                          url = lines[i + 1].strip()
+                          if url and not url.startswith('#'):
+                              channels.append({
+                                  'extinf': line,
+                                  'name': name,
+                                  'url': url
+                              })
+                              i += 1  # Saltar la línea de URL
+                  
+                  i += 1
+              
+              return channels
+          
+          def process_m3u_file(filepath):
+              """Procesa un archivo M3U y verifica todos los canales"""
+              print(f"\n{'='*60}")
+              print(f"Procesando: {filepath}")
+              print(f"{'='*60}")
+              
+              try:
+                  with open(filepath, 'r', encoding='utf-8') as f:
+                      content = f.read()
+              except UnicodeDecodeError:
+                  with open(filepath, 'r', encoding='latin-1') as f:
+                      content = f.read()
+              
+              # Extraer header
+              header = "#EXTM3U\n"
+              if content.startswith('#EXTM3U'):
+                  header_end = content.find('\n')
+                  if header_end > 0:
+                      header = content[:header_end + 1] + "\n"
+              
+              channels = parse_m3u(content)
+              total = len(channels)
+              
+              print(f"Total de canales encontrados: {total}")
+              
+              if total == 0:
+                  print("No se encontraron canales en esta lista")
+                  return 0, 0, 0
+              
+              online_channels = []
+              offline_channels = []
+              
+              for idx, channel in enumerate(channels, 1):
+                  name = channel['name']
+                  url = channel['url']
+                  
+                  print(f"\n[{idx}/{total}] Verificando: {name[:50]}")
+                  print(f"URL: {url[:80]}")
+                  
+                  is_online, status_code, message = check_stream(url)
+                  
+                  if is_online:
+                      print(f"  ✓ ONLINE - {message}")
+                      online_channels.append(channel)
+                  else:
+                      print(f"  ✗ OFFLINE - {message}")
+                      offline_channels.append(channel)
+              
+              # Estadísticas
+              online_count = len(online_channels)
+              offline_count = len(offline_channels)
+              
+              print(f"\n{'='*60}")
+              print(f"RESUMEN: {filepath}")
+              print(f"{'='*60}")
+              print(f"Total: {total}")
+              print(f"Online: {online_count} ({online_count*100//total if total > 0 else 0}%)")
+              print(f"Offline: {offline_count} ({offline_count*100//total if total > 0 else 0}%)")
+              
+              # Crear nuevo archivo solo con canales online
+              if online_count > 0:
+                  new_content = header
+                  for channel in online_channels:
+                      new_content += f"{channel['extinf']}\n{channel['url']}\n"
+                  
+                  with open(filepath, 'w', encoding='utf-8') as f:
+                      f.write(new_content)
+                  
+                  print(f"\n✓ Archivo actualizado: {online_count} canales online guardados")
+              else:
+                  print(f"\n⚠ No hay canales online, archivo no modificado")
+              
+              # Guardar reporte de offline
+              if offline_count > 0:
+                  offline_file = filepath.replace('.m3u', '_offline.txt').replace('.m3u8', '_offline.txt')
+                  with open(offline_file, 'w', encoding='utf-8') as f:
+                      f.write(f"Canales offline eliminados de {filepath}\n")
+                      f.write(f"Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+                      f.write(f"Total eliminados: {offline_count}\n\n")
+                      for channel in offline_channels:
+                          f.write(f"Nombre: {channel['name']}\n")
+                          f.write(f"URL: {channel['url']}\n\n")
+                  
+                  print(f"✓ Reporte de offline guardado: {offline_file}")
+              
+              return total, online_count, offline_count
+          
+          # Main
+          if __name__ == "__main__":
+              print("="*60)
+              print("VERIFICADOR DE CANALES M3U")
+              print("="*60)
+              
+              # Buscar todos los archivos M3U
+              m3u_files = []
+              for root, dirs, files in os.walk('.'):
+                  # Ignorar .git
+                  dirs[:] = [d for d in dirs if d != '.git']
+                  for file in files:
+                      if file.endswith(('.m3u', '.m3u8')):
+                          m3u_files.append(os.path.join(root, file))
+              
+              if not m3u_files:
+                  print("\n⚠ No se encontraron archivos M3U")
+                  exit(0)
+              
+              print(f"\nArchivos M3U encontrados: {len(m3u_files)}")
+              for f in m3u_files:
+                  print(f"  - {f}")
+              
+              # Procesar cada archivo
+              total_channels = 0
+              total_online = 0
+              total_offline = 0
+              
+              for m3u_file in m3u_files:
+                  t, o, off = process_m3u_file(m3u_file)
+                  total_channels += t
+                  total_online += o
+                  total_offline += off
+              
+              # Resumen global
+              print("\n" + "="*60)
+              print("RESUMEN GLOBAL")
+              print("="*60)
+              print(f"Archivos procesados: {len(m3u_files)}")
+              print(f"Total canales: {total_channels}")
+              print(f"Canales online: {total_online} ({total_online*100//total_channels if total_channels > 0 else 0}%)")
+              print(f"Canales offline eliminados: {total_offline} ({total_offline*100//total_channels if total_channels > 0 else 0}%)")
+              print("="*60)
+              
+              # Guardar variables de entorno para siguiente paso
+              with open(os.environ['GITHUB_ENV'], 'a') as f:
+                  f.write(f"TOTAL_CHANNELS={total_channels}\n")
+                  f.write(f"ONLINE_CHANNELS={total_online}\n")
+                  f.write(f"OFFLINE_CHANNELS={total_offline}\n")
+                  f.write(f"FILES_PROCESSED={len(m3u_files)}\n")
+          PYTHON_SCRIPT
+          
+          python verify_channels.py
+      
+      - name: Commit cambios
+        if: env.OFFLINE_CHANNELS != '0'
+        run: |
+          # Agregar archivos modificados
+          git add *.m3u *.m3u8 *_offline.txt 2>/dev/null || true
+          
+          # Verificar si hay cambios
+          if git diff --staged --quiet; then
+            echo "No hay cambios para commitear"
+          else
+            git commit -m "Limpieza automatica de canales offline
+
+          - Canales verificados: ${TOTAL_CHANNELS}
+          - Canales online: ${ONLINE_CHANNELS}
+          - Canales eliminados: ${OFFLINE_CHANNELS}
+          - Archivos procesados: ${FILES_PROCESSED}
+          
+          Fecha: $(date -Iseconds)"
+            
+            git push
+          fi
+      
+      - name: Crear reporte final
+        if: always()
+        run: |
+          TIMESTAMP=$(date +%Y%m%d_%H%M%S)
+          REPORT="verification_report_${TIMESTAMP}.md"
+          
+          cat > "$REPORT" << EOF
+          # Reporte de Verificacion de Canales
+          
+          **Fecha:** $(date)
+          **Workflow:** ${{ github.workflow }}
+          **Run:** [#${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
+          
+          ## Resumen
+          
+          | Metrica | Valor |
+          |---------|-------|
+          | Archivos procesados | ${FILES_PROCESSED:-0} |
+          | Total de canales | ${TOTAL_CHANNELS:-0} |
+          | Canales online | ${ONLINE_CHANNELS:-0} |
+          | Canales offline eliminados | ${OFFLINE_CHANNELS:-0} |
+          | Tasa de exito | $((ONLINE_CHANNELS * 100 / TOTAL_CHANNELS))% |
+          
+          ## Detalles
+          
+          EOF
+          
+          # Agregar lista de archivos offline si existen
+          if ls *_offline.txt 1> /dev/null 2>&1; then
+            echo "### Canales Eliminados" >> "$REPORT"
+            echo "" >> "$REPORT"
+            for f in *_offline.txt; do
+              echo "#### $f" >> "$REPORT"
+              echo '```' >> "$REPORT"
+              head -20 "$f" >> "$REPORT"
+              echo '```' >> "$REPORT"
+              echo "" >> "$REPORT"
+            done
+          fi
+          
+          cat "$REPORT"
+          
+          mkdir -p reports
+          mv "$REPORT" reports/
+          mv *_offline.txt reports/ 2>/dev/null || true
+      
+      - name: Subir reportes
+        uses: actions/upload-artifact@v4
+        with:
+          name: verification-report-${{ github.run_number }}
+          path: reports/
+          retention-days: 30
+      
+      - name: Resumen en GitHub
+        if: always()
+        run: |
+          {
+            echo "## Verificacion de Canales M3U"
+            echo ""
+            echo "| Metrica | Valor |"
+            echo "|---------|-------|"
+            echo "| Archivos procesados | ${FILES_PROCESSED:-0} |"
+            echo "| Total de canales | ${TOTAL_CHANNELS:-0} |"
+            echo "| Canales online | ${ONLINE_CHANNELS:-0} |"
+            echo "| Canales offline eliminados | ${OFFLINE_CHANNELS:-0} |"
+            
+            if [ "${TOTAL_CHANNELS:-0}" -gt 0 ]; then
+              TASA=$((ONLINE_CHANNELS * 100 / TOTAL_CHANNELS))
+              echo "| Tasa de exito | ${TASA}% |"
+            fi
+            
+            echo ""
+            echo "---"
+            echo "**Ejecutado:** $(date)"
+          } >> $GITHUB_STEP_SUMMARY
