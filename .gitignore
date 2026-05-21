@@ -1,0 +1,7 @@
+```yaml
+# Configuration file for verify-channels workflow
+# This was modified in .github/workflows/verify-channels.yml
+# No build artifacts, dependencies, or temp files detected in changes
+# Only preserving existing relevant ignores if any
+
+```
