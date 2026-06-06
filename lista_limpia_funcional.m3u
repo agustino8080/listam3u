@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:11,Disney
+#EXTVLCOPT:network-caching=1000
+https://proxy-sage-nine-88.vercel.app/api/proxy?url=http://181.78.109.48:9998/play/a05b/index.m3u8
+#EXTINF:11,STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://proxy-sage-nine-88.vercel.app/api/proxy?url=http://181.78.109.48:9998/play/a05c/index.m3u8
+#EXTINF:11,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+https://proxy-sage-nine-88.vercel.app/api/proxy?url=http://181.78.109.48:9998/play/a05d/index.m3u8
+#EXTINF:11,Discovery Home & Health
+#EXTVLCOPT:network-caching=1000
+https://proxy-sage-nine-88.vercel.app/api/proxy?url=http://181.78.109.48:9998/play/a05e/index.m3u8
+#EXTINF:11,ID
+#EXTVLCOPT:network-caching=1000
+https://proxy-sage-nine-88.vercel.app/api/proxy?url=http://181.78.109.48:9998/play/a05f/index.m3u8
+#EXTINF:11,FUTV HD CR
+#EXTVLCOPT:network-caching=1000
+https://proxy-sage-nine-88.vercel.app/api/proxy?url=http://181.78.109.48:9998/play/a05x/index.m3u8
+#EXTINF:11,ESPN HD
+#EXTVLCOPT:network-caching=1000
+https://proxy-sage-nine-88.vercel.app/api/proxy?url=http://181.78.109.48:9998/play/a05y/index.m3u8
+#EXTINF:11,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+https://proxy-sage-nine-88.vercel.app/api/proxy?url=http://181.78.109.48:9998/play/a05z/index.m3u8

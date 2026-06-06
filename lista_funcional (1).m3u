@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1, Canal Funcional 1
+http://200.10.30.241:8000/play/a02e/index.m3u8
+#EXTINF:-1, Canal Funcional 2
+http://200.10.30.241:8000/play/a02f/index.m3u8
+#EXTINF:-1, Canal Funcional 3
+http://200.10.30.241:8000/play/a02h/index.m3u8
+#EXTINF:-1, Canal Funcional 4
+http://200.10.30.241:8000/play/a02i/index.m3u8
+#EXTINF:-1, Canal Funcional 5
+http://200.10.30.241:8000/play/a02j/index.m3u8
+#EXTINF:-1, Canal Funcional 6
+http://200.10.30.241:8000/play/a02k/index.m3u8
+#EXTINF:-1, Canal Funcional 7
+http://200.10.30.241:8000/play/a02p/index.m3u8
+#EXTINF:-1, Canal Funcional 8
+http://200.10.30.241:8000/play/a02u/index.m3u8
+#EXTINF:-1, Canal Funcional 9
+http://200.10.30.241:8000/play/a02y/index.m3u8
+#EXTINF:-1, Canal Funcional 10
+http://200.10.30.241:8000/play/a03c/index.m3u8
+#EXTINF:-1, Canal Funcional 11
+http://200.10.30.241:8000/play/a03f/index.m3u8
+#EXTINF:-1, Canal Funcional 12
+http://200.10.30.241:8000/play/a03g/index.m3u8
+#EXTINF:-1, Canal Funcional 13
+http://200.10.30.241:8000/play/a03k/index.m3u8
+#EXTINF:-1, Canal Funcional 14
+http://200.10.30.241:8000/play/a03l/index.m3u8
+#EXTINF:-1, Canal Funcional 15
+http://200.10.30.241:8000/play/a03m/index.m3u8
+#EXTINF:-1, Canal Funcional 16
+http://200.10.30.241:8000/play/a03n/index.m3u8
+#EXTINF:-1, Canal Funcional 17
+http://200.10.30.241:8000/play/a03o/index.m3u8
+#EXTINF:-1, Canal Funcional 18
+http://200.10.30.241:8000/play/a03p/index.m3u8
+#EXTINF:-1, Canal Funcional 19
+http://200.10.30.241:8000/play/a03q/index.m3u8
+#EXTINF:-1, Canal Funcional 20
+http://200.10.30.241:8000/play/a03r/index.m3u8
+#EXTINF:-1, Canal Funcional 21
+http://200.10.30.241:8000/play/a03s/index.m3u8
+#EXTINF:-1, Canal Funcional 22
+http://200.10.30.241:8000/play/a03t/index.m3u8
+#EXTINF:-1, Canal Funcional 23
+http://200.10.30.241:8000/play/a03u/index.m3u8
+#EXTINF:-1, Canal Funcional 24
+http://200.10.30.241:8000/play/a04n/index.m3u8
