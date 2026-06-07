@@ -1,39 +1,4 @@
 #EXTM3U
-#EXTINF:0,Channel 1
-http://77.137.40.221:8000/play/a01a
-#EXTINF:0,Channel 2
- http://77.137.40.221:8000/play/a01b
-#EXTINF:0,Channel 3
- http://77.137.40.221:8000/play/a01c
-#EXTINF:0,Channel 4
- http://77.137.40.221:8000/play/a01d
-#EXTINF:0,Channel 5
- http://77.137.40.221:8000/play/a01e
-#EXTINF:0,Channel 6
- http://77.137.40.221:8000/play/a01f
-#EXTINF:0,Channel 7
- http://77.137.40.221:8000/play/a01g
-#EXTINF:0,Channel 8
- http://77.137.40.221:8000/play/a01h
-#EXTINF:0,Channel 9
- http://77.137.40.221:8000/play/a01i
-#EXTINF:0,Channel 10
- http://77.137.40.221:8000/play/a01j
-#EXTINF:0,Channel 13
- http://77.137.40.221:8000/play/a01m
-#EXTINF:0,Channel 14
- http://77.137.40.221:8000/play/a01n
-#EXTINF:0,Channel 15
- http://77.137.40.221:8000/play/a01o
-#EXTINF:0,Channel 16
- http://77.137.40.221:8000/play/a01p
-#EXTINF:0,Channel 17
- http://77.137.40.221:8000/play/a01q
-#EXTINF:0,Channel 18
- http://77.137.40.221:8000/play/a01r
-#EXTINF:0,Channel 19
- http://77.137.40.221:8000/play/a01s
-#EXTINF:0,Channel 20
  http://77.137.40.221:8000/play/a01t
 #EXTINF:0,Channel 21
  http://77.137.40.221:8000/play/a01u
