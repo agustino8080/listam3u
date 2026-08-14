@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0,playlidst.m3u8
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.67:9000/playlidst.m3u8
+#EXTINF:0,Forbidden
+#EXTVLCOPT:network-caching=1000
+http://45.154.24.214.nip.io/Forbidden
+#EXTINF:24,CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://179.60.51.134:8888/CINEMAX/index.m3u8
