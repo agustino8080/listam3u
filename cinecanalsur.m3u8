@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:22,index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:20,index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://45.162.193.35/CINECANAL/index.m3u8
+#EXTINF:20,index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://45.162.193.35/CINECANAL/index.m3u8

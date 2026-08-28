@@ -1,0 +1,254 @@
+#EXTM3U
+#EXTINF:0,24 Kitchen
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a07e
+#EXTINF:0,7/8 TV
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05r
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05k
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a03h
+#EXTINF:0,Agro TV
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05m
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05x
+#EXTINF:0,Arena Comedy
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a08f
+#EXTINF:0,BNT 3 HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a021
+#EXTINF:0,BNT 4 HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a01s
+#EXTINF:0,Balkanika
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a04z
+#EXTINF:0,Bloomberg BG
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a07i
+#EXTINF:0,Bulgaria On Air
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a07h
+#EXTINF:0,Cartoon network
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05n
+#EXTINF:0,Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05z
+#EXTINF:0,Cine.box
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a08b
+#EXTINF:0,Cinemania
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a07s
+#EXTINF:0,City TV
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a03b
+#EXTINF:0,Current Time
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a03i
+#EXTINF:0,DIEMA HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a04u
+#EXTINF:0,DM Sat
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a06d
+#EXTINF:0,DSTV
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a03f
+#EXTINF:0,Da Vinci
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a03c
+#EXTINF:0,Diema Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a06p
+#EXTINF:0,Diema Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a06o
+#EXTINF:0,Diema Sport HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a06e
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a01z
+#EXTINF:0,Disney
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05d
+#EXTINF:0,Dorcel TV
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a080
+#EXTINF:0,Epic Drama
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a057
+#EXTINF:0,Euronews Bulgaria
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a03n
+#EXTINF:0,Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a061
+#EXTINF:0,Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05u
+#EXTINF:0,Evrokom HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a01o
+#EXTINF:0,Fen Folk
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a01p
+#EXTINF:0,FilmBox
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a01r
+#EXTINF:0,Folklor TV
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a03d
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05h
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05i
+#EXTINF:0,HBO 3
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05y
+#EXTINF:0,HGTV HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a06f
+#EXTINF:0,ID
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a051
+#EXTINF:0,Kino Nova HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a04v
+#EXTINF:0,MAX Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a085
+#EXTINF:0,MAX Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a086
+#EXTINF:0,MAX Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a06h
+#EXTINF:0,MAX Sport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a07n
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a063
+#EXTINF:0,Magic TV
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a089
+#EXTINF:0,Motorvision
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a03g
+#EXTINF:0,NG Wild
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a07l
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a08d
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a01t
+#EXTINF:0,Nostalgia
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05w
+#EXTINF:0,Nova HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a08h
+#EXTINF:0,Nova News HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05g
+#EXTINF:0,Nova Sport
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05p
+#EXTINF:0,PPTV
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a03e
+#EXTINF:0,RING HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a06n
+#EXTINF:0,Rodina TV
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a06c
+#EXTINF:0,STAR Channel
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a07g
+#EXTINF:0,STAR Crime
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a07d
+#EXTINF:0,STAR Life
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a07c
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05l
+#EXTINF:0,TV 1
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a07m
+#EXTINF:0,TV 1000
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a059
+#EXTINF:0,TVT
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a03k
+#EXTINF:0,The World
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a03l
+#EXTINF:0,Travel Channel
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a04w
+#EXTINF:0,Travel TV
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a01q
+#EXTINF:0,VIVACOM ARENA
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05f
+#EXTINF:0,Viasat Explore/Fantazzy
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a055
+#EXTINF:0,Viasat History
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a056
+#EXTINF:0,Viasat Nature
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05t
+#EXTINF:0,bTV Action HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a025
+#EXTINF:0,bTV Cinema
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a077
+#EXTINF:0,bTV Comedy
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a076
+#EXTINF:0,bTV HD
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a04a
+#EXTINF:0,bTV Story
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a078
+#EXTINF:0,dizi
+#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a04y
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a052
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a04x
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a068
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a054
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a06k
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05q
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a062
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://212.70.131.37:8000/play/a05o
