@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="[S+] SPORT ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/b355ff0f320c61c860685048c3081d67.png" group-title="⚽️ SPORT [ S+ ]",[S+] SPORT ITALIA HD
+http://103.205.18.126:23000/live/LCNur3N5JD/KiT2biiGz5/38695.ts
+#EXTINF:-1 tvg-name="[S+] SPORT ITALIA SOLO CALCIO" tvg-logo="http://netflix.oldadventure.org:23000/images/8516872dd096ec4094f68f2b2ac7e7e2.png" group-title="⚽️ SPORT [ S+ ]",[S+] SPORT ITALIA SOLO CALCIO
+http://103.205.18.126:23000/live/LCNur3N5JD/KiT2biiGz5/52854.ts
+#EXTINF:-1 tvg-name="[S+] RAI SPORT FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/images/4c283d2d567653a525fc0424513cd628.png" group-title="⚽️ SPORT [ S+ ]",[S+] RAI SPORT FULL HD
+http://103.205.18.126:23000/live/LCNur3N5JD/KiT2biiGz5/52852.ts
+#EXTINF:-1 tvg-name="[S+] RAI SPORT  HD" tvg-logo="http://netflix.oldadventure.org:23000/images/4c283d2d567653a525fc0424513cd628.png" group-title="⚽️ SPORT [ S+ ]",[S+] RAI SPORT  HD
+http://103.205.18.126:23000/live/LCNur3N5JD/KiT2biiGz5/52851.ts
+#EXTINF:-1 tvg-name="[S+] TOP CALCIO 24" tvg-logo="http://netflix.oldadventure.org:23000/images/68d073a9dffb37c5d77935213be7e5ee.png" group-title="⚽️ SPORT [ S+ ]",[S+] TOP CALCIO 24
+http://103.205.18.126:23000/live/LCNur3N5JD/KiT2biiGz5/52850.ts
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="[S+]  SUPER TENNIS HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Super%20Tennis%20HD.png" group-title="⚽️ SPORT [ S+ ]",[S+]  SUPER TENNIS HD
+http://103.205.18.126:23000/live/LCNur3N5JD/KiT2biiGz5/38694.ts
+#EXTINF:-1 tvg-name="[S+] DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/250px-Discovery_Turbo_logo.svg.png" group-title="⚽️ SPORT [ S+ ]",[S+] DISCOVERY TURBO
+http://103.205.18.126:23000/live/LCNur3N5JD/KiT2biiGz5/38959.ts
+#EXTINF:-1 tvg-name="[S+] EQUtv" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/1aa64d9e9e09909af3bff8940ac53b50.png" group-title="⚽️ SPORT [ S+ ]",[S+] EQUtv
+http://103.205.18.126:23000/live/LCNur3N5JD/KiT2biiGz5/52856.ts

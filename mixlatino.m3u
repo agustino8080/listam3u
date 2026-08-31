@@ -1,0 +1,915 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="USA | ESPN" tvg-logo="https://i.ibb.co/DMYC7qF/espn.png" group-title="ESPN",USA | ESPN
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/28697
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="USA | ESPN - BACKUP" tvg-logo="https://i.ibb.co/DMYC7qF/espn.png" group-title="ESPN",USA | ESPN - BACKUP
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/229932
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="USA | ESPN 2" tvg-logo="https://i.ibb.co/cwjP3GJ/espn2.png" group-title="ESPN",USA | ESPN 2
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/136155
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="USA | ESPN DEPORTES" tvg-logo="https://i.ibb.co/z2b84DX/espn-deportes.png" group-title="ESPN",USA | ESPN DEPORTES
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/136157
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="USA | ESPN NEWS" tvg-logo="https://www.pikpng.com/pngl/m/48-489705_http-espn-news-channel-logo-png-clipart.png" group-title="ESPN",USA | ESPN NEWS
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/136160
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="USA | ESPN SEC NETWORK" tvg-logo="https://i.ibb.co/gd5JrvM/espn-sec-network.png" group-title="ESPN",USA | ESPN SEC NETWORK
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/136158
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="USA | ESPN U" tvg-logo="https://i.ibb.co/7rfzkNv/espnu.png" group-title="ESPN",USA | ESPN U
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/136159
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="USA | ESPN (BACKUP)" tvg-logo="https://i.ibb.co/DMYC7qF/espn.png" group-title="ESPN",USA | ESPN (BACKUP)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/17467
+#EXTINF:-1 tvg-name="24/7 Mr Bean" tvg-logo="https://mirror.streamhubtv.ca:443/images/c804f9508ab0b21b0a770fd49491eaa4.png" group-title="LATINO 24/7",24/7 Mr Bean
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33052
+#EXTINF:-1 tvg-name="24/7 Porcel Y Olmedo" tvg-logo="https://mirror.streamhubtv.ca:443/images/b7554a85110768fb2dd5967097aaf81f.jpg" group-title="LATINO 24/7",24/7 Porcel Y Olmedo
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33053
+#EXTINF:-1 tvg-name="24/7 Cantinflas Parte 1 (18 Peliculas)" tvg-logo="https://hrexach.files.wordpress.com/2014/09/can10.png" group-title="LATINO 24/7",24/7 Cantinflas Parte 1 (18 Peliculas)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33054
+#EXTINF:-1 tvg-name="24/7 Cantinflas Parte 2 (19 Peliculas)" tvg-logo="https://mirror.streamhubtv.ca:443/images/oX2_qkvvr21hUjysZQ-QOxl1FgAKPXrxMVQV_s1Me2qSrg4ho3jdr5wYyAsBTg35zurn9Vus6Lo17XTvIpINnw.png" group-title="LATINO 24/7",24/7 Cantinflas Parte 2 (19 Peliculas)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33055
+#EXTINF:-1 tvg-name="24/7 Cantinflas (Animada)" tvg-logo="https://purepng.com/public/uploads/large/mario-moreno-cantinflas-png-rgp.png" group-title="LATINO 24/7",24/7 Cantinflas (Animada)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33056
+#EXTINF:-1 tvg-name="24/7 Los 3 Chiflados" tvg-logo="https://mirror.streamhubtv.ca:443/images/fb160ca179813c13c63a57ae13e3526e.png" group-title="LATINO 24/7",24/7 Los 3 Chiflados
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33057
+#EXTINF:-1 tvg-name="24/7 Pedro Infante" tvg-logo="https://i.pinimg.com/originals/d3/b7/dd/d3b7ddd69729da0cb17c5ab83f783e35.png" group-title="LATINO 24/7",24/7 Pedro Infante
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33058
+#EXTINF:-1 tvg-name="24/7 El Chapulin Colorado" tvg-logo="https://static.wikia.nocookie.net/vsbattles/images/5/57/El_Chapul%C3%ADn_Colorado.png" group-title="LATINO 24/7",24/7 El Chapulin Colorado
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33059
+#EXTINF:-1 tvg-name="24/7 El Chavo del 8" tvg-logo="https://mirror.streamhubtv.ca:443/images/72a621095ecb623511304ac96bbe57c2.png" group-title="LATINO 24/7",24/7 El Chavo del 8
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33060
+#EXTINF:-1 tvg-name="24/7 El Chavo del 8 Serie Animada" tvg-logo="https://static.wikia.nocookie.net/chespirito/images/4/4e/PngItem_100060.png" group-title="LATINO 24/7",24/7 El Chavo del 8 Serie Animada
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33061
+#EXTINF:-1 tvg-name="24/7 El Principe del Rap Temp 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="LATINO 24/7",24/7 El Principe del Rap Temp 1
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33062
+#EXTINF:-1 tvg-name="24/7 El Principe del Rap FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="LATINO 24/7",24/7 El Principe del Rap FHD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33063
+#EXTINF:-1 tvg-name="24/7 El Principe del Rap HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="LATINO 24/7",24/7 El Principe del Rap HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33064
+#EXTINF:-1 tvg-name="24/7 El Principe del Rap SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="LATINO 24/7",24/7 El Principe del Rap SD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33065
+#EXTINF:-1 tvg-name="24/7 El Principe del Rap Temp 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="LATINO 24/7",24/7 El Principe del Rap Temp 5
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33066
+#EXTINF:-1 tvg-name="24/7 El Principe del Rap Temp 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="LATINO 24/7",24/7 El Principe del Rap Temp 6
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33067
+#EXTINF:-1 tvg-name="24/7 Hechizada Temp 1" tvg-logo="https://www.clipartmax.com/png/middle/166-1667013_bewitched-tv-show-image-with-logo-and-character-bewitched.png" group-title="LATINO 24/7",24/7 Hechizada Temp 1
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33068
+#EXTINF:-1 tvg-name="24/7 Hechizada SD" tvg-logo="https://www.clipartmax.com/png/middle/166-1667013_bewitched-tv-show-image-with-logo-and-character-bewitched.png" group-title="LATINO 24/7",24/7 Hechizada SD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33069
+#EXTINF:-1 tvg-name="24/7 Hechizada Temp 3" tvg-logo="https://www.clipartmax.com/png/middle/166-1667013_bewitched-tv-show-image-with-logo-and-character-bewitched.png" group-title="LATINO 24/7",24/7 Hechizada Temp 3
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33070
+#EXTINF:-1 tvg-name="24/7 Hechizada Temp 4" tvg-logo="https://www.clipartmax.com/png/middle/166-1667013_bewitched-tv-show-image-with-logo-and-character-bewitched.png" group-title="LATINO 24/7",24/7 Hechizada Temp 4
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33071
+#EXTINF:-1 tvg-name="24/7 Hechizada Temp 5" tvg-logo="https://www.clipartmax.com/png/middle/166-1667013_bewitched-tv-show-image-with-logo-and-character-bewitched.png" group-title="LATINO 24/7",24/7 Hechizada Temp 5
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33072
+#EXTINF:-1 tvg-name="24/7 Mi Bella Genio" tvg-logo="https://mirror.streamhubtv.ca:443/images/e7600d058d42960cfa9881b61b2a5431.png" group-title="LATINO 24/7",24/7 Mi Bella Genio
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33073
+#EXTINF:-1 tvg-name="24/7 La Hora Pico" tvg-logo="https://mirror.streamhubtv.ca:443/images/ecaee023cd6a02bb9a631a37846743aa.png" group-title="LATINO 24/7",24/7 La Hora Pico
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33074
+#EXTINF:-1 tvg-name="24/7 Una Familia de Diez" tvg-logo="https://mirror.streamhubtv.ca:443/images/46c4460b92714e63b1c3ff530aa0293e.png" group-title="LATINO 24/7",24/7 Una Familia de Diez
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33075
+#EXTINF:-1 tvg-name="24/7 La Familia Peluche" tvg-logo="https://3.bp.blogspot.com/-I3_QRiZhqtk/VoLi-b2QuJI/AAAAAAAAACU/cc87UlgXHGQ/s1600/image.png" group-title="LATINO 24/7",24/7 La Familia Peluche
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33076
+#EXTINF:-1 tvg-name="24/7 Vecinos Temp 1" tvg-logo="https://mirror.streamhubtv.ca:443/images/65df7e091c279e61756c415b23aaee47.png" group-title="LATINO 24/7",24/7 Vecinos Temp 1
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33077
+#EXTINF:-1 tvg-name="24/7 Vecinos Temp 2" tvg-logo="https://mirror.streamhubtv.ca:443/images/65df7e091c279e61756c415b23aaee47.png" group-title="LATINO 24/7",24/7 Vecinos Temp 2
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33078
+#EXTINF:-1 tvg-name="24/7 Vecinos Temp 3" tvg-logo="https://mirror.streamhubtv.ca:443/images/65df7e091c279e61756c415b23aaee47.png" group-title="LATINO 24/7",24/7 Vecinos Temp 3
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33079
+#EXTINF:-1 tvg-name="24/7 Vecinos Temp 4" tvg-logo="https://mirror.streamhubtv.ca:443/images/65df7e091c279e61756c415b23aaee47.png" group-title="LATINO 24/7",24/7 Vecinos Temp 4
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33080
+#EXTINF:-1 tvg-name="24/7 Vecinos Temp 5" tvg-logo="https://mirror.streamhubtv.ca:443/images/65df7e091c279e61756c415b23aaee47.png" group-title="LATINO 24/7",24/7 Vecinos Temp 5
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33081
+#EXTINF:-1 tvg-name="24/7 La Pantera Rosa" tvg-logo="https://mirror.streamhubtv.ca:443/images/c2f3f011efab1daa0aba4d99e2a2fdd5.png" group-title="LATINO 24/7",24/7 La Pantera Rosa
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33082
+#EXTINF:-1 tvg-name="24/7 Los Picapiedras" tvg-logo="https://mirror.streamhubtv.ca:443/images/e9c0fb2fb7b4e5822cfb7d915d446b49.png" group-title="LATINO 24/7",24/7 Los Picapiedras
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33083
+#EXTINF:-1 tvg-name="24/7 Los Pitufos" tvg-logo="https://mirror.streamhubtv.ca:443/images/e78872f7ff1e7786901383fcd4d81e88.png" group-title="LATINO 24/7",24/7 Los Pitufos
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33084
+#EXTINF:-1 tvg-name="24/7 Tom Y Jerry" tvg-logo="https://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG4.png" group-title="LATINO 24/7",24/7 Tom Y Jerry
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33085
+#EXTINF:-1 tvg-name="24/7 Super Campeones (Captain Tsubasa)" tvg-logo="https://mirror.streamhubtv.ca:443/images/80c423932b139ac2c1926a21f54c11e0.png" group-title="LATINO 24/7",24/7 Super Campeones (Captain Tsubasa)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33086
+#EXTINF:-1 tvg-name="24/7 Scooby Doo" tvg-logo="https://www.pinclipart.com/picdir/middle/54-542875_scoobydoo-logo-scooby-doo-png-clipart.png" group-title="LATINO 24/7",24/7 Scooby Doo
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33087
+#EXTINF:-1 tvg-name="24/7 1000 Maneras de Morir" tvg-logo="https://mirror.streamhubtv.ca:443/images/fdc56d7fc7785b8324b894e18fe573b6.png" group-title="LATINO 24/7",24/7 1000 Maneras de Morir
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33088
+#EXTINF:-1 tvg-name="24/7  Los Simpson" group-title="LATINO 24/7",24/7  Los Simpson
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33089
+#EXTINF:-1 tvg-name="24/7 Smallville" group-title="LATINO 24/7",24/7 Smallville
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33090
+#EXTINF:-1 tvg-name="24/7 Spider-Man" group-title="LATINO 24/7",24/7 Spider-Man
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33091
+#EXTINF:-1 tvg-name="24/7 Laura Bozzo" group-title="LATINO 24/7",24/7 Laura Bozzo
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33092
+#EXTINF:-1 tvg-name="24/7 Thundercats" group-title="LATINO 24/7",24/7 Thundercats
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33093
+#EXTINF:-1 tvg-name="24/7  The Walking Dead" group-title="LATINO 24/7",24/7  The Walking Dead
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33094
+#EXTINF:-1 tvg-name="24/7 Peppa Pig Temporada 1 y 2" group-title="LATINO 24/7",24/7 Peppa Pig Temporada 1 y 2
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33095
+#EXTINF:-1 tvg-name="24/7 The Big Bang Theory" group-title="LATINO 24/7",24/7 The Big Bang Theory
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33096
+#EXTINF:-1 tvg-name="24/7 El Coyote y el Correcaminos" group-title="LATINO 24/7",24/7 El Coyote y el Correcaminos
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33097
+#EXTINF:-1 tvg-name="24/7 Caso Cerrado La Familia 1" group-title="LATINO 24/7",24/7 Caso Cerrado La Familia 1
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33098
+#EXTINF:-1 tvg-name="24/7 Caso Cerrado La Familia 2" group-title="LATINO 24/7",24/7 Caso Cerrado La Familia 2
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33099
+#EXTINF:-1 tvg-name="24/7 Transformers Armada" group-title="LATINO 24/7",24/7 Transformers Armada
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33100
+#EXTINF:-1 tvg-name="24/7 COBRA KAI" group-title="LATINO 24/7",24/7 COBRA KAI
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33101
+#EXTINF:-1 tvg-name="24/7 XMEN ANIME" group-title="LATINO 24/7",24/7 XMEN ANIME
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33102
+#EXTINF:-1 tvg-name="24/7 Halcones Galacticos" group-title="LATINO 24/7",24/7 Halcones Galacticos
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33103
+#EXTINF:-1 tvg-name="24/7 Birdman" group-title="LATINO 24/7",24/7 Birdman
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33104
+#EXTINF:-1 tvg-name="24/7 La Casa de Mickey Mouse FHD" group-title="LATINO 24/7",24/7 La Casa de Mickey Mouse FHD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33105
+#EXTINF:-1 tvg-name="24/7  Coraje Agallas, el perro cobarde" group-title="LATINO 24/7",el perro cobarde
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33106
+#EXTINF:-1 tvg-name="24/7 CSI Miami Temp 6-10" group-title="LATINO 24/7",24/7 CSI Miami Temp 6-10
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33107
+#EXTINF:-1 tvg-name="24/7  Looney Tunes" group-title="LATINO 24/7",24/7  Looney Tunes
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33108
+#EXTINF:-1 tvg-name="24/7 Pluto TV Lucha Libre AAA" tvg-logo="http://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Lucha Libre AAA
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33109
+#EXTINF:-1 tvg-name="24/7 Dragon Ball GT 1996" group-title="LATINO 24/7",24/7 Dragon Ball GT 1996
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33110
+#EXTINF:-1 tvg-name="24/7 Dragon Ball Z Kai Collection" group-title="LATINO 24/7",24/7 Dragon Ball Z Kai Collection
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33111
+#EXTINF:-1 tvg-name="24/7 Escobar | el patron del mal" group-title="LATINO 24/7",24/7 Escobar | el patron del mal
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33112
+#EXTINF:-1 tvg-name="24/7 Futurama" tvg-logo="https://mirror.streamhubtv.ca:443/images/383abebcc5d59ac76ace6c18371d29a9.png" group-title="LATINO 24/7",24/7 Futurama
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33113
+#EXTINF:-1 tvg-name="24/7 LOS LOCOS ADAMS" group-title="LATINO 24/7",24/7 LOS LOCOS ADAMS
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33114
+#EXTINF:-1 tvg-name="24/7 He-Man" group-title="LATINO 24/7",24/7 He-Man
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33115
+#EXTINF:-1 tvg-name="24/7 Pluto TV Cocina" tvg-logo="http://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Cocina
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33116
+#EXTINF:-1 tvg-name="24/7 Pluto TV Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Los archivos del FBI
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33117
+#EXTINF:-1 tvg-name="24/7 Malcolm in the middle" group-title="LATINO 24/7",24/7 Malcolm in the middle
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33118
+#EXTINF:-1 tvg-name="24/7 Caso Cerrado" group-title="LATINO 24/7",24/7 Caso Cerrado
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33119
+#EXTINF:-1 tvg-name="24/7 Mazinger Z" group-title="LATINO 24/7",24/7 Mazinger Z
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33120
+#EXTINF:-1 tvg-name="24/7 Naruto" group-title="LATINO 24/7",24/7 Naruto
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33121
+#EXTINF:-1 tvg-name="24/7 Pinky y Cerebro" group-title="LATINO 24/7",24/7 Pinky y Cerebro
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33122
+#EXTINF:-1 tvg-name="24/7 Pokemon" group-title="LATINO 24/7",24/7 Pokemon
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33123
+#EXTINF:-1 tvg-name="24/7 Pluto TV Cine" tvg-logo="http://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Cine
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33124
+#EXTINF:-1 tvg-name="24/7 Garfield Y sus Amigos" group-title="LATINO 24/7",24/7 Garfield Y sus Amigos
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33125
+#EXTINF:-1 tvg-name="24/7 Robotech" group-title="LATINO 24/7",24/7 Robotech
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33126
+#EXTINF:-1 tvg-name="24/7 El Pajaro Loco" group-title="LATINO 24/7",24/7 El Pajaro Loco
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33127
+#EXTINF:-1 tvg-name="24/7 | Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="LATINO 24/7",24/7 | Pluto TV Cine Terror
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33128
+#EXTINF:-1 tvg-name="24/7  | ALERTA AEROPUERTO" tvg-logo="https://1.bp.blogspot.com/-Lyk8Me-0w4c/X-9p-CGo0RI/AAAAAAAA7Dw/BSNDlOsFpqYTvdEXA23rXUUWoDwdIxtawCLcBGAsYHQ/s320/al.png" group-title="LATINO 24/7",24/7  | ALERTA AEROPUERTO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33129
+#EXTINF:-1 tvg-name="24/7 DIGIMON" tvg-logo="https://1.bp.blogspot.com/-2-JjIoqOsk4/X-9qe56BCHI/AAAAAAAA7FE/mxpoYdTMe1Eud0ET3Vjet4haTrr9Or0qwCLcBGAsYHQ/s320/digimon.png" group-title="LATINO 24/7",24/7 DIGIMON
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33130
+#EXTINF:-1 tvg-name="24/7 Pluto TV Cine Comedia" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Cine Comedia
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33131
+#EXTINF:-1 tvg-name="24/7 Pluto TV Cine Accion" tvg-logo="https://mirror.streamhubtv.ca:443/images/ASOJirLbNnIERbsdymJMncpHU9OrPnM5q7jNgAnnj5bH2tlFWEIz5BLyvkKcuzw3YhvbbhoZLz3fKI6uskUhoIXCadXBRNQYken7WS0NpVY.png" group-title="LATINO 24/7",24/7 Pluto TV Cine Accion
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33132
+#EXTINF:-1 tvg-name="24/7 Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Cine Estelar
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33133
+#EXTINF:-1 tvg-name="24/7 Pluto TV Cine Latino" tvg-logo="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Cine Latino
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33134
+#EXTINF:-1 tvg-name="24/7 Pluto TV Cine Suspenso" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Cine Suspenso
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33135
+#EXTINF:-1 tvg-name="24/7 Pluto TV Series" group-title="LATINO 24/7",24/7 Pluto TV Series
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33136
+#EXTINF:-1 tvg-name="24/7 Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Cine Terror
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33137
+#EXTINF:-1 tvg-name="24/7 Una Familia de Diez 2" group-title="LATINO 24/7",24/7 Una Familia de Diez 2
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33138
+#EXTINF:-1 tvg-name="24/7 Pluto Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto Catfish TV Show
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33139
+#EXTINF:-1 tvg-name="24/7 Pluto TV Embarazada a los 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Embarazada a los 16
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33140
+#EXTINF:-1 tvg-name="24/7 Pluto TV Narcos" tvg-logo="http://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Narcos
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33141
+#EXTINF:-1 tvg-name="24/7 Pluto TV Novelas Drama" tvg-logo="http://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Novelas Drama
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33142
+#EXTINF:-1 tvg-name="24/7 Pluto TV Novelas Romance" tvg-logo="http://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Novelas Romance
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33143
+#EXTINF:-1 tvg-name="24/7 Pluto TV Novelas Thriller" tvg-logo="http://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Novelas Thriller
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33144
+#EXTINF:-1 tvg-name="24/7 Pluto TV Series Latinas" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="LATINO 24/7",24/7 Pluto TV Series Latinas
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/33145
+#EXTINF:-1 tvg-id="EUROPAM" tvg-name="MX | EUROPA EUROPA" tvg-logo="https://mirror.streamhubtv.ca:443/images/38a34375fc49d5d400e41690167439d5.png" group-title="LATINO CINE TV",MX | EUROPA EUROPA
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129245
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="MX | FILM & ARTS" tvg-logo="https://mirror.streamhubtv.ca:443/images/d6341f0e2e7fd7f892526135cff8278d.png" group-title="LATINO CINE TV",MX | FILM & ARTS
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129246
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="MX | PARAMOUNT NETWORK" tvg-logo="https://mirror.streamhubtv.ca:443/images/12a171a4c616f398c636128fefe9f620.png" group-title="LATINO CINE TV",MX | PARAMOUNT NETWORK
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129247
+#EXTINF:-1 tvg-id="Sony.mx" tvg-name="MX | SONY CHANNEL" tvg-logo="https://mirror.streamhubtv.ca:443/images/1be8008621c643e5791d4a6c3aee4995.png" group-title="LATINO CINE TV",MX | SONY CHANNEL
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129248
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="MX | WARNER" tvg-logo="https://mirror.streamhubtv.ca:443/images/54db108a23e59cd7c752fb69c5dfbf6c.png" group-title="LATINO CINE TV",MX | WARNER
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129249
+#EXTINF:-1 tvg-id="STULARH" tvg-name="MX | STUDIO UNIVERSAL" tvg-logo="https://mirror.streamhubtv.ca:443/images/109ee5fe23a636ac8c0cf60b17d6f11b.png" group-title="LATINO CINE TV",MX | STUDIO UNIVERSAL
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129250
+#EXTINF:-1 tvg-id="FXLAHDA" tvg-name="MX | FX" tvg-logo="https://mirror.streamhubtv.ca:443/images/2e732bc3793c8c42e07ad246c44795d2.png" group-title="LATINO CINE TV",MX | FX
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129251
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="MX | A&E" tvg-logo="https://mirror.streamhubtv.ca:443/images/72c7d88754b084cd4c004486cc966c94.png" group-title="LATINO CINE TV",MX | A&E
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129252
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="MX | AXN" tvg-logo="https://mirror.streamhubtv.ca:443/images/ebc9801f98063c53ccc73248fa24c930.PNG" group-title="LATINO CINE TV",MX | AXN
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129253
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="MX | SYFY" tvg-logo="https://mirror.streamhubtv.ca:443/images/b8e39c31e47fa55cfa6a2cfbd5bc45dd.png" group-title="LATINO CINE TV",MX | SYFY
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129254
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="MX | TNT SERIES" tvg-logo="https://mirror.streamhubtv.ca:443/images/dfe1839cd73530840af6b1001b863de8.png" group-title="LATINO CINE TV",MX | TNT SERIES
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129255
+#EXTINF:-1 tvg-id="MX - Cinecanal" tvg-name="MX | CINECANAL" tvg-logo="https://mirror.streamhubtv.ca:443/images/6e8da1e6335b004803ff7a9d36a2e463.png" group-title="LATINO CINE TV",MX | CINECANAL
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129256
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="MX | TNT" tvg-logo="https://mirror.streamhubtv.ca:443/images/d7725f1785e3949f3a4ce84dadf82951.png" group-title="LATINO CINE TV",MX | TNT
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129257
+#EXTINF:-1 tvg-id="GOLDNHD" tvg-name="MX | GOLDEN PLUS" tvg-logo="https://mirror.streamhubtv.ca:443/images/YE9BI7F15D3_iLaDPPtGfq_Q_6oqbMOcPLUktlgw0dgb0lderBXWmWup--VJAV5lS3egwYa7KBUppGUc0EkmHQ.png" group-title="LATINO CINE TV",MX | GOLDEN PLUS
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129258
+#EXTINF:-1 tvg-id="AR: FOX COMEDY HD" tvg-name="SUR | CINE LATINO" tvg-logo="https://mirror.streamhubtv.ca:443/images/d886e118c3724a8eac6bfa2390ce8628.png" group-title="LATINO CINE TV",SUR | CINE LATINO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129259
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="MX | AMC" tvg-logo="https://mirror.streamhubtv.ca:443/images/a2051a2928c7ac83f520d66824031c1f.png" group-title="LATINO CINE TV",MX | AMC
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129260
+#EXTINF:-1 tvg-id="GOLDEDG" tvg-name="MX | GOLDEN EDGE" tvg-logo="https://mirror.streamhubtv.ca:443/images/a55200368e247592a369ce72be09739a.png" group-title="LATINO CINE TV",MX | GOLDEN EDGE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129261
+#EXTINF:-1 tvg-id="hbolatinowest.us" tvg-name="LA | HBO FHD" tvg-logo="https://static.epg.best/us/HBOLatino.us.png" group-title="LATINO CINE TV",LA | HBO FHD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129262
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="MX | HBO FAMILY" tvg-logo="https://mirror.streamhubtv.ca:443/images/97a45964810024d0d1b053797da72851.png" group-title="LATINO CINE TV",MX | HBO FAMILY
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129263
+#EXTINF:-1 tvg-id="space.mx" tvg-name="MX | SPACE" tvg-logo="https://mirror.streamhubtv.ca:443/images/0b216c337ab62267aec75a8e64f86d3c.png" group-title="LATINO CINE TV",MX | SPACE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129264
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="MX | HBO" tvg-logo="https://mirror.streamhubtv.ca:443/images/38106de842e4800489abde7f7c3b73b7.png" group-title="LATINO CINE TV",MX | HBO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129265
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="MX | HBO 2" tvg-logo="https://mirror.streamhubtv.ca:443/images/d8b79f83e5299a61fe3dadf24e351b79.png" group-title="LATINO CINE TV",MX | HBO 2
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129266
+#EXTINF:-1 tvg-id="MPREL" tvg-name="MX | MULTIPREMIER" tvg-logo="https://mirror.streamhubtv.ca:443/images/c43b0b5f9bd57fc9d1bfb405246ea49a.png" group-title="LATINO CINE TV",MX | MULTIPREMIER
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129267
+#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="MX | HBO POP" tvg-logo="https://mirror.streamhubtv.ca:443/images/3e4e3f3381cb987059db96b5c26d5ea0.png" group-title="LATINO CINE TV",MX | HBO POP
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129268
+#EXTINF:-1 tvg-id="SV: SPACE" tvg-name="LA | SPACE" tvg-logo="https://mirror.streamhubtv.ca:443/images/99a3420a172d510f101102af7d35b239.png" group-title="LATINO CINE TV",LA | SPACE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129269
+#EXTINF:-1 tvg-id="AR: MAX PRIME" tvg-name="ARG | HBO XTREME HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/d6e1971934d3ba354ba59e07475c125f.png" group-title="LATINO CINE TV",ARG | HBO XTREME HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129270
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="MX | CINEMAX HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/4ff50b2fe5c4f4b200a625b16429e09a.png" group-title="LATINO CINE TV",MX | CINEMAX HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129271
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="MX | HBO PLUS HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/3306791ad3486bb04e7bcf3bcbfd4eef.png" group-title="LATINO CINE TV",MX | HBO PLUS HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129272
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="MX | HBO SIGNATURE HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/80eacc7db185a3a9ca98cee337def0be.png" group-title="LATINO CINE TV",MX | HBO SIGNATURE HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129273
+#EXTINF:-1 tvg-name="LA | SHOWTIME HD" tvg-logo="https://static.epg.best/us/Showtime2.us.png" group-title="LATINO CINE TV",LA | SHOWTIME HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129274
+#EXTINF:-1 tvg-id="CINESTE" tvg-name="MX | CINE ESTELAR" tvg-logo="https://mirror.streamhubtv.ca:443/images/cb0e1c9dd08dde6133873aa74aa16f29.png" group-title="LATINO CINE TV",MX | CINE ESTELAR
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129275
+#EXTINF:-1 tvg-name="LA |  STARZ HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/1dc1ef4366391551569bca48be0b9d15.png" group-title="LATINO CINE TV",LA |  STARZ HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129276
+#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-name="MX | GOLDEN PREMIER OESTE" tvg-logo="https://mirror.streamhubtv.ca:443/images/56beb406e98243a90f6e1750e4abb514.png" group-title="LATINO CINE TV",MX | GOLDEN PREMIER OESTE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129277
+#EXTINF:-1 tvg-id="peliculamultiplex.mx" tvg-name="MX | DE PELICULA PLUS" tvg-logo="https://mirror.streamhubtv.ca:443/images/ce378f0e8a9c581a45360a47ae2e96ce.png" group-title="LATINO CINE TV",MX | DE PELICULA PLUS
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129278
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="MX | HBO MUNDI" tvg-logo="https://mirror.streamhubtv.ca:443/images/f51289d4e1da5b3886299426616608c9.png" group-title="LATINO CINE TV",MX | HBO MUNDI
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129279
+#EXTINF:-1 tvg-name="LAT | CINE MARVEL" tvg-logo="https://mirror.streamhubtv.ca:443/images/bf47f82cfd5e49ed4125513c9d896557.png" group-title="LATINO CINE TV",LAT | CINE MARVEL
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129280
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="MX | GOLDEN PREMIER ESTE" tvg-logo="https://mirror.streamhubtv.ca:443/images/56beb406e98243a90f6e1750e4abb514.png" group-title="LATINO CINE TV",MX | GOLDEN PREMIER ESTE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129281
+#EXTINF:-1 tvg-id="CMEXHST" tvg-name="MX | CINE MEXICANO" tvg-logo="https://mirror.streamhubtv.ca:443/images/45d85835b2406cb2dde4945fe29c7359.png" group-title="LATINO CINE TV",MX | CINE MEXICANO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129282
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="MX | CINECANAL FHD" tvg-logo="https://mirror.streamhubtv.ca:443/images/9ec89d0443ce1972581876c691b20a7d.png" group-title="LATINO CINE TV",MX | CINECANAL FHD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129283
+#EXTINF:-1 tvg-name="LAT | CINE DC FILM HD" tvg-logo="https://www.pngitem.com/pimgs/m/7-73355_transparent-dinamita-png-cinema-dinamita-png-download.png" group-title="LATINO CINE TV",LAT | CINE DC FILM HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129284
+#EXTINF:-1 tvg-id="EL: BABY TV" tvg-name="SUR | HBO HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/08242e4d2181c85e80f671ce475377af.png" group-title="LATINO CINE TV",SUR | HBO HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129285
+#EXTINF:-1 tvg-id="AR: HBO PLUS ESTE" tvg-name="SUR | HBO PLUS HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/3306791ad3486bb04e7bcf3bcbfd4eef.png" group-title="LATINO CINE TV",SUR | HBO PLUS HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129286
+#EXTINF:-1 tvg-id="AR: HBO 2" tvg-name="SUR | HBO 2 HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/3a3b1eab500efc30fbfc72cabfa76082.png" group-title="LATINO CINE TV",SUR | HBO 2 HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129287
+#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="ARG | HBO MUNDI" tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hbomundicolor.png.cc01ec854c23d1498a995a4fc37d22a9.png" group-title="LATINO CINE TV",ARG | HBO MUNDI
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129288
+#EXTINF:-1 tvg-id="AR: MAX UP" tvg-name="SUR | HBO POP" tvg-logo="https://mirror.streamhubtv.ca:443/images/ed61ca11945ae17b4c6d2a66b3af5231.png" group-title="LATINO CINE TV",SUR | HBO POP
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129289
+#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="MX | HBO XTREME HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/9f395adcbaab0d6a7fdfd95d7f3f4255.png" group-title="LATINO CINE TV",MX | HBO XTREME HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129290
+#EXTINF:-1 tvg-id="HBOFMHD" tvg-name="SUR | HBO FAMILY HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/8e6e837f45e098e193038260685cb3e3.png" group-title="LATINO CINE TV",SUR | HBO FAMILY HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129291
+#EXTINF:-1 tvg-id="AR: HBO SIGNATURE HD" tvg-name="SUR | HBO SIGNATURE HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/41db0c5e90d44dd4b4dac9dccc9d40a1.png" group-title="LATINO CINE TV",SUR | HBO SIGNATURE HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129292
+#EXTINF:-1 tvg-id="AR: CINEMAX" tvg-name="SUR | CINEMAX" tvg-logo="https://mirror.streamhubtv.ca:443/images/8f38da4b9b9342a54c8ddc112e6a4fd4.png" group-title="LATINO CINE TV",SUR | CINEMAX
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129293
+#EXTINF:-1 tvg-name="ARG | SPACE HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/0b216c337ab62267aec75a8e64f86d3c.png" group-title="LATINO CINE TV",ARG | SPACE HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129294
+#EXTINF:-1 tvg-name="SUR | CINECANAL" tvg-logo="https://mirror.streamhubtv.ca:443/images/7c7c61752858eb1c74082521261e1d28.png" group-title="LATINO CINE TV",SUR | CINECANAL
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129295
+#EXTINF:-1 tvg-id="AR: TNT" tvg-name="SUR | TNT HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/e02ebd6cf7762c8d9548aa4193f7c06e.png" group-title="LATINO CINE TV",SUR | TNT HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129296
+#EXTINF:-1 tvg-id="AR: TNT SERIES" tvg-name="SUR | TNT SERIES HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/6ba0cf86e59286f21cac06e2a812536e.png" group-title="LATINO CINE TV",SUR | TNT SERIES HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129297
+#EXTINF:-1 tvg-id="MX - FX" tvg-name="SUR | FX HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/c1d7629c1a588c870ae895dcb54b6619.png" group-title="LATINO CINE TV",SUR | FX HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129298
+#EXTINF:-1 tvg-id="AR: SONY" tvg-name="ARG | SONY SD" tvg-logo="https://static.epg.best/br/Sony.br.png" group-title="LATINO CINE TV",ARG | SONY SD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129299
+#EXTINF:-1 tvg-id="AR: WARNER CHANNEL" tvg-name="SUR | WARNER HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/8d2b71c1419dd8a735a8b93fff632bf6.png" group-title="LATINO CINE TV",SUR | WARNER HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129300
+#EXTINF:-1 tvg-name="SUR | UNIVERSAL CHANNEL HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/abb11ea09ce3252ef2fdf81fc324b88c.png" group-title="LATINO CINE TV",SUR | UNIVERSAL CHANNEL HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129301
+#EXTINF:-1 tvg-id="AXNANHC" tvg-name="SUR | AXN" tvg-logo="https://mirror.streamhubtv.ca:443/images/24507a9c593a56cc3ec6315e61b49fee.png" group-title="LATINO CINE TV",SUR | AXN
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129302
+#EXTINF:-1 tvg-id="STULCOH" tvg-name="SUR | STUDIO UNIVERSAL HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/a03c6d414ba7d118506a28e4a618445c.png" group-title="LATINO CINE TV",SUR | STUDIO UNIVERSAL HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129303
+#EXTINF:-1 tvg-id="AR: AE MUNDO" tvg-name="SUR | A&E" tvg-logo="https://mirror.streamhubtv.ca:443/images/61391dbc3777d6ae3361bfa4e40eae32.png" group-title="LATINO CINE TV",SUR | A&E
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129304
+#EXTINF:-1 tvg-id="AMCAAMC" tvg-name="SUR | AMC HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/68271f533c2ea1941772cdb2982b152d.png" group-title="LATINO CINE TV",SUR | AMC HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129305
+#EXTINF:-1 tvg-id="AR: SYFY" tvg-name="SUR | SYFY HD" tvg-logo="https://static.epg.best/de/Syfy.de.png" group-title="LATINO CINE TV",SUR | SYFY HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129306
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="MX | UNIVERSAL TV" tvg-logo="https://mirror.streamhubtv.ca:443/images/abb11ea09ce3252ef2fdf81fc324b88c.png" group-title="LATINO CINE TV",MX | UNIVERSAL TV
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129307
+#EXTINF:-1 tvg-id="CanalDHE.co" tvg-name="CANAL DHE SD" tvg-logo="https://static.epg.best/co/CanalDHE.co.png" group-title="LATINO CINE TV",CANAL DHE SD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129308
+#EXTINF:-1 tvg-id="CCLASIC" tvg-name="MX | CINE CLASSICO" tvg-logo="https://mirror.streamhubtv.ca:443/images/2daf8a0cb24cf06020a332b7165cbae3.png" group-title="LATINO CINE TV",MX | CINE CLASSICO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129309
+#EXTINF:-1 tvg-id="PARMDA" tvg-name="SUR | PARAMOUNT CHANNEL SD" tvg-logo="https://mirror.streamhubtv.ca:443/images/12a171a4c616f398c636128fefe9f620.png" group-title="LATINO CINE TV",SUR | PARAMOUNT CHANNEL SD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129310
+#EXTINF:-1 tvg-name="MX | DE PELICULA CLASSICO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/DPel%C3%ADculaCl%C3%A1sico_2021.svg/revision/latest/scale-to-width-down/340?cb=20210128110405" group-title="LATINO CINE TV",MX | DE PELICULA CLASSICO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129311
+#EXTINF:-1 tvg-name="LA | STARZ ENCORE ESPAÑOL" tvg-logo="https://mirror.streamhubtv.ca:443/images/1dc1ef4366391551569bca48be0b9d15.png" group-title="LATINO CINE TV",LA | STARZ ENCORE ESPAÑOL
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129312
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="UNIVERSAL REALITY" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/7e107481-768a-41ee-889c-7d1ca80b2cd2.png" group-title="LATINO CINE TV",UNIVERSAL REALITY
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129313
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://mirror.streamhubtv.ca:443/images/6fdbc98fdf7a63b8653ff79c44b80e7d.png" group-title="LATINO CINE TV",UNIVERSAL CINEMA
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129314
+#EXTINF:-1 tvg-name="UNIVERSAL CRIME" tvg-logo="https://mirror.streamhubtv.ca:443/images/a99e9a48217153cc94a6513aa30d774d.png" group-title="LATINO CINE TV",UNIVERSAL CRIME
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129315
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://images.istreamplanet.net/w_300,c_limit/dtv-latam-prod/5a59c443-ff70-4c4b-b624-de441a7a463d.png" group-title="LATINO CINE TV",UNIVERSAL PREMIERE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129316
+#EXTINF:-1 tvg-id="FOXLAH" tvg-name="STAR CHANNEL SD" tvg-logo="https://mirror.streamhubtv.ca:443/images/ff6d20270361322391eb53f23878e5ad.png" group-title="LATINO CINE TV",STAR CHANNEL SD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129317
+#EXTINF:-1 tvg-id="FOXLAH" tvg-name="STAR CHANNEL HD" tvg-logo="https://mirror.streamhubtv.ca:443/images/ff6d20270361322391eb53f23878e5ad.png" group-title="LATINO CINE TV",STAR CHANNEL HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129318
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL FHD" group-title="LATINO CINE TV",STAR CHANNEL FHD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129319
+#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://mirror.streamhubtv.ca:443/images/47f0f5a30218fe989f0af3b3ca11a49a.png" group-title="LATINO CINE TV",UNIVERSAL COMEDY
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/129320
+#EXTINF:-1 tvg-name="LAT | ANIMAL PLANET (MX)" tvg-logo="https://static.epg.best/co/AnimalPlanet.co.png" group-title="LATINO ENTRETENIMIENTO",LAT | ANIMAL PLANET (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135338
+#EXTINF:-1 tvg-name="LAT | COMEDY CENTRAL (MX)" tvg-logo="https://static.epg.best/nz/ComedyCentral.nz.png" group-title="LATINO ENTRETENIMIENTO",LAT | COMEDY CENTRAL (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135339
+#EXTINF:-1 tvg-name="LAT | DISCOVERY CHANNEL (MX)" tvg-logo="https://static.epg.best/ru/DiscoveryChannel.ru.png" group-title="LATINO ENTRETENIMIENTO",LAT | DISCOVERY CHANNEL (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135340
+#EXTINF:-1 tvg-name="LAT | DISCOVERY FAMILIA HD" group-title="LATINO ENTRETENIMIENTO",LAT | DISCOVERY FAMILIA HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135341
+#EXTINF:-1 tvg-name="LAT | DISCOVERY H&H (MX)" tvg-logo="https://static.epg.best/gb/HomeandHealth.uk.png" group-title="LATINO ENTRETENIMIENTO",LAT | DISCOVERY H&H (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135342
+#EXTINF:-1 tvg-name="LAT | DISCOVERY SCIENCE" tvg-logo="https://static.epg.best/ru/DiscoveryScience.ru.png" group-title="LATINO ENTRETENIMIENTO",LAT | DISCOVERY SCIENCE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135343
+#EXTINF:-1 tvg-name="LAT | DISCOVERY THEATER (MX)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="LATINO ENTRETENIMIENTO",LAT | DISCOVERY THEATER (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135344
+#EXTINF:-1 tvg-name="LAT | DISCOVERY TLC (MX)" tvg-logo="https://static.epg.best/ru/TLC.ru.png" group-title="LATINO ENTRETENIMIENTO",LAT | DISCOVERY TLC (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135345
+#EXTINF:-1 tvg-name="LAT | DISCOVERY TURBO" tvg-logo="https://static.epg.best/br/DiscoveryTurbo.br.png" group-title="LATINO ENTRETENIMIENTO",LAT | DISCOVERY TURBO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135346
+#EXTINF:-1 tvg-name="LAT | DISCOVERY WORLD" tvg-logo="https://static.epg.best/no/DiscoveryWorld.no.png" group-title="LATINO ENTRETENIMIENTO",LAT | DISCOVERY WORLD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135347
+#EXTINF:-1 tvg-name="LAT | E! ENTERTAINMENT" tvg-logo="https://static.epg.best/nz/EEntertainment.nz.png" group-title="LATINO ENTRETENIMIENTO",LAT | E! ENTERTAINMENT
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135348
+#EXTINF:-1 tvg-name="LAT | EL GOURMET HD (CO)" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="LATINO ENTRETENIMIENTO",LAT | EL GOURMET HD (CO)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135349
+#EXTINF:-1 tvg-name="LAT | ESTRELLAS TV HD" group-title="LATINO ENTRETENIMIENTO",LAT | ESTRELLAS TV HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135350
+#EXTINF:-1 tvg-name="LAT | FOOD NETWORK (MX)" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | FOOD NETWORK (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135351
+#EXTINF:-1 tvg-name="LAT | GALAVISION ATLANTA HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="LATINO ENTRETENIMIENTO",LAT | GALAVISION ATLANTA HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135352
+#EXTINF:-1 tvg-name="LAT | GALAVISION EAST HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="LATINO ENTRETENIMIENTO",LAT | GALAVISION EAST HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135353
+#EXTINF:-1 tvg-name="LAT | GALAVISION FRESNO HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="LATINO ENTRETENIMIENTO",LAT | GALAVISION FRESNO HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135354
+#EXTINF:-1 tvg-name="LAT | GALAVISION HOUSTON HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="LATINO ENTRETENIMIENTO",LAT | GALAVISION HOUSTON HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135355
+#EXTINF:-1 tvg-name="LAT | GALAVISION LAS VEGAS HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="LATINO ENTRETENIMIENTO",LAT | GALAVISION LAS VEGAS HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135356
+#EXTINF:-1 tvg-name="LAT | GALAVISION MIAMI HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="LATINO ENTRETENIMIENTO",LAT | GALAVISION MIAMI HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135357
+#EXTINF:-1 tvg-name="LAT | GALAVISION NY HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="LATINO ENTRETENIMIENTO",LAT | GALAVISION NY HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135358
+#EXTINF:-1 tvg-name="LAT | GALAVISION PHILADELPHIA HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="LATINO ENTRETENIMIENTO",LAT | GALAVISION PHILADELPHIA HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135359
+#EXTINF:-1 tvg-name="LAT | GALAVISION SACRAMENTO HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="LATINO ENTRETENIMIENTO",LAT | GALAVISION SACRAMENTO HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135360
+#EXTINF:-1 tvg-name="LAT | GALAVISION SAN ANTONIO HD" tvg-logo="http://tvgolatino.com:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="LATINO ENTRETENIMIENTO",LAT | GALAVISION SAN ANTONIO HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135361
+#EXTINF:-1 tvg-name="LAT | GALAVISION SAN FRANCISCO HD" tvg-logo="http://tvgolatino.com:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="LATINO ENTRETENIMIENTO",LAT | GALAVISION SAN FRANCISCO HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135362
+#EXTINF:-1 tvg-name="LAT | GALAVISION SAT LAKE HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="LATINO ENTRETENIMIENTO",LAT | GALAVISION SAT LAKE HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135363
+#EXTINF:-1 tvg-name="LAT | GALAVISION WEST HD" tvg-logo="http://tvgolatino.com:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="LATINO ENTRETENIMIENTO",LAT | GALAVISION WEST HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135364
+#EXTINF:-1 tvg-name="LAT | HGTV EN ESPAÑOL" tvg-logo="https://www.ipuntotv.com/IMAGES/HGTV-logo.jpg" group-title="LATINO ENTRETENIMIENTO",LAT | HGTV EN ESPAÑOL
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135365
+#EXTINF:-1 tvg-name="LAT | HISTORY (MX)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="LATINO ENTRETENIMIENTO",LAT | HISTORY (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135366
+#EXTINF:-1 tvg-name="LAT | HISTORY 2" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="LATINO ENTRETENIMIENTO",LAT | HISTORY 2
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135367
+#EXTINF:-1 tvg-name="LAT | HISTORY HD (CO)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="LATINO ENTRETENIMIENTO",LAT | HISTORY HD (CO)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135368
+#EXTINF:-1 tvg-name="LAT | HOLA TV" tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="LATINO ENTRETENIMIENTO",LAT | HOLA TV
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135369
+#EXTINF:-1 tvg-name="LAT | INVESTIGATION DISCOVERY (MX)" tvg-logo="https://static.epg.best/no/InvestigationDiscovery.no.png" group-title="LATINO ENTRETENIMIENTO",LAT | INVESTIGATION DISCOVERY (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135370
+#EXTINF:-1 tvg-name="LAT | LAS ESTRELLAS" tvg-logo="https://static.epg.best/es/CanalEstrellas.es.png" group-title="LATINO ENTRETENIMIENTO",LAT | LAS ESTRELLAS
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135371
+#EXTINF:-1 tvg-name="LAT | LIFETIME (MX)" tvg-logo="https://static.epg.best/th/Lifetime.th.png" group-title="LATINO ENTRETENIMIENTO",LAT | LIFETIME (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135372
+#EXTINF:-1 tvg-name="LAT | LOVE NATURE HD" tvg-logo="https://static.epg.best/nl/LoveNature.nl.png" group-title="LATINO ENTRETENIMIENTO",LAT | LOVE NATURE HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135373
+#EXTINF:-1 tvg-name="LAT | MAS CHIC" tvg-logo="https://static.epg.best/mx/MasChicTV.mx.png" group-title="LATINO ENTRETENIMIENTO",LAT | MAS CHIC
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135374
+#EXTINF:-1 tvg-name="LAT | MEGA TV" group-title="LATINO ENTRETENIMIENTO",LAT | MEGA TV
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135375
+#EXTINF:-1 tvg-name="LAT | NATGEO (MX)" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="LATINO ENTRETENIMIENTO",LAT | NATGEO (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135376
+#EXTINF:-1 tvg-name="LAT | NATGEO MUNDO" group-title="LATINO ENTRETENIMIENTO",LAT | NATGEO MUNDO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135377
+#EXTINF:-1 tvg-name="LAT | NATGEO WILD (MX)" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="LATINO ENTRETENIMIENTO",LAT | NATGEO WILD (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135378
+#EXTINF:-1 tvg-name="LAT | NBC UNIVERSO" group-title="LATINO ENTRETENIMIENTO",LAT | NBC UNIVERSO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135379
+#EXTINF:-1 tvg-name="LAT | TBS HD (MX)" tvg-logo="https://static.epg.best/mx/TBS.mx.png" group-title="LATINO ENTRETENIMIENTO",LAT | TBS HD (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135380
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO BOSTON" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO BOSTON
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135381
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO CHICAGO" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO CHICAGO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135382
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO DALLAS" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO DALLAS
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135383
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO DENVER" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO DENVER
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135384
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO FRESNO" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO FRESNO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135385
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO HARLINGEN" tvg-logo="http://tvgolatino.com:8080/images/253ef8263719554c24054c39cf9e7436.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO HARLINGEN
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135386
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO HOUSTON" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO HOUSTON
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135387
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO INTERNACIONAL" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO INTERNACIONAL
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135388
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO INTERNACIONAL FULL HD" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO INTERNACIONAL FULL HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135389
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO LAS VEGAS" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO LAS VEGAS
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135390
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO LOS ANGELES" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO LOS ANGELES
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135391
+#EXTINF:-1 tvg-id="TelemundoWSCV.us" tvg-name="LAT | TELEMUNDO MIAMI" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO MIAMI
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135392
+#EXTINF:-1 tvg-id="TelemundoWNJU.us" tvg-name="LAT | TELEMUNDO NEW YORK" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO NEW YORK
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135393
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO PHILADELPHIA" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO PHILADELPHIA
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135394
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO PHOENIX" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO PHOENIX
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135395
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO SAN ANTONIO" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO SAN ANTONIO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135396
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO SAN FRANCISCO" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO SAN FRANCISCO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135397
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO TAMPA" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO TAMPA
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135398
+#EXTINF:-1 tvg-name="LAT | TELEMUNDO TUCSON" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO TUCSON
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135399
+#EXTINF:-1 tvg-name="LAT | TRU TV (MX)" tvg-logo="https://static.epg.best/br/truTV.br.png" group-title="LATINO ENTRETENIMIENTO",LAT | TRU TV (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135400
+#EXTINF:-1 tvg-name="LAT | TRU TV FULL HD (MX)" tvg-logo="http://tvgolatino.com:8080/images/cf9cf9de8cbba988e185eb90eacb3a6f.png" group-title="LATINO ENTRETENIMIENTO",LAT | TRU TV FULL HD (MX)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135401
+#EXTINF:-1 tvg-name="LAT | UNIMAS ALBUQUERQUE SANTA FE HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS ALBUQUERQUE SANTA FE HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135402
+#EXTINF:-1 tvg-name="LAT | UNIMAS ATLANTA HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS ATLANTA HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135403
+#EXTINF:-1 tvg-name="LAT | UNIMAS AUSTIN HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS AUSTIN HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135404
+#EXTINF:-1 tvg-name="LAT | UNIMAS CLEVELAND HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS CLEVELAND HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135406
+#EXTINF:-1 tvg-name="LAT | UNIMAS EAST HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS EAST HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135407
+#EXTINF:-1 tvg-name="LAT | UNIMAS FRESNO HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS FRESNO HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135408
+#EXTINF:-1 tvg-name="LAT | UNIMAS HOUSTON HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS HOUSTON HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135409
+#EXTINF:-1 tvg-name="LAT | UNIMAS LAS VEGAS HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS LAS VEGAS HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135410
+#EXTINF:-1 tvg-name="LAT | UNIMAS MIAMI HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS MIAMI HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135411
+#EXTINF:-1 tvg-name="LAT | UNIMAS NY HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS NY HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135412
+#EXTINF:-1 tvg-name="LAT | UNIMAS PHILADELPHIA HD" tvg-logo="http://tvgolatino.com:8080/images/875b91a83182e2da070edd8f88f2104a.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS PHILADELPHIA HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135413
+#EXTINF:-1 tvg-name="LAT | UNIMAS PHOENIX HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS PHOENIX HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135414
+#EXTINF:-1 tvg-name="LAT | UNIMAS RALEIGH HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS RALEIGH HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135415
+#EXTINF:-1 tvg-name="LAT | UNIMAS SACRAMENTO HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS SACRAMENTO HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135416
+#EXTINF:-1 tvg-name="LAT | UNIMAS SALT LAKE HD" tvg-logo="http://tvgolatino.com:8080/images/875b91a83182e2da070edd8f88f2104a.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS SALT LAKE HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135417
+#EXTINF:-1 tvg-name="LAT | UNIMAS SAN ANTONIO HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS SAN ANTONIO HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135418
+#EXTINF:-1 tvg-name="LAT | UNIMAS SAN FRANCISCO HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS SAN FRANCISCO HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135419
+#EXTINF:-1 tvg-name="LAT | UNIMAS WEST HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIMAS WEST HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135420
+#EXTINF:-1 tvg-name="LAT | UNIVISION ALBUQUERQUE SANTA FE HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION ALBUQUERQUE SANTA FE HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135421
+#EXTINF:-1 tvg-name="LAT | UNIVISION ATLANTA HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION ATLANTA HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135422
+#EXTINF:-1 tvg-name="LAT | UNIVISION AUSTIN HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION AUSTIN HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135423
+#EXTINF:-1 tvg-id="UnivisionWGBO.us" tvg-name="LAT | UNIVISION CHICAGO HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION CHICAGO HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135424
+#EXTINF:-1 tvg-name="LAT | UNIVISION CLEVELAND HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION CLEVELAND HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135425
+#EXTINF:-1 tvg-name="LAT | UNIVISION DALLAS HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION DALLAS HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135426
+#EXTINF:-1 tvg-name="LAT | UNIVISION EAST HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION EAST HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135427
+#EXTINF:-1 tvg-name="LAT | UNIVISION FORT LAUDERDALE HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION FORT LAUDERDALE HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135428
+#EXTINF:-1 tvg-name="LAT | UNIVISION HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135429
+#EXTINF:-1 tvg-name="LAT | UNIVISION HOUSTON HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION HOUSTON HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135430
+#EXTINF:-1 tvg-name="LAT | UNIVISION LOS ANGELES HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION LOS ANGELES HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135431
+#EXTINF:-1 tvg-id="UnivisionWLTV.us" tvg-name="LAT | UNIVISION MIAMI HD" tvg-logo="http://tvgolatino.com:8080/images/397117255b707a1cb80c456ad47fc4de.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION MIAMI HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135432
+#EXTINF:-1 tvg-name="LAT | UNIVISION NOTICIAS HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION NOTICIAS HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135433
+#EXTINF:-1 tvg-id="UnivisionWXTV.us" tvg-name="LAT | UNIVISION NY HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION NY HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135434
+#EXTINF:-1 tvg-name="LAT | UNIVISION PHILADELPHIA HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION PHILADELPHIA HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135435
+#EXTINF:-1 tvg-name="LAT | UNIVISION PHOENIX HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION PHOENIX HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135436
+#EXTINF:-1 tvg-name="LAT | UNIVISION PUERTO RICO HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION PUERTO RICO HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135437
+#EXTINF:-1 tvg-name="LAT | UNIVISION RALEIGH HD" tvg-logo="http://tvgolatino.com:8080/images/397117255b707a1cb80c456ad47fc4de.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION RALEIGH HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135438
+#EXTINF:-1 tvg-name="LAT | UNIVISION SALT LAKE HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION SALT LAKE HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135439
+#EXTINF:-1 tvg-name="LAT | UNIVISION SAN ANTONIO HD" tvg-logo="http://tvgolatino.com:8080/images/397117255b707a1cb80c456ad47fc4de.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION SAN ANTONIO HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135440
+#EXTINF:-1 tvg-name="LAT | UNIVISION SAN FRANCISCO HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION SAN FRANCISCO HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135441
+#EXTINF:-1 tvg-name="LAT | UNIVISION WEST HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="LATINO ENTRETENIMIENTO",LAT | UNIVISION WEST HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/135442
+#EXTINF:-1 tvg-id="UniversidadAutonomaTemuco(UATV).cl" tvg-name="LAT: ATV" group-title="LATINO",LAT: ATV
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249605
+#EXTINF:-1 tvg-id="DSCE" tvg-name="LAT: DISCOVERY EN ESPANOL" tvg-logo="https://tenwafers.xyz:443/images/VXiz89LY2q-BpHNtB3gBkftrbR4Ip8YNxiaPjS4gP2RTzdgUQd1_awXDwxpV70jc2tIQrerayZxdA7I2rKdCy_5eJ3hoH7ULLEjgA8GaRqU.png" group-title="LATINO",LAT: DISCOVERY EN ESPANOL
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249603
+#EXTINF:-1 tvg-name="LAT: WILLAX" group-title="LATINO",LAT: WILLAX
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249604
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="USL: 24 HORAS" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoi8089W5_xmpNsjvp8fSyJenJnBJSsrSaK1zSo5-I9VoQ.png" group-title="LATINO",USL: 24 HORAS
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249522
+#EXTINF:-1 tvg-id="ES: ATRESERIES" tvg-name="USL: A3 SERIES" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUojVwlQhahFk-gxfycS9nxgF16AVcbWz27QR9C2CeuZO5g.png" group-title="LATINO",USL: A3 SERIES
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249523
+#EXTINF:-1 tvg-id="ES: AXN WHITE" tvg-name="USL: AXN WHITE" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpWCJONh4bRscs62ip4OEqWw.png" group-title="LATINO",USL: AXN WHITE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249527
+#EXTINF:-1 tvg-id="AYMHD" tvg-name="USL: AYM SPORTS" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoiI4kpAba1o3MdHqKrag0EmGGZ49rl2-q5VOfNLGFYy-Q.png" group-title="LATINO",USL: AYM SPORTS
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249528
+#EXTINF:-1 tvg-id="BANDAHD" tvg-name="USL: BANDAMAX" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUogKhHIHlMzf-2rU0q4c4nMQQc2q6co6V3qP7tb0U71xeg.png" group-title="LATINO",USL: BANDAMAX
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249529
+#EXTINF:-1 tvg-id="22 THE POINT PITTSBURGH PA WPNT" tvg-name="USL: BARCA TV" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUogmFyPrls1gOSahXu8XuNxvqVFdCL4by9MP7aqnMxi-gA.png" group-title="LATINO",USL: BARCA TV
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249530
+#EXTINF:-1 tvg-id="ES: BE MAD" tvg-name="USL: BE MAD" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqptfMAq1VijR-J3SngT9yDAA.PNG" group-title="LATINO",USL: BE MAD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249531
+#EXTINF:-1 tvg-id="ES: BLAZE" tvg-name="USL: BLAZE" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUojDQzByO6_BpwAnHGk05gi4.png" group-title="LATINO",USL: BLAZE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249532
+#EXTINF:-1 tvg-id="C13CABH" tvg-name="USL: CANAL 13(CL)" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpzL80Riubk8800_7746g0DkFILZbfn0U4SP6b_4oPG-c.PNG" group-title="LATINO",USL: CANAL 13(CL)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249594
+#EXTINF:-1 tvg-id="CNL22" tvg-name="USL: CANAL 22 INTERNACIONAL" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoibNtk-WY3ee39mWj7LxQDbTwvsAlrdMKGN4YaTckhwX5QqhkqEgBDiCXxucrH9Tzc.png" group-title="LATINO",USL: CANAL 22 INTERNACIONAL
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249533
+#EXTINF:-1 tvg-id="ES: CANAL SUR ANDALUCÍA" tvg-name="USL: CANAL SUR A" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUogMBfEKPbynrH6mfPYxd82Tfc7bjPX-XZwcS7GpTrwXBQ.png" group-title="LATINO",USL: CANAL SUR A
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249534
+#EXTINF:-1 tvg-id="CARAHD" tvg-name="USL: CARACOL TV" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoji7cwp1pW_GIwup-vpZwsEkSF1hhRjPv4zjjCCF8FByg.png" group-title="LATINO",USL: CARACOL TV
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249535
+#EXTINF:-1 tvg-id="CARAI" tvg-name="USL: CARACOL TV INTERNACIONAL" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoji7cwp1pW_GIwup-vpZwsEkSF1hhRjPv4zjjCCF8FByg.png" group-title="LATINO",USL: CARACOL TV INTERNACIONAL
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249536
+#EXTINF:-1 tvg-id="ES: CAZA Y PESCA" tvg-name="USL: CAZA Y PESCA" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUohYRxNJDkamlpUQ3uI-OMy3GVVZd_VIhL0tuCqEc0SH5g.png" group-title="LATINO",USL: CAZA Y PESCA
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249537
+#EXTINF:-1 tvg-id="CDF" tvg-name="USL: CDF PREMIUM(CL)" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpeRJupNYt7pLpCmcGsNBoUP0CdEKNqYhA_PTRpZCiFSM.PNG" group-title="LATINO",USL: CDF PREMIUM(CL)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249596
+#EXTINF:-1 tvg-id="CENTROA" tvg-name="USL: CENTROAMERICA TV" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUogZrswFnxFze5_v9oRLqToc7BreKCuX6qvQiDOC9q9YvQ.png" group-title="LATINO",USL: CENTROAMERICA TV
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249538
+#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="USL: CHILEVISION" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpJ9gSVuQrWtoruO1hQuVBkg.PNG" group-title="LATINO",USL: CHILEVISION
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249597
+#EXTINF:-1 tvg-id="CINESTE" tvg-name="USL: CINE ESTELAR" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUogZrswFnxFze5_v9oRLqToc7BreKCuX6qvQiDOC9q9YvQ.png" group-title="LATINO",USL: CINE ESTELAR
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249539
+#EXTINF:-1 tvg-id="CINL" tvg-name="USL: CINE LATINO" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpa3kK4C9fXFAHoiM3Z7F1FQ.PNG" group-title="LATINO",USL: CINE LATINO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249543
+#EXTINF:-1 tvg-id="CMEX" tvg-name="USL: CINE MEXICANO" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoiPk-qD53HvvWGffjAuEtMdjTnn-la5bwWgpTBCAJBTUg.png" group-title="LATINO",USL: CINE MEXICANO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249540
+#EXTINF:-1 tvg-id="CINENOS" tvg-name="USL: CINE NOSTALGIA" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUogZrswFnxFze5_v9oRLqToc7BreKCuX6qvQiDOC9q9YvQ.png" group-title="LATINO",USL: CINE NOSTALGIA
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249541
+#EXTINF:-1 tvg-id="CINSONY" tvg-name="USL: CINE SONY" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqp5wuFgPHjJkGtJ6UweWbFiw.PNG" group-title="LATINO",USL: CINE SONY
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249542
+#EXTINF:-1 tvg-id="CINELWH" tvg-name="USL: CINEMAX" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpQ3VRB65UOH6RldmKXioJPA.png" group-title="LATINO",USL: CINEMAX
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249544
+#EXTINF:-1 tvg-id="COCINA" tvg-name="USL: COCINA" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUogVeEOLKQeraxu4HC8F-HkhxW4IsAmXBBBYxbka64bZwQ.png" group-title="LATINO",USL: COCINA
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249545
+#EXTINF:-1 tvg-id="ECUTV" tvg-name="USL: ECUADOR TV" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUojVJvnNrSUheyMWNQrYtN_rKTtg0JgZZJFE5Qi3379ijA.png" group-title="LATINO",USL: ECUADOR TV
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249546
+#EXTINF:-1 tvg-id="ECUAVI" tvg-name="USL: ECUAVISA INTERNACIONAL" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUojVJvnNrSUheyMWNQrYtN_rKTtg0JgZZJFE5Qi3379ijA.png" group-title="LATINO",USL: ECUAVISA INTERNACIONAL
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249547
+#EXTINF:-1 tvg-id="ESPN2M" tvg-name="USL: ESPN 2" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUojClNeyWbVAhVntjenLX4EFZD-C5ZHEVrRnkqR8QySo9w.png" group-title="LATINO",USL: ESPN 2
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249548
+#EXTINF:-1 tvg-id="ES: EUROSPORT 1" tvg-name="USL: EUROSPORT 1" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoifcO0giv-gD2-I4rC9mR67khGcF4r_lhCnTOPqWUY04g.png" group-title="LATINO",USL: EUROSPORT 1
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249549
+#EXTINF:-1 tvg-id="ES: EUROSPORT 2" tvg-name="USL: EUROSPORT 2" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoifcO0giv-gD2-I4rC9mR67GdO1StzZzzcWFIjzL7XGpg.png" group-title="LATINO",USL: EUROSPORT 2
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249550
+#EXTINF:-1 tvg-id="FXDEPC" tvg-name="USL: FOX DEPORTES" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUogTH6vQkvgYuNcvS-CbQQ2RYYEpUC-AaaQOZr0i6ydjGA.png" group-title="LATINO",USL: FOX DEPORTES
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249551
+#EXTINF:-1 tvg-id="EL: GALAVISION EAST" tvg-name="USL: GALAVISION EAST" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoh2162wJnwHir78Gp0USBLlh2yS5Z7jLxb_C_EQ80F8QQ.png" group-title="LATINO",USL: GALAVISION EAST
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249552
+#EXTINF:-1 tvg-id="EL: GALAVISION WEST" tvg-name="USL: GALAVISION WEST" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoh2162wJnwHir78Gp0USBLlVnt1EQbpVa8SgsqkanEtsg.png" group-title="LATINO",USL: GALAVISION WEST
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249553
+#EXTINF:-1 tvg-id="GOLTVLE" tvg-name="USL: GOL TV" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUojg4tiwOF8sHQu_SZlJ1Mqu.png" group-title="LATINO",USL: GOL TV
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249554
+#EXTINF:-1 tvg-id="H2LATH" tvg-name="USL: H2" tvg-logo="https://tenwafers.xyz:443/images/VXiz89LY2q-BpHNtB3gBkftrbR4Ip8YNxiaPjS4gP2QB45VCd5k9OZuBPlH_h6NRFsnfkQNb3iv_z1-1DHs5WA.png" group-title="LATINO",USL: H2
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249524
+#EXTINF:-1 tvg-id="HBOCARS" tvg-name="USL: HBO" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUogNhGOvjMbP1SSNhyucM1mB.png" group-title="LATINO",USL: HBO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249555
+#EXTINF:-1 tvg-id="HBOPHDA" tvg-name="USL: HBO 2(AR)" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpS_MIU8qoGQD7dbg1pZL3kg.png" group-title="LATINO",USL: HBO 2(AR)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249525
+#EXTINF:-1 tvg-id="MX: HBO FAMILY" tvg-name="USL: HBO FAMILY(AR)" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpLAcGe5fEPCkNj4Y1LH3bwLN0Jl8xUbz8nNWOS8_z5_I.png" group-title="LATINO",USL: HBO FAMILY(AR)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249526
+#EXTINF:-1 tvg-id="HBOZ" tvg-name="USL: HBO ZONE" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoiod922kovahkAk6yO4Rwn97spJJuBrMirhlPenrh0IHQ.png" group-title="LATINO",USL: HBO ZONE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249556
+#EXTINF:-1 tvg-id="ES: HOLLYWOOD" tvg-name="USL: HOLLYWOOD" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpiiLRk_mHnvS-QOym0S2krQ.png" group-title="LATINO",USL: HOLLYWOOD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249557
+#EXTINF:-1 tvg-id="ES: IBERALIA" tvg-name="USL: IBERALIA TV" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoi9zUKxMg3lMLQPcLUN5QD6AjZkekNQi4mUhWh6OQa7pw.png" group-title="LATINO",USL: IBERALIA TV
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249558
+#EXTINF:-1 tvg-id="ES: LA 1" tvg-name="USL: LA 1" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUojIi4cBp90ltgMVxrlhwhDytB-kfDLwNSH_tBG2XPtkYQ.png" group-title="LATINO",USL: LA 1
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249559
+#EXTINF:-1 tvg-id="ES: LA 2" tvg-name="USL: LA 2" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoiummSh9ZbWnepWZh7JW0QaGd7QJwyH6Eukw2xgrzuOrQ.png" group-title="LATINO",USL: LA 2
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249560
+#EXTINF:-1 tvg-id="LASEXTA" tvg-name="USL: LA SEXTA HD" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoj_Z1ECpVMO2jheKcT47plbcLGPzn66rGhsus9DhVaq5A.png" group-title="LATINO",USL: LA SEXTA HD
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249561
+#EXTINF:-1 tvg-id="MEGAUS" tvg-name="USL: MEGA TV" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoj7NvGNGosJbk20jIapJJeN9V-DaU8gi0jTJGKXidAd7Q.png" group-title="LATINO",USL: MEGA TV
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249563
+#EXTINF:-1 tvg-id="MEGDTV" tvg-name="USL: MEGA TV(PR)" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUogkIobCW1QsEcZht8T_xiE6NGSraXNkVYKO6hC9OuqFZA.png" group-title="LATINO",USL: MEGA TV(PR)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249562
+#EXTINF:-1 tvg-id="ES: MEZZO LIVE" tvg-name="USL: MEZZO LIVE" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqp6xzm8YfYHGnf5rUkppehXw.png" group-title="LATINO",USL: MEZZO LIVE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249564
+#EXTINF:-1 tvg-id="NTN24" tvg-name="USL: NTN24" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUohOw0F-RJnDwa_XHOT7hk5L.png" group-title="LATINO",USL: NTN24
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249565
+#EXTINF:-1 tvg-id="NUESTRT" tvg-name="USL: NUESTRA TELE" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUogyLMTlrASItYFPCUoDDrz3RQwSW25AQve3JZEjOsVY3A.png" group-title="LATINO",USL: NUESTRA TELE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249566
+#EXTINF:-1 tvg-id="PASNLA" tvg-name="USL: PASIONES" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpS87BO76R4J0U_ZpjiWC2ZQ.png" group-title="LATINO",USL: PASIONES
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249567
+#EXTINF:-1 tvg-id="PMAGIC" tvg-name="USL: PERU MAGICO" tvg-logo="https://tenwafers.xyz:443/images/7zpZSZi_VHXRPUd061_8Eik1Y3ePrXGGOyqpCC7VRXw2NHG2oTCF4m0z2cqoW1QhT2z9mmL2N-9XMxYaOFwF0Q.png" group-title="LATINO",USL: PERU MAGICO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249568
+#EXTINF:-1 tvg-id="24" tvg-name="USL: SHOWTIME" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoitTj9YKSoWVQ43a61rgnffkNdBx2GvfoBmPRmQE6djvg.png" group-title="LATINO",USL: SHOWTIME
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249569
+#EXTINF:-1 tvg-id="STZESP" tvg-name="USL: STARZ ENCORE" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUohiybhXiUJM9ijUD_NmLXmx5f9JoFDzvm2aCdxSFqPciw.png" group-title="LATINO",USL: STARZ ENCORE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249570
+#EXTINF:-1 tvg-id="STZENFM" tvg-name="USL: STARZ ENCORE FAMILY" tvg-logo="https://tenwafers.xyz:443/images/7zpZSZi_VHXRPUd061_8EsH4KNMDEjzY_qCcFzBRTZ-y6RXFFdUat-iLA_oydCMvoiYWqmnL0Qrcacio6im_Eg.png" group-title="LATINO",USL: STARZ ENCORE FAMILY
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249571
+#EXTINF:-1 tvg-id="SURPERU" tvg-name="USL: SUR PERU" tvg-logo="https://tenwafers.xyz:443/images/7zpZSZi_VHXRPUd061_8EthCvHQF7pVvR3lMoz_zzXh8TjMSMWapFMaRkB6i_rMAvsrPcWB7zGaZIyUUj0EKJg.png" group-title="LATINO",USL: SUR PERU
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249572
+#EXTINF:-1 tvg-id="TECNTRO" tvg-name="USL: TELECENTRO" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUohePQYlb7yhGWkg_-o3A3JZE--YPg6ygZvGYpZ9E-NtRg.png" group-title="LATINO",USL: TELECENTRO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249573
+#EXTINF:-1 tvg-id="TELECIN" tvg-name="USL: TELECINCO" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpndo4qWNmT4gHhDGz4-dGDQ.png" group-title="LATINO",USL: TELECINCO
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249574
+#EXTINF:-1 tvg-id="ES: TELEDEPORTE" tvg-name="USL: TELEDEPORTE" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpj9Clx5_N5305-4q4nodKJw.png" group-title="LATINO",USL: TELEDEPORTE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249575
+#EXTINF:-1 tvg-id="TELFEAH" tvg-name="USL: TELEFE" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUogSnb4CoGr1195m-3pv6UwdCHF39flG0WFzP6nnhClhbw.png" group-title="LATINO",USL: TELEFE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249576
+#EXTINF:-1 tvg-id="ES: TELEMADRID" tvg-name="USL: TELEMADRID" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpctt4dmIpvqfAkapIEEGZZg.png" group-title="LATINO",USL: TELEMADRID
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249577
+#EXTINF:-1 tvg-id="TMICRO" tvg-name="USL: TELEMICRO(PR)" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUog3O6LqH_sG4VVk-uu-Ai4IyH5LaRDMiZnYeh--ojmYww.png" group-title="LATINO",USL: TELEMICRO(PR)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249578
+#EXTINF:-1 tvg-id="TelemundoWNJU.us" tvg-name="USL: TELEMUNDO EAST" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpACFJKQMJzypWZtD58QTaiWM4Ni4Jk0RoyBVq6g74yz0.png" group-title="LATINO",USL: TELEMUNDO EAST
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249599
+#EXTINF:-1 tvg-id="TELILF" tvg-name="USL: TELEMUNDO INTERNACIONAL" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpdDNUZprLlONcIuAe2ziI-usxtdA0vJlbTYDRe_JbLH4.png" group-title="LATINO",USL: TELEMUNDO INTERNACIONAL
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249598
+#EXTINF:-1 tvg-id="EL: TELEMUNDO LOS ANGELES CA KVEA" tvg-name="USL: TELEMUNDO WEST" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqp23HPfpm0VtwmGo0JTCO0We1pQtvbOIi0P7m-pd8DxKY.png" group-title="LATINO",USL: TELEMUNDO WEST
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249600
+#EXTINF:-1 tvg-id="MX: DISCOVERY TLC" tvg-name="USL: TLC" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpMMtkqiGBpsuAg5P-r_0YUQ.png" group-title="LATINO",USL: TLC
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249579
+#EXTINF:-1 tvg-id="TR3S" tvg-name="USL: TR3S" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoguns3ZjvwX1P60pkHhB4aD.png" group-title="LATINO",USL: TR3S
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249580
+#EXTINF:-1 tvg-name="USL: TUDN" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s7HnKF9q4_9BxBfpyhHjxKH7dhRUoqfhZ0UZWePBpB-XY8PrhJUfz5OXgvb4xILYcQ.png" group-title="LATINO",USL: TUDN
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249593
+#EXTINF:-1 tvg-id="ES: TV CHILE" tvg-name="USL: TV CHILE" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUojL-xyFyJeMvp8Evm24o8yyBNFn5l2dAUq4YjQHK2FZ_w.png" group-title="LATINO",USL: TV CHILE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249581
+#EXTINF:-1 tvg-id="ES: TV3CAT" tvg-name="USL: TV3 CAT" tvg-logo="https://tenwafers.xyz:443/images/VXiz89LY2q-BpHNtB3gBkftrbR4Ip8YNxiaPjS4gP2QB45VCd5k9OZuBPlH_h6NR_IQ4yCfL9ulwni5S1JpQAg.png" group-title="LATINO",USL: TV3 CAT
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249582
+#EXTINF:-1 tvg-id="TVEMPAC" tvg-name="USL: TVE" tvg-logo="https://tenwafers.xyz:443/images/VXiz89LY2q-BpHNtB3gBkftrbR4Ip8YNxiaPjS4gP2QB45VCd5k9OZuBPlH_h6NRf-7vq_Z0uTPnMMFPXILsCw.png" group-title="LATINO",USL: TVE
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249583
+#EXTINF:-1 tvg-id="TVNSTGO" tvg-name="USL: TVN(CL)" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpyYW8pPCQVKwOsw0necWchg.png" group-title="LATINO",USL: TVN(CL)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249595
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="USL: UNIMAS EAST" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqp3TSQ8pHgs7v0jGcEKWs3dA.png" group-title="LATINO",USL: UNIMAS EAST
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249601
+#EXTINF:-1 tvg-id="UNIMASP" tvg-name="USL: UNIMAS WEST" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUohbTgqlrUjQdx_yMerwp-SvXhfMgA_Ord2fJcxNHOsJRw.png" group-title="LATINO",USL: UNIMAS WEST
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249584
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="USL: UNIVISION EAST" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUojlLSh263kkaIAKgbzYaZl9_4it15QgCiPMI54bGf4jKA.png" group-title="LATINO",USL: UNIVISION EAST
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249591
+#EXTINF:-1 tvg-id="EL: UNIVISION SAN FRANCISCO CA KDTV" tvg-name="USL: UNIVISION WEST" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpTfgFjAfX5EBy5-l2mzd5q_8ugi6Iz-0ZM7C7SH_0NFk.png" group-title="LATINO",USL: UNIVISION WEST
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249592
+#EXTINF:-1 tvg-id="VME" tvg-name="USL: V-ME" tvg-logo="https://tenwafers.xyz:443/images/VXiz89LY2q-BpHNtB3gBkftrbR4Ip8YNxiaPjS4gP2QB45VCd5k9OZuBPlH_h6NRZ4rlk8N3SClyLp21t50-ig.png" group-title="LATINO",USL: V-ME
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249585
+#EXTINF:-1 tvg-id="EL: VE PLUS" tvg-name="USL: VEPLUS" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoj3M4S4CXr3r2KxGXhoMHxATO9UKzpOBm5Lp1d9PR1V5w.png" group-title="LATINO",USL: VEPLUS
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249586
+#EXTINF:-1 tvg-id="VROLA" tvg-name="USL: VIDEO ROLA" tvg-logo="https://tenwafers.xyz:443/images/VXiz89LY2q-BpHNtB3gBkftrbR4Ip8YNxiaPjS4gP2QB45VCd5k9OZuBPlH_h6NRCT_B-kEgFeQXaR1c649f4Q.png" group-title="LATINO",USL: VIDEO ROLA
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249587
+#EXTINF:-1 tvg-id="VMOV" tvg-name="USL: VIENDOMOVIES" tvg-logo="https://tenwafers.xyz:443/images/VXiz89LY2q-BpHNtB3gBkftrbR4Ip8YNxiaPjS4gP2QB45VCd5k9OZuBPlH_h6NRwE1lCgCrCeiM7KIeJ1ch_urP7XXAgMePjnQ-mII5bOc.png" group-title="LATINO",USL: VIENDOMOVIES
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249588
+#EXTINF:-1 tvg-id="WAPAUS" tvg-name="USL: WAPA AMERICA" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUohBzS-yYBHQbuk2G74EAfZWwUEGdi6OuRw5wzeNA-gpXA.png" group-title="LATINO",USL: WAPA AMERICA
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249589
+#EXTINF:-1 tvg-id="WINSPHD" tvg-name="USL: WIN SPORT" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqp6SwOn7hjnRDa5TVtlsYL1g.png" group-title="LATINO",USL: WIN SPORT
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249590
+#EXTINF:-1 tvg-id="VENE" tvg-name="VE: VENEVISION" tvg-logo="https://tenwafers.xyz:443/images/7zpZSZi_VHXRPUd061_8EthCvHQF7pVvR3lMoz_zzXgUqNwrrU7rSXydJawP86lFqhoOiCZYk6Dn8SdJohUqWg.png" group-title="LATINO",VE: VENEVISION
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249602
+#EXTINF:-1 tvg-name="UFC EVENT 1" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC FIGHT PASS",UFC EVENT 1
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249181
+#EXTINF:-1 tvg-name="UFC EVENT 10" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC FIGHT PASS",UFC EVENT 10
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249190
+#EXTINF:-1 tvg-name="UFC EVENT 2" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC FIGHT PASS",UFC EVENT 2
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249182
+#EXTINF:-1 tvg-name="UFC EVENT 3" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC FIGHT PASS",UFC EVENT 3
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249183
+#EXTINF:-1 tvg-name="UFC EVENT 4" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC FIGHT PASS",UFC EVENT 4
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249184
+#EXTINF:-1 tvg-name="UFC EVENT 5" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC FIGHT PASS",UFC EVENT 5
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249185
+#EXTINF:-1 tvg-name="UFC EVENT 6" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC FIGHT PASS",UFC EVENT 6
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249186
+#EXTINF:-1 tvg-name="UFC EVENT 7" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC FIGHT PASS",UFC EVENT 7
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249187
+#EXTINF:-1 tvg-name="UFC EVENT 8" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC FIGHT PASS",UFC EVENT 8
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249188
+#EXTINF:-1 tvg-name="UFC EVENT 9" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC FIGHT PASS",UFC EVENT 9
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249189
+#EXTINF:-1 tvg-name="UFC FIGHTPASS 24/7" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC FIGHT PASS",UFC FIGHTPASS 24/7
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/249180
+#EXTINF:-1 tvg-name="UFC 230 | Cormier vs. Lewis (2018)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5BbFHXGmD-LOt3t3dRUvu4K4Z9Goo2huyNw05WRGAEOQ.jpg" group-title="UFC | REPLAYS",UFC 230 | Cormier vs. Lewis (2018)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244311
+#EXTINF:-1 tvg-name="UFC 231 | Holloway vs. Ortega (2018)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5RWbnWWCrxEk32e88tVFcvdIdwEE4FZueLpLsWuk4wp8.jpg" group-title="UFC | REPLAYS",UFC 231 | Holloway vs. Ortega (2018)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244310
+#EXTINF:-1 tvg-name="UFC 232 | Jones vs. Gustafsson 2 (2018)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE51AayXECO4eRbFMHVXLA9phd441Ko1m9DJ1M5kJayPBE.jpg" group-title="UFC | REPLAYS",UFC 232 | Jones vs. Gustafsson 2 (2018)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244309
+#EXTINF:-1 tvg-name="UFC 234 | Adesanya vs. Silva (2019)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5wFdUcWRTHkZY6ahMZufcUu0EmlyGZBr0_zjDIylwoMc.jpg" group-title="UFC | REPLAYS",UFC 234 | Adesanya vs. Silva (2019)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244308
+#EXTINF:-1 tvg-name="UFC 235 | Jones vs. Smith (2019)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5bLoDCf-cCss521QJ7oh4BLPGHSwSoZOSfw_K6KdgxcM.jpg" group-title="UFC | REPLAYS",UFC 235 | Jones vs. Smith (2019)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244307
+#EXTINF:-1 tvg-name="UFC 236 | Holloway vs. Poirier 2 (2019)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5d-7N06IFanaeU9yHPbmc25USc5HinnOAYW4dhR8tGn8.jpg" group-title="UFC | REPLAYS",UFC 236 | Holloway vs. Poirier 2 (2019)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244306
+#EXTINF:-1 tvg-name="UFC 237 | Namajunas vs. Andrade (2019)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE53xy20ogopwrikyb53AJw5HycopJArLPNt2QNQ98y81c.jpg" group-title="UFC | REPLAYS",UFC 237 | Namajunas vs. Andrade (2019)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244305
+#EXTINF:-1 tvg-name="UFC 238 | Cejudo vs. Moraes (2019)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE55sEtzBSvw8FAi1QgA9wjtXKMD882fzGaIvA-WVRFuhs.jpg" group-title="UFC | REPLAYS",UFC 238 | Cejudo vs. Moraes (2019)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244304
+#EXTINF:-1 tvg-name="UFC 239 | Jones vs. Santos (2019)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5UoMkh7wg4C9LhQin05uXX7dgFr32TDJSIgHkKmE_kL4.jpg" group-title="UFC | REPLAYS",UFC 239 | Jones vs. Santos (2019)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244303
+#EXTINF:-1 tvg-name="UFC 240 | Holloway vs. Edgar (2019)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE52lCOvKorMxoMOTf-7wuA5MVs1A3Goi4cU5cN8LWfVHA.jpg" group-title="UFC | REPLAYS",UFC 240 | Holloway vs. Edgar (2019)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244302
+#EXTINF:-1 tvg-name="UFC 241 | Cormier vs. Miocic 2 (2019)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE55XkycmIWxLm9N8SGktorEYw5AqK3UICmWpDCjym5fh4.jpg" group-title="UFC | REPLAYS",UFC 241 | Cormier vs. Miocic 2 (2019)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244301
+#EXTINF:-1 tvg-name="UFC 242 | Khabib vs. Poirier (2019)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE51WBr1eZpXxmshGdhn98lbu2lRZ2uqbl2xt-b0TyAW_E.jpg" group-title="UFC | REPLAYS",UFC 242 | Khabib vs. Poirier (2019)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244300
+#EXTINF:-1 tvg-name="UFC 243 | Whittaker vs. Adesanya (2019)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5SNluAo5U9foKBTEqj3GC6842R4rqrgfCwdY77kH9EH8.jpg" group-title="UFC | REPLAYS",UFC 243 | Whittaker vs. Adesanya (2019)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244299
+#EXTINF:-1 tvg-name="UFC 244 | Masvidal vs. Diaz (2019)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE57QaOhMlmpmHlvCpHZHKUT0WTBdn5EolsKl4MQuEbAHI.jpg" group-title="UFC | REPLAYS",UFC 244 | Masvidal vs. Diaz (2019)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244298
+#EXTINF:-1 tvg-name="UFC 245 | Usman vs. Covington (2019)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5obKiqWM0wSdcIxuRnrOu1Mp5HNkfvzfZ58llsl9LdrA.jpg" group-title="UFC | REPLAYS",UFC 245 | Usman vs. Covington (2019)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244297
+#EXTINF:-1 tvg-name="UFC 246 | McGregor vs. Cowboy (2020)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5jJ2Y1QwhYvkoBqs-GYpCr4jOWPX9knvGsfhoElCDLDM.jpg" group-title="UFC | REPLAYS",UFC 246 | McGregor vs. Cowboy (2020)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244296
+#EXTINF:-1 tvg-name="UFC 247 | Jones vs. Reyes (2020)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5s4m8vB9xB-01K6-3rxOFGP8cwKBf69ZoWg6T5scd9wc.jpg" group-title="UFC | REPLAYS",UFC 247 | Jones vs. Reyes (2020)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244295
+#EXTINF:-1 tvg-name="UFC 248 | Adesanya vs. Romero (2020)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5sPwKzXErks9jVq9i91PJsPpt6jZUrTHvPNAW8RVI1Yo.jpg" group-title="UFC | REPLAYS",UFC 248 | Adesanya vs. Romero (2020)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244294
+#EXTINF:-1 tvg-name="UFC 249 | Ferguson vs. Gaethje (2020)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5ahYVe-sXubWSFoALt1UTKoQefCBO_kpVBPvOO_E-wD0.jpg" group-title="UFC | REPLAYS",UFC 249 | Ferguson vs. Gaethje (2020)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244293
+#EXTINF:-1 tvg-name="UFC 250 | Nunes vs. Spencer (2020)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5BDhB2Dlyj5xh6UZqrmUYOhitbagAaxCz8icI9XH-1Fc.jpg" group-title="UFC | REPLAYS",UFC 250 | Nunes vs. Spencer (2020)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244292
+#EXTINF:-1 tvg-name="UFC 251 | Usman vs. Masvidal (2020)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5GZ4n66gAlRsNrc4cquKzl9THFdJHiLJ-A9KdZ7mZU6c.jpg" group-title="UFC | REPLAYS",UFC 251 | Usman vs. Masvidal (2020)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244291
+#EXTINF:-1 tvg-name="UFC 252 | Miocic vs. Cormier 3 (2020)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE50SkS_ptTrnyesH9pNDYMp53rDGoqS04j-LF0bt2xjPQ.jpg" group-title="UFC | REPLAYS",UFC 252 | Miocic vs. Cormier 3 (2020)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244290
+#EXTINF:-1 tvg-name="UFC 253 | Adesanya vs. Costa (2020)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5DDVV4zpByXxuEY8YSyZBT2EhhUydgWHhs44pUGO5OAw.jpg" group-title="UFC | REPLAYS",UFC 253 | Adesanya vs. Costa (2020)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244289
+#EXTINF:-1 tvg-name="UFC 254 | Khabib vs. Gaethje (2020)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5xVk6wdj5J0kq9J8VrkhpuMfzfbcrO-GAhSgCPiZCPb0.jpg" group-title="UFC | REPLAYS",UFC 254 | Khabib vs. Gaethje (2020)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244288
+#EXTINF:-1 tvg-name="UFC 255 | Figueiredo vs. Perez (2020)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5fSOcT0G5AnGLjfNWB2ls0kLaO0eqkpRmnuK8u6iImsE.jpg" group-title="UFC | REPLAYS",UFC 255 | Figueiredo vs. Perez (2020)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244287
+#EXTINF:-1 tvg-name="UFC 256 | Figueiredo vs. Moreno (2020)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5CJj89-LTxaku-oLzG0ulCKelzH_wqZ_asbfOWIYIxaw.jpg" group-title="UFC | REPLAYS",UFC 256 | Figueiredo vs. Moreno (2020)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244286
+#EXTINF:-1 tvg-name="UFC 257 | Poirier vs. McGregor 2 (2021)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5wA7rGReRTHB_-Rt9vfdVKQbYkouPmkBfOdE492xJWt8.jpg" group-title="UFC | REPLAYS",UFC 257 | Poirier vs. McGregor 2 (2021)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244285
+#EXTINF:-1 tvg-name="UFC 258 | Usman vs. Burns (2021)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5yHa4Sz3wlkBx00qYGcn2bfBonhPu2v_42-CAbT6IbB4.jpg" group-title="UFC | REPLAYS",UFC 258 | Usman vs. Burns (2021)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244284
+#EXTINF:-1 tvg-name="UFC 259 | Blachowicz vs. Adesanya (2021)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE53eOGNP66fIwPYA-0GoswE1ENbCKtFPPgrk0Ozdbwwqs.jpg" group-title="UFC | REPLAYS",UFC 259 | Blachowicz vs. Adesanya (2021)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244283
+#EXTINF:-1 tvg-name="UFC 260 | Miocic vs. Ngannou 2 (2021)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5KdcheLhoCiipQzkpXYcRYCLaW3BWYE57lE8BjSJicw0.jpg" group-title="UFC | REPLAYS",UFC 260 | Miocic vs. Ngannou 2 (2021)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244282
+#EXTINF:-1 tvg-name="UFC 261 | Usman vs. Masvidal 2 (2021)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE59pd_NOBCFZ0qTen4NgUkC7NQ3LajU4W1iCAfEpQW5y8.jpg" group-title="UFC | REPLAYS",UFC 261 | Usman vs. Masvidal 2 (2021)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244281
+#EXTINF:-1 tvg-name="UFC 262 | Oliveira vs. Chandler (2021)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5abscW_Qe1-XWiJL6bZSzhmIF2z7OotyaNmWKpzGArRs.jpg" group-title="UFC | REPLAYS",UFC 262 | Oliveira vs. Chandler (2021)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244280
+#EXTINF:-1 tvg-name="UFC 263 | Adesanya vs. Vettori 2 (2021)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5c57ZM324os4dfSavrobiQ5Vx8RjatxpVDpH4K8xhMmo.jpg" group-title="UFC | REPLAYS",UFC 263 | Adesanya vs. Vettori 2 (2021)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244279
+#EXTINF:-1 tvg-name="UFC 264 | Poirier vs. McGregor 3 (2021)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE56L9D8hEYe9TdeH1mwNh8d1jUTL9EhYE9WIwjQUZa0uM.jpg" group-title="UFC | REPLAYS",UFC 264 | Poirier vs. McGregor 3 (2021)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244278
+#EXTINF:-1 tvg-name="UFC 265 | Lewis vs. Gane (2021)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5GKfniwU7cLDRahV9ZmDAz4OfrFazIuFv1lE3ppgN1NA.jpg" group-title="UFC | REPLAYS",UFC 265 | Lewis vs. Gane (2021)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244277
+#EXTINF:-1 tvg-name="UFC 266 | Volkanovski vs. Ortega (2021)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5gw2aD5p6gjaKR_HcYCUrr4kq2HJBU8MN1KmPpDt7AMg.jpg" group-title="UFC | REPLAYS",UFC 266 | Volkanovski vs. Ortega (2021)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244276
+#EXTINF:-1 tvg-name="UFC 267 | Blachowicz vs. Teixeira (2021)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5y_SIv4q542ZvcDYI67tATt4xd1wBx9ScDzvbZP24Jds.jpg" group-title="UFC | REPLAYS",UFC 267 | Blachowicz vs. Teixeira (2021)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244275
+#EXTINF:-1 tvg-name="UFC 268 | Usman vs. Covington 2 (2021)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5MU6GZlw7Z4I8XRbElRaNk5V6B0r068Wngfn64SCTQ4k.jpg" group-title="UFC | REPLAYS",UFC 268 | Usman vs. Covington 2 (2021)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244274
+#EXTINF:-1 tvg-name="UFC 269 | Oliveira vs. Poirier (2021)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5cH4FTmviak8c9UJ61Ysnnq4Q2uhkT4ppVQWnomip6Zs.jpg" group-title="UFC | REPLAYS",UFC 269 | Oliveira vs. Poirier (2021)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244273
+#EXTINF:-1 tvg-name="UFC 270 | Ngannou vs. Gane (2022)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5Nq1MKUBkm_mTb4hDWEDzQMZRGWCPvdC43G3bpedWfz4.jpg" group-title="UFC | REPLAYS",UFC 270 | Ngannou vs. Gane (2022)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244272
+#EXTINF:-1 tvg-name="UFC 271 | Adesanya vs. Whittaker 2 (2022)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5WM_IUQzLLyWecp3UU26WdMF4W2mxb7rmnzXy8y8XNP4.jpg" group-title="UFC | REPLAYS",UFC 271 | Adesanya vs. Whittaker 2 (2022)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244271
+#EXTINF:-1 tvg-name="UFC 272 | Covington vs. Masvidal (2022)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5wIQR3fvJm4Wj_ItjGexNF31noYtynMB5KRydCSBPxqY.jpg" group-title="UFC | REPLAYS",UFC 272 | Covington vs. Masvidal (2022)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244270
+#EXTINF:-1 tvg-name="UFC 273 | Volkanovski vs. The Korean Zombie (2022)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5rSWHy1FxHSOlg24NjfkqnbkoS42zK2CwEWnvxEWT9Vs.jpg" group-title="UFC | REPLAYS",UFC 273 | Volkanovski vs. The Korean Zombie (2022)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244269
+#EXTINF:-1 tvg-name="UFC 274 | Oliveira vs. Gaethje (2022)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE57Q-N1F0_G51cAVbcUJW9ycmGol4_QO_BMwlWmONMcvU.jpg" group-title="UFC | REPLAYS",UFC 274 | Oliveira vs. Gaethje (2022)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244268
+#EXTINF:-1 tvg-name="UFC 275 | Teixeira vs. Prochazka (2022)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5ylavxsNiL63fugQ18AAkU0MJuDv-lPq3hAon8NsTNzo.jpg" group-title="UFC | REPLAYS",UFC 275 | Teixeira vs. Prochazka (2022)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244267
+#EXTINF:-1 tvg-name="UFC 276 | Adesanya vs. Cannonier (2022)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE53QeuHBA17gdNf-iq-nsYK1sGiRGQ1jJsjDZYxPRorYw.jpg" group-title="UFC | REPLAYS",UFC 276 | Adesanya vs. Cannonier (2022)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244266
+#EXTINF:-1 tvg-name="UFC 277 | Peña vs. Nunes 2 (2022)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5aRk8BIY5tQNgrBjsDM0Nd3hy9ZvkuOJ56IjaiKdezaI.jpg" group-title="UFC | REPLAYS",UFC 277 | Peña vs. Nunes 2 (2022)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244265
+#EXTINF:-1 tvg-name="UFC 278 | Usman vs. Edwards 2 (2022)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5R2NRo6ojGkb3jVEHwOcPQtHSGCGtmCIjXuyeemZ17O8.jpg" group-title="UFC | REPLAYS",UFC 278 | Usman vs. Edwards 2 (2022)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244264
+#EXTINF:-1 tvg-name="UFC 279 | Diaz vs. Ferguson (2022)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE52MKgzkbr2WAOmQVYtfeGagISJBwGyBZ_pigcBk-BG0U.jpg" group-title="UFC | REPLAYS",UFC 279 | Diaz vs. Ferguson (2022)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244263
+#EXTINF:-1 tvg-name="UFC 280 | Oliveira vs. Makhachev (2022)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5PEa1x-QoAcj8gR15jhAkwxYPF0Ls1nZMP3_p-PCcTk0.jpg" group-title="UFC | REPLAYS",UFC 280 | Oliveira vs. Makhachev (2022)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244262
+#EXTINF:-1 tvg-name="UFC 281 | Adesanya vs. Pereira (2022)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5UHkHDSSvE_Xn9KLqq1_NsXgnYkJaSTPTRAaomqDmnrw.jpg" group-title="UFC | REPLAYS",UFC 281 | Adesanya vs. Pereira (2022)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244261
+#EXTINF:-1 tvg-name="UFC 282 | Blachowicz vs. Ankalaev (2022)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5WLdtbfYKxF1LJEU8UOj00kI8usiehnV_T3vRGMBAKwU.jpg" group-title="UFC | REPLAYS",UFC 282 | Blachowicz vs. Ankalaev (2022)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244260
+#EXTINF:-1 tvg-name="UFC 283 | Teixeira vs. Hill (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5SQt_wj9hgjC6CJGCM2GD0CI97tyGwB96gjeLPMe2MV0.jpg" group-title="UFC | REPLAYS",UFC 283 | Teixeira vs. Hill (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244259
+#EXTINF:-1 tvg-name="UFC 284 | Makhachev vs. Volkanovski (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5GmwSw3HEPPaND66QrvEEkGOR9oGQkXhmOpKt_Irg3as.jpg" group-title="UFC | REPLAYS",UFC 284 | Makhachev vs. Volkanovski (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244258
+#EXTINF:-1 tvg-name="UFC 285 | Jones vs. Gane (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5U2tTK1iA6eWts8wjHzvwfl0GbYgmicOadcleAwbYQKM.jpg" group-title="UFC | REPLAYS",UFC 285 | Jones vs. Gane (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244257
+#EXTINF:-1 tvg-name="UFC 286 | Edwards vs. Usman 3 (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE56t4AGCGO_WV7OUO4yVEafE4ljD0lcD8JX7VdfKyGQok.jpg" group-title="UFC | REPLAYS",UFC 286 | Edwards vs. Usman 3 (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244256
+#EXTINF:-1 tvg-name="UFC 287 | Pereira vs. Adesanya 2 (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE53knW7b5XzRxl5CH6WD2y1muhMt0OzRUuK5ZodEyuF2s.jpg" group-title="UFC | REPLAYS",UFC 287 | Pereira vs. Adesanya 2 (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244255
+#EXTINF:-1 tvg-name="UFC 288 | Sterling vs. Cejudo (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5NmupveEzZ2mERwgHFqt-TeLx7nQOXAyiGbszXCoeHf8.jpg" group-title="UFC | REPLAYS",UFC 288 | Sterling vs. Cejudo (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244254
+#EXTINF:-1 tvg-name="UFC 289 | Nunes vs. Aldana (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE57j2f-pNiUbrFTzELwqjrf0Px4rqdDxAPRPqn5qf21SI.jpg" group-title="UFC | REPLAYS",UFC 289 | Nunes vs. Aldana (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244253
+#EXTINF:-1 tvg-name="UFC 290 | Volkanovski vs. Rodriguez (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5T28ron_djWyg94Bq-K522BfzohRJvSgFdRaVUnjHh70.jpg" group-title="UFC | REPLAYS",UFC 290 | Volkanovski vs. Rodriguez (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244252
+#EXTINF:-1 tvg-name="UFC 291 | Poirier vs. Gaethje 2 (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5H_tpDpDMvWqlH0FCREbBdUPKZQlXuI_repPCVtg6KuQ.jpg" group-title="UFC | REPLAYS",UFC 291 | Poirier vs. Gaethje 2 (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244251
+#EXTINF:-1 tvg-name="UFC 292 | Sterling vs. O'Malley (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5r2yqID65UGg50SECHU5ie9CuHQD2_L119hvuaGuhv0c.jpg" group-title="UFC | REPLAYS",UFC 292 | Sterling vs. O'Malley (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244250
+#EXTINF:-1 tvg-name="UFC 293 | Adesanya vs. Strickland (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5rTX-GtiI-XX6OJPRAcxf0NSGk2D620kripuuqJ33g3w.jpg" group-title="UFC | REPLAYS",UFC 293 | Adesanya vs. Strickland (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244249
+#EXTINF:-1 tvg-name="UFC 294 | Makhachev vs. Volkanovski 2 (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE51ufyS4NUEvaiQ9RTB9A0FFvmKyDn8UdAdAirhr4Z6LU.jpg" group-title="UFC | REPLAYS",UFC 294 | Makhachev vs. Volkanovski 2 (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244248
+#EXTINF:-1 tvg-name="UFC 295 | Prochazka vs. Pereira (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5Y-0Db4ljCfDwrJ3Z3OU89C0c7ddkbLKeTFu2JkbveIs.jpg" group-title="UFC | REPLAYS",UFC 295 | Prochazka vs. Pereira (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244247
+#EXTINF:-1 tvg-name="UFC 296 | Edwards vs. Covington (2023)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5YHDzU7H9EeWrPvlqtkVUag0Ht5BpuMgJ_pe2vcnHnbw.jpg" group-title="UFC | REPLAYS",UFC 296 | Edwards vs. Covington (2023)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244246
+#EXTINF:-1 tvg-name="UFC 297 | Strickland vs. du Plessis (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5Lm1FdwIzXDYSYdnh8lFPmktRn1CM6rwvDjxiBw__fO8.jpg" group-title="UFC | REPLAYS",UFC 297 | Strickland vs. du Plessis (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244245
+#EXTINF:-1 tvg-name="UFC 298 | Volkanovski vs. Topuria (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5t0cWDym1crgc4-djX1ogwWLY19qq9iCRpskq8nGe1Do.jpg" group-title="UFC | REPLAYS",UFC 298 | Volkanovski vs. Topuria (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244244
+#EXTINF:-1 tvg-name="UFC 299 | O'Malley vs. Vera 2 (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5o7A5PzzPOYgGS_qr5jB13gG9moMsj68l_5BGBslqGL0.jpg" group-title="UFC | REPLAYS",UFC 299 | O'Malley vs. Vera 2 (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244243
+#EXTINF:-1 tvg-name="UFC 300 | Pereira vs. Hill (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5LjW8K3pipLHqH42mX_SNC1M6DcXzk0QTuLzV7EiBEsU.jpg" group-title="UFC | REPLAYS",UFC 300 | Pereira vs. Hill (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244312
+#EXTINF:-1 tvg-name="UFC 301 | Pantoja vs. Erceg (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5vpl24gzczt7fj3cZReKUlkEVCCWptqO02LwGsqS2SEo.jpg" group-title="UFC | REPLAYS",UFC 301 | Pantoja vs. Erceg (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244313
+#EXTINF:-1 tvg-name="UFC 302 | Makhachev vs. Poirier (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5-M_hTLZ0lBOzQTqeGefqv4DAlgoApD2rDiBDWoPsY2M.jpg" group-title="UFC | REPLAYS",UFC 302 | Makhachev vs. Poirier (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244314
+#EXTINF:-1 tvg-name="UFC 303 | Pereira vs. Prochazka 2 (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5K-_I-eWt__ntt-b5GzIy4_GjZ7s5mLoTCMVNHJU7Xo0.jpg" group-title="UFC | REPLAYS",UFC 303 | Pereira vs. Prochazka 2 (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244318
+#EXTINF:-1 tvg-name="UFC 304 | Edwards vs. Muhammad 2 (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE55XfNr2JaSQEMZoyP91t1B5_uyU1UI8puyeqUI1yIojY.jpg" group-title="UFC | REPLAYS",UFC 304 | Edwards vs. Muhammad 2 (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244319
+#EXTINF:-1 tvg-name="UFC 305 | du Plessis vs. Adesanya (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5Jv56S8gIH7gK3jQxNCcBeMlmBBVqETPNHtxzTiiQWt8.jpg" group-title="UFC | REPLAYS",UFC 305 | du Plessis vs. Adesanya (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244321
+#EXTINF:-1 tvg-name="UFC 306 | O'Malley vs. Dvalishvili (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5aXlmNRlo4V_mjgnpkYQmIUnJR81XRZXhgFEmpMShnSo.jpg" group-title="UFC | REPLAYS",UFC 306 | O'Malley vs. Dvalishvili (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244322
+#EXTINF:-1 tvg-name="UFC on ABC 6 | Whittaker vs. Aliskerov (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5j3rvdEHbcvDpCTuk1S_ZutMIwbXC9McVMDaLljtG8bA.jpg" group-title="UFC | REPLAYS",UFC on ABC 6 | Whittaker vs. Aliskerov (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244317
+#EXTINF:-1 tvg-name="UFC on ABC 7 | Cory Sandhagen vs. Umar Nurmagomedov (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE54UMjq0Ciqs21sgFU7-W6dCmMflyDhbCCLyBA2eKHQtw.jpg" group-title="UFC | REPLAYS",UFC on ABC 7 | Cory Sandhagen vs. Umar Nurmagomedov (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244320
+#EXTINF:-1 tvg-name="UFC on ESPN 57 | Cannonier vs. Imavov (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5dbOWEd02O4AXaUjl02jd30G30K_5_fMzUVHjQBMdPCA.jpg" group-title="UFC | REPLAYS",UFC on ESPN 57 | Cannonier vs. Imavov (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244315
+#EXTINF:-1 tvg-name="UFC on ESPN 58 | Perez vs. Taira (2024)" tvg-logo="https://tenwafers.xyz:443/images/Q8kjRrmt60rUk4Lvr7Depaj-BS3pJ4SPqT0GQ8ZusXpZVArNkkUmq8b4z8FzxVE5iN3ojZEiNmCh_N5qOAqrEGNd2yAL27Mmk5llGvftcrQ.jpg" group-title="UFC | REPLAYS",UFC on ESPN 58 | Perez vs. Taira (2024)
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/244316
