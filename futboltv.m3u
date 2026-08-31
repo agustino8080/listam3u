@@ -1,0 +1,716 @@
+#EXTM3U
+#EXTINF:0, APARAT SPORTS #EXTVLCOPT:network-caching=1000
+https://cp11.adabmedia.com/hls2/sport.m3u8
+#EXTINF:36,tv3 ir #EXTVLCOPT:network-caching=1000
+https://cp11.adabmedia.com/hls2/tv3test.m3u8
+#EXTINF:0,SK 1 #EXTVLCOPT:network-caching=1000
+http://iyh5mlxw.klaipedalt.org/iptv/Q9HCQVD66DX86T/7269/index.m3u8
+#EXTINF:0, PERSIANA SPORTS #EXTVLCOPT:network-caching=1000
+http://cp11.adabmedia.com/hls2/persiana.m3u8
+#EXTINF:0,persiana sport #EXTVLCOPT:network-caching=1000
+https://cp11.adabmedia.com/hls2/persiana.m3u8
+#EXTINF:0,SPILER 2 #EXTVLCOPT:network-caching=1000
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31595/index.m3u8
+#EXTINF:0,Nova Sport 4 HD #EXTVLCOPT:network-caching=1000
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/31571/index.m3u8
+#EXTINF:0,DIGI Sport 1 HD #EXTVLCOPT:network-caching=1000
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2523/index.m3u8
+#EXTINF:0, Setanta Sports 2 #EXTVLCOPT:network-caching=1000
+http://tpjgkqnu.vexiumis.top/iptv/ZFMBTT94BTSVQMFVDASEV6XS/6544/index.m3u8
+#EXTINF:0,BEIN 1 #EXTVLCOPT:network-caching=1000
+https://hrthrtjhrtijkhiurt.chkgjkg.online/live/x1.m3u8
+#EXTINF:0,varzesh ir #EXTVLCOPT:network-caching=1000
+https://cp11.adabmedia.com/hls2/varzeshtest.m3u8
+#EXTINF:0, Bein Sports 1 #EXTVLCOPT:network-caching=1000
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:0, CBS SPORTS #EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+#EXTINF:0, 5 SPORT #EXTVLCOPT:network-caching=1000
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:0, BLUE SPORT #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a01c
+#EXTINF:0, BEIN SPORT 1 #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a01e
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://188.191.160.238:7780/udp/239.195.3.17:1234
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://193.25.8.59:8000/fut2
+#EXTINF:0, PREM #EXTVLCOPT:network-caching=1000
+https://live12.xiazhix1.top/live/489003757.m3u8
+#EXTINF:0,ESPN DEPORTES #EXTVLCOPT:network-caching=1000
+http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+#EXTINF:0, SCTV 22 - SSPORT 1 #EXTVLCOPT:network-caching=1000
+https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
+#EXTINF:0,ESPN DEPORTES #EXTVLCOPT:network-caching=1000
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+#EXTINF:0,ESPN DEPORTES #EXTVLCOPT:network-caching=1000
+https://daffodil.%E0%B8%AB%E0%B8%A7%E0%B8%A2%E0%B8%94%E0%B8%B5%E0%B8%94%E0%B8%B51000.com/dep.m3u8
+#EXTINF:0, SKY SPORT LALIGA #EXTVLCOPT:network-caching=1000
+http://45.5.117.57:8200/play/a050/index.m3u8
+#EXTINF:0, SKY SPORT LALIGA #EXTVLCOPT:network-caching=1000
+http://179.60.224.196:8000/play/a0i7/index.m3u8
+#EXTINF:0, SKY SPORT LALIGA #EXTVLCOPT:network-caching=1000
+http://167.250.223.26:8085/play/a00d/index.m3u8
+#EXTINF:0,HYP #EXTVLCOPT:network-caching=1000
+http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
+#EXTINF:0, LIG #EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca124/index.m3u8
+#EXTINF:0, BATIFA SPORT #EXTVLCOPT:network-caching=1000
+https://6476e46b58f91.streamlock.net/liveTrans/batifa/chunklist_w632227207.m3u8
+#EXTINF:0, SCTV 22 - SSPORT 1 #EXTVLCOPT:network-caching=1000
+https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdntv.online/low/9mlxywika2/56.m3u8
+#EXTINF:0, TDM Desporto #EXTVLCOPT:network-caching=1000
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:0, IDMANTV #EXTVLCOPT:network-caching=1000
+https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
+#EXTINF:0, IDMANTV #EXTVLCOPT:network-caching=1000
+https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b2231548857bf0a078bb6387e8830040aa18cee-1ee342667d60c2ac2e8f0c594cf33331-1753218237000000-1753207437000
+#EXTINF:0, MAX SPORT 4 #EXTVLCOPT:network-caching=1000
+http://77.46.130.252:99/maxsport4
+#EXTINF:0, SKY SPORT LALIGA #EXTVLCOPT:network-caching=1000
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:0, SKY SPORT LALIGA #EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a09u/index.m3u8
+#EXTINF:0, SKY SPORT LALIGA #EXTVLCOPT:network-caching=1000
+http://181.78.109.48:9998/play/a06r/index.m3u8
+#EXTINF:0, OTT CLUB #EXTVLCOPT:network-caching=1000
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8
+#EXTINF:0, BEIN SPORT 1 #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a01e
+#EXTINF:0, BEIN SPORT 2 #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a01g
+#EXTINF:0, BEIN SPORT 3 #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a01h
+#EXTINF:0, BEIN SPORT 4 #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a01i
+#EXTINF:0, BEIN SPORT 5 #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a01j
+#EXTINF:0, BEIN SPORT 6 #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a01k
+#EXTINF:0,  Varzesh TV #EXTVLCOPT:network-caching=1000
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:0, 4Football #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=ts&play_token=dKKpb8gzTG
+#EXTINF:0, Digi Sport 2 #EXTVLCOPT:network-caching=1000
+http://91.201.172.14:35006/
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdntv.online/low/9mlxywika2/778.m3u8
+#EXTINF:0, beIN SPORTS 1 #EXTVLCOPT:network-caching=1000
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdntv.online/low/9mlxywika2/48.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://95.47.156.60:8000/play/3/index.m3u8
+#EXTINF:0, DSPORTS #EXTVLCOPT:network-caching=1000
+http://201.230.121.186:8000/play/a0od/index.m3u8
+#EXTINF:0, DSPORTS 1 #EXTVLCOPT:network-caching=1000
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:0, DSPORTS 1 #EXTVLCOPT:network-caching=1000
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:0, DSPORTS 1 #EXTVLCOPT:network-caching=1000
+http://190.117.20.39:8000/play/a08d/index.m3u8
+#EXTINF:0, ESPN #EXTVLCOPT:network-caching=1000
+http://45.173.74.2:2010/play/a08a/index.m3u8
+#EXTINF:0, ESPN 2 #EXTVLCOPT:network-caching=1000
+http://181.205.130.194:4000/play/a07i
+#EXTINF:0, ESPN 2 #EXTVLCOPT:network-caching=1000
+http://191.97.49.82:8001/play/a00m/index.m3u8
+#EXTINF:0, ESPN 3 #EXTVLCOPT:network-caching=1000
+http://167.250.223.26:8085/play/a069/index.m3u8
+#EXTINF:0, ESPN PREMIUM #EXTVLCOPT:network-caching=1000
+http://167.250.223.26:8085/play/a04g/index.m3u8
+#EXTINF:0, Dazn 1 #EXTVLCOPT:network-caching=1000
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
+#EXTINF:0, Dazn 1 #EXTVLCOPT:network-caching=1000
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
+#EXTINF:0, Dazn 2 #EXTVLCOPT:network-caching=1000
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
+#EXTINF:0, Dazn 3 #EXTVLCOPT:network-caching=1000
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
+#EXTINF:0, Dazn 4 #EXTVLCOPT:network-caching=1000
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
+#EXTINF:0, Dazn 5 #EXTVLCOPT:network-caching=1000
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
+#EXTINF:0, TNT SPORTS PREMIUM #EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca040/index.m3u8
+#EXTINF:0, BEIN 3 #EXTVLCOPT:network-caching=1000
+http://145.239.5.177/559/mpegts
+#EXTINF:0, Bein Sport 1 #EXTVLCOPT:network-caching=1000
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:0, Bein Sport 3 #EXTVLCOPT:network-caching=1000
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:0, Bein Sport 3 #EXTVLCOPT:network-caching=1000
+http://145.239.5.177:80/559/index.m3u8
+#EXTINF:0, CANAL + Sport #EXTVLCOPT:network-caching=1000
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:0,Canal+ Sport 360 #EXTVLCOPT:network-caching=1000
+http://178.33.239.54:8080/700/index.m3u8
+#EXTINF:0, Setenta Sport 1 #EXTVLCOPT:network-caching=1000
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+#EXTINF:0, Setenta Sport 2 #EXTVLCOPT:network-caching=1000
+http://cdntv.online/low/9mlxywika2/1022.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://5.188.221.43:8080/play/match
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdntv.online/low/9mlxywika2/48.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://95.47.155.244:8001/play/a003
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://193.25.8.59:8000/fut
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdntv.online/low/9mlxywika2/55.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://188.191.160.238:7780/udp/239.195.3.16:1234
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://188.191.160.238:7780/udp/239.195.3.17:1234
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdntv.online/low/9mlxywika2/56.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://185.57.68.33/110/mpegts
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://185.57.68.33:8091/110/playlist.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://188.191.160.238:7780/udp/239.195.3.18:1234
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdntv.online/low/9mlxywika2/57.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://185.57.68.33:80/110/index.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdntv.online/low/9mlxywika2/57.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://46.149.191.217:9010/play/a019
+#EXTINF:0, Setanta Sport #EXTVLCOPT:network-caching=1000
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
+#EXTINF:0, Setanta Sport 1 #EXTVLCOPT:network-caching=1000
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:0, Setanta Sport 2 #EXTVLCOPT:network-caching=1000
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdntv.online/low/9mlxywika2/778.m3u8
+#EXTINF:0, Arena Premium 1 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaPremium1HD/index.m3u8
+#EXTINF:0, Arena Premium 2 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaPremium2HD/index.m3u8
+#EXTINF:0, Arena Premium 3 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaPremium3HD/index.m3u8
+#EXTINF:0, Arena Premium 1 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
+#EXTINF:0, Arena Premium 2 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
+#EXTINF:0, Arena Premium 3 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
+#EXTINF:0, Arena Sport 1 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaSport1HD/index.m3u8
+#EXTINF:0, Arena Sport 1 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
+#EXTINF:0, Arena Sport 2 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaSport2HD/index.m3u8
+#EXTINF:0, Arena Sport 2 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
+#EXTINF:0, Arena Sport 3 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaSport3HD/index.m3u8
+#EXTINF:0, Arena Sport 3 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
+#EXTINF:0, Arena Sport 4 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaSport4HD/index.m3u8
+#EXTINF:0, Arena Sport 4 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArenaSport4HD/playlist.m3u8
+#EXTINF:0, Arena Sport 5 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaSport5HD/index.m3u8
+#EXTINF:0, Arena Sport 5 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArenaSport5HD/playlist.m3u8
+#EXTINF:0, Arena Sport 6 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaSport6HD/index.m3u8
+#EXTINF:0, Arena Sport 6 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArenaSport6HD/playlist.m3u8
+#EXTINF:0, Arena Sport 7 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaSport7HD/index.m3u8
+#EXTINF:0, Arena Sport 7 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArenaSport7HD/playlist.m3u8
+#EXTINF:0, Arena Sport 8 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaSport8HD/index.m3u8
+#EXTINF:0, Arena Sport 8 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArenaSport8HD/playlist.m3u8
+#EXTINF:0, Arena Sport 9 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaSporto9HD/index.m3u8
+#EXTINF:0, Arena Sport 9 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArenaSport9HD/playlist.m3u8
+#EXTINF:0, Arena Sport 10 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaSport10HD/index.m3u8
+#EXTINF:0, Arena Sport 10 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArenaSport10HD/playlist.m3u8
+#EXTINF:0,Arena_Sport_1 HD #EXTVLCOPT:network-caching=1000
+http://78.108.251.7/Arena_Sport_1/index.m3u8
+#EXTINF:0,Arena_Sport_2 HD #EXTVLCOPT:network-caching=1000
+http://78.108.251.7/Arena_Sport_2/index.m3u8
+#EXTINF:0,Arena_Sport_3 HD #EXTVLCOPT:network-caching=1000
+http://78.108.251.7/Arena_Sport_3/index.m3u8
+#EXTINF:0,Arena_Sport_4 HD #EXTVLCOPT:network-caching=1000
+http://78.108.251.7/Arena_Sport_4/index.m3u8
+#EXTINF:0,Arena_Sport_5 HD #EXTVLCOPT:network-caching=1000
+http://78.108.251.7/Arena_Sport_5/index.m3u8
+#EXTINF:0, MAXSPORT_1 #EXTVLCOPT:network-caching=1000
+http://23.88.66.93/MAXSPORT_1/index.m3u8
+#EXTINF:0, MAXSPORT_2 #EXTVLCOPT:network-caching=1000
+http://23.88.66.93/MAXSPORT_2/index.m3u8
+#EXTINF:0, Eurosport #EXTVLCOPT:network-caching=1000
+http://23.88.66.93/Eurosport1/index.m3u8
+#EXTINF:0, RTSH Sport #EXTVLCOPT:network-caching=1000
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:0, Super Sport 1 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/Supersport1/playlist.m3u8
+#EXTINF:0, Super Sport 2 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/Supersport2/playlist.m3u8
+#EXTINF:0, Super Sport 3 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/Supersport3/playlist.m3u8
+#EXTINF:0, Super Sport 4 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/Supersport4/playlist.m3u8
+#EXTINF:0, Super Sport 5 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/Supersport5/playlist.m3u8
+#EXTINF:0, Super Sport 6 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/Supersport6/playlist.m3u8
+#EXTINF:0, Super Sport 7 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/Supersport7/playlist.m3u8
+#EXTINF:0, Super Sport 1 #EXTVLCOPT:network-caching=1000
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+#EXTINF:0, Super Sport 1 #EXTVLCOPT:network-caching=1000
+http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
+#EXTINF:0, Super Sport 2 #EXTVLCOPT:network-caching=1000
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+#EXTINF:0, Super Sport 2 #EXTVLCOPT:network-caching=1000
+http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
+#EXTINF:0, Super Sport 2 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193/Supersport2/playlist.m3u8
+#EXTINF:0, Super Sport 3 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193/Supersport3/playlist.m3u8
+#EXTINF:0, Super Sport 3 #EXTVLCOPT:network-caching=1000
+http://195.181.169.152:8080/Super_Sport_3_HD_AL/video.m3u8?token=test
+#EXTINF:0, Super Sport 4 #EXTVLCOPT:network-caching=1000
+http://195.181.169.152:8080/Super_Sport_4_HD_AL/video.m3u8?token=test
+#EXTINF:0, Super Sport 4 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193/Supersport4/playlist.m3u8
+#EXTINF:0, Super Sport 5 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193/Supersport5/playlist.m3u8
+#EXTINF:0, Super Sport 6 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193/Supersport6/playlist.m3u8
+#EXTINF:0, Super Sport 1 #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/Supersport1/index.m3u8
+#EXTINF:0, Super Sport 2 #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/Supersport2/index.m3u8
+#EXTINF:0, Super Sport 3 #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/Supersport3/index.m3u8
+#EXTINF:0, Super Sport 4 #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/Supersport4/index.m3u8
+#EXTINF:0, Super Sport 5 #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/Supersport5/index.m3u8
+#EXTINF:0, Super Sport 6 #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/Supersport6/index.m3u8
+#EXTINF:0, Super Sport 7 #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/Supersport7/index.m3u8
+#EXTINF:0, Tring Sport 1 #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/TringSport1HD/index.m3u8
+#EXTINF:0, Tring Sport 1 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/TringSport1HD/playlist.m3u8
+#EXTINF:0, Tring Sport 2 #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/TringSport2HD/index.m3u8
+#EXTINF:0, Tring Sport 2 #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/TringSport2HD/playlist.m3u8
+#EXTINF:0, Tring Sport 3 #EXTVLCOPT:network-caching=1000
+http://195.181.169.152:8080/Tring_Sport_3_HD_AL/video.m3u8?token=test
+#EXTINF:0, Tring Sport 4 #EXTVLCOPT:network-caching=1000
+http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
+#EXTINF:0, KSport 1 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/KSport1/playlist.m3u8
+#EXTINF:0, KSport 2 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/KSport2/playlist.m3u8
+#EXTINF:0, KSport 3 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/KSport3/playlist.m3u8
+#EXTINF:0, KSport 4 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/KSport4/playlist.m3u8
+#EXTINF:0, RTSH Sport #EXTVLCOPT:network-caching=1000
+http://217.73.139.200:5443/play/a01d
+#EXTINF:0, Art Sport 1 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArtSport1HD/index.m3u8
+#EXTINF:0, Art Sport 2 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArtSport2/index.m3u8
+#EXTINF:0, Art Sport 3 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArtSport3/index.m3u8
+#EXTINF:0, Art Sport 4 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArtSport4/index.m3u8
+#EXTINF:0, Art Sport 5 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArtSport5/index.m3u8
+#EXTINF:0, Art Sport 6 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArtSport6/index.m3u8
+#EXTINF:0, Art Sport 1 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
+#EXTINF:0, Art Sport 2 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArtSport2/playlist.m3u8
+#EXTINF:0, Art Sport 3 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArtSport3/playlist.m3u8
+#EXTINF:0, Art Sport 4 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArtSport4/playlist.m3u8
+#EXTINF:0, Art Sport 5 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArtSport5/playlist.m3u8
+#EXTINF:0, Art Sport 6 HD #EXTVLCOPT:network-caching=1000
+http://79.127.207.193:80/ArtSport6/playlist.m3u8
+#EXTINF:0, NOVA SPORT 1 HD #EXTVLCOPT:network-caching=1000
+http://178.23.88.55/Nova_Sport/index.m3u8
+#EXTINF:39, NOVA SPORT 1 HD #EXTVLCOPT:network-caching=1000
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8
+#EXTINF:49, CT SPORT HD #EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:50, SPORT 1 HD #EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:0, Sport 1 HD #EXTVLCOPT:network-caching=1000
+http://178.23.88.55/Sport1/index.m3u8
+#EXTINF:0, Nova Sport 1 #EXTVLCOPT:network-caching=1000
+http://dvr2.kablova.tv/Nova_Sport/mpegts
+#EXTINF:0, Sport 1 #EXTVLCOPT:network-caching=1000
+http://dvr2.kablova.tv/Sport1/index.m3u8
+#EXTINF:50, SPORT 2 HD #EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:0, SPORT 2 HD #EXTVLCOPT:network-caching=1000
+http://185.98.211.8:81/sport2/index.m3u8?token=test
+#EXTINF:0,  Arena_Sport #EXTVLCOPT:network-caching=1000
+http://178.23.88.55/Arena_sport/index.m3u8
+#EXTINF:48, ARENA SPORT 1 #EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+#EXTINF:50, ARENA SPORT 2 #EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:0, Eurosport_2 #EXTVLCOPT:network-caching=1000
+http://178.23.88.55/Eurosport_2/index.m3u8
+#EXTINF:0, ONEPLAY 1 #EXTVLCOPT:network-caching=1000
+http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
+#EXTINF:0, ONEPLAY 2 #EXTVLCOPT:network-caching=1000
+http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
+#EXTINF:0, ONEPLAY 3 #EXTVLCOPT:network-caching=1000
+http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
+#EXTINF:0, MAX SPORT 1 #EXTVLCOPT:network-caching=1000
+http://77.46.130.252:99/maxsport1
+#EXTINF:0, JOJ Sport 1 #EXTVLCOPT:network-caching=1000
+http://dvr2.kablova.tv/JOJ_Sport/index.m3u8
+#EXTINF:0, JOJ Sport 2 #EXTVLCOPT:network-caching=1000
+http://dvr3.kablova.tv/JOJ_Sport_2/index.m3u8
+#EXTINF:0, MAX SPORT 2 #EXTVLCOPT:network-caching=1000
+http://77.46.130.252:99/maxsport2
+#EXTINF:0, MAX SPORT 3 #EXTVLCOPT:network-caching=1000
+http://77.46.130.252:99/maxsport3
+#EXTINF:0, MAX SPORT 4 #EXTVLCOPT:network-caching=1000
+http://77.46.130.252:99/maxsport4
+#EXTINF:0, bTV Action HD #EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/13004/index.m3u8
+#EXTINF:0, bTV Action #EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/1004/index.m3u8
+#EXTINF:0,RING #EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/4001/index.m3u8
+#EXTINF:0, BNT 3 HD SPORT #EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/13001/index.m3u8
+#EXTINF:0, M4 Sport #EXTVLCOPT:network-caching=1000
+http://46.149.191.217:9010/play/a017
+#EXTINF:0, M4 sport #EXTVLCOPT:network-caching=1000
+http://dvr1.kablova.tv/M4/index.m3u8
+#EXTINF:0, Sportdigital #EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-ATAJ0500433A
+#EXTINF:0, ZIGGO SPORT 2 HD #EXTVLCOPT:network-caching=1000
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8%20
+#EXTINF:0, ZIGGO SPORT 3 HD #EXTVLCOPT:network-caching=1000
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
+#EXTINF:0, ZIGGO SPORT LIVE #EXTVLCOPT:network-caching=1000
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8%20
+#EXTINF:0, 4Football #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=ts&play_token=dKKpb8gzTG
+#EXTINF:0, Vsport  Premium #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294056&extension=ts&play_token=ORjKHsaW1H
+#EXTINF:0, Vsport Extra #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294058&extension=ts&play_token=XLhm4jy6Q6
+#EXTINF:0, Vsport Motor #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294062&extension=ts&play_token=HKSdQsGCnY
+#EXTINF:0, Vsport Football #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294068&extension=ts&play_token=X7FgSJ9YKe
+#EXTINF:0, Vsport 1 #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=1109060&extension=ts&play_token=01Q35J9eex
+#EXTINF:0, Vsport 2 #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294045&extension=ts&play_token=IePOQAQFek
+#EXTINF:0, Vsport 3 #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294039&extension=ts&play_token=mhow2fBWnl
+#EXTINF:0, Vsport 4 #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294042&extension=ts&play_token=kJl61veKrg
+#EXTINF:0, 4MotorTv #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294052&extension=ts&play_token=9ZxkayU6SV
+#EXTINF:0, 4Hockey #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294050&extension=ts&play_token=yfNsxVbnXR
+#EXTINF:0, Eurosport 1 #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294038&extension=ts&play_token=NrLWS0P6US
+#EXTINF:0, Eurosport 2 #EXTVLCOPT:network-caching=1000
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294036&extension=ts&play_token=BjAOctlP2o
+#EXTINF:0, 2TV Sport #EXTVLCOPT:network-caching=1000
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:0,  ORF+ #EXTVLCOPT:network-caching=1000
+http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
+#EXTINF:0, 5 SPORT #EXTVLCOPT:network-caching=1000
+http://185.132.134.159:80/sport1/index.m3u8
+#EXTINF:0, 2 SPORT #EXTVLCOPT:network-caching=1000
+http://185.132.134.159:80/sport2/index.m3u8
+#EXTINF:0, 3 SPORT #EXTVLCOPT:network-caching=1000
+http://185.132.134.159:80/sport3/index.m3u8
+#EXTINF:0, 4 SPORT #EXTVLCOPT:network-caching=1000
+http://185.132.134.159:80/sport4/index.m3u8
+#EXTINF:0, 5 SPORT #EXTVLCOPT:network-caching=1000
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:0,5 SPORT #EXTVLCOPT:network-caching=1000
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
+#EXTINF:0, 6 SPORT #EXTVLCOPT:network-caching=1000
+http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:0, 1 SPORT #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a016
+#EXTINF:0, 2 SPORT #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a019
+#EXTINF:0, 3 SPORT #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a01a
+#EXTINF:0, 4 SPORT #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a01b
+#EXTINF:0, 5 SPORT #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a01c
+#EXTINF:0, SPORT ONE HD #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a01d
+#EXTINF:0, SPORT ONE 2 HD #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a01f
+#EXTINF:0,  SPORT5LIVEHD #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a00i
+#EXTINF:0, SPORT5PLUSHD #EXTVLCOPT:network-caching=1000
+http://77.137.40.221:8000/play/a001
+#EXTINF:0, Azteca Deportes #EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0, Teleamazonas #EXTVLCOPT:network-caching=1000
+http://190.242.59.52:8000/play/a05p/index.m3u8
+#EXTINF:0, TELEFE #EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:0,  Tigo Sports  #EXTVLCOPT:network-caching=1000
+http://181.78.50.91:4000/play/a05r/index.m3u8
+#EXTINF:0,  Tigo Sports  #EXTVLCOPT:network-caching=1000
+http://181.209.194.14:8001/play/a05r/index.m3u8
+#EXTINF:0, CAZE TV 1 #EXTVLCOPT:network-caching=1000
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:0,TV2 #EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:0,GOLTV #EXTVLCOPT:network-caching=1000
+http://176.65.146.237:8401/play/a09k/index.m3u8
+#EXTINF:60, REAL MADRID TV #EXTVLCOPT:network-caching=1000
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:0,La liga Inside #EXTVLCOPT:network-caching=1000
+https://is.gd/P9HFAg?LaligaInside.m3u8
+#EXTINF:0,BEIN SPORT EXTRA Ñ #EXTVLCOPT:network-caching=1000
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:0, Esport3 #EXTVLCOPT:network-caching=1000
+https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:0, ETB Deportes #EXTVLCOPT:network-caching=1000
+https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8
+#EXTINF:0, ESPN 5 #EXTVLCOPT:network-caching=1000
+http://190.0.247.38:8000/play/a012
+#EXTINF:0, DSPORTS 1 #EXTVLCOPT:network-caching=1000
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:0, ESPN 2 #EXTVLCOPT:network-caching=1000
+http://181.205.130.194:4000/play/a07i
+#EXTINF:0, TELECOSTA GUATEMALA #EXTVLCOPT:network-caching=1000
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:0, Win Sports + #EXTVLCOPT:network-caching=1000
+http://live.btv.mx:2424/stream/280080/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:0, WIN SPORT #EXTVLCOPT:network-caching=1000
+http://190.0.247.38:8000/play/a068
+#EXTINF:0, WIN SPORT #EXTVLCOPT:network-caching=1000
+http://181.205.205.173:8888/play/a0h0/index.m3u8
+#EXTINF:0,TELEMUNDO #EXTVLCOPT:network-caching=1000
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0,TELEMUNDO #EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+#EXTINF:0, CBS Sports Golazo Network #EXTVLCOPT:network-caching=1000
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e4845f0b-8107-11f0-9a74-4e73f98cfba2
+#EXTINF:0, CBC SPORTS #EXTVLCOPT:network-caching=1000
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:0, AYM SPORT #EXTVLCOPT:network-caching=1000
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:0, PSN 1 Sports #EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:0, PSN 2 Sports #EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:0, PSN 4 Sports #EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:0, PSN 5 Sports #EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:0, ESPNews #EXTVLCOPT:network-caching=1000
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:0,TSN3 #EXTVLCOPT:network-caching=1000
+https://stream.decentdoubts.net/807/index.m3u8?token=M0lLeXQ4ZWIxNkxJZ0p1cmhhMjBtTWlvMDhsK3h0NS9zb21keGF5am5vSERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
+#EXTINF:0, MTR Sports-1 #EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:0, SPORTYTV #EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:0, X SPORT #EXTVLCOPT:network-caching=1000
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:0, Turkmenistan Sport #EXTVLCOPT:network-caching=1000
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:0, Turkmenistan Sport #EXTVLCOPT:network-caching=1000
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:0, Turkmenistan Sport #EXTVLCOPT:network-caching=1000
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:0, Qazaqstan Sport SD #EXTVLCOPT:network-caching=1000
+https://stream.qaztv.kz/live/stream9/index.m3u8
+#EXTINF:0, KCMN-LD6 #EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:0, T SPORT #EXTVLCOPT:network-caching=1000
+http://stvlive.net:8080/tsports1/index.m3u8
+#EXTINF:0,Tivibu Spor 1 #EXTVLCOPT:network-caching=1000
+http://65.108.239.207/t1/index.m3u8
+#EXTINF:0,Tivibu Spor 2 #EXTVLCOPT:network-caching=1000
+http://65.108.239.207/t2/index.m3u8
+#EXTINF:0,Tivibu Spor 3 #EXTVLCOPT:network-caching=1000
+http://65.108.239.207/t3/index.m3u8
+#EXTINF:0,Tivibu Spor 4 #EXTVLCOPT:network-caching=1000
+http://65.108.239.207/t4/index.m3u8
+#EXTINF:0,smart1 #EXTVLCOPT:network-caching=1000
+http://65.108.239.207/smart1/index.m3u8
+#EXTINF:0,smart2 #EXTVLCOPT:network-caching=1000
+http://65.108.239.207/smart2/index.m3u8
+#EXTINF:0,SPORTS TV #EXTVLCOPT:network-caching=1000
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:0,HT SPOR #EXTVLCOPT:network-caching=1000
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+#EXTINF:0, HTSpor TV #EXTVLCOPT:network-caching=1000
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:0, EKOL SPORTS #EXTVLCOPT:network-caching=1000
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+#EXTINF:0, SoloCalcio#EXTVLCOPT:network-caching=1000
+https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
+#EXTINF:0, SPORT ITALIA #EXTVLCOPT:network-caching=1000
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+#EXTINF:0, TR Sport (480p) #EXTVLCOPT:network-caching=1000
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:0, L`Equipe #EXTVLCOPT:network-caching=1000
+http://157.143.44.195/play/a0fw
+#EXTINF:0, L`Equipe #EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-FR200016Y5
+#EXTINF:0, INFOSPORT #EXTVLCOPT:network-caching=1000
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:0, NOW SPORTS 1 #EXTVLCOPT:network-caching=1000
+https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+#EXTINF:0, NOW SPORTS 2 #EXTVLCOPT:network-caching=1000
+https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+#EXTINF:0, NOW SPORTS 3 #EXTVLCOPT:network-caching=1000
+https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+#EXTINF:0, ON Sports+ #EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
+#EXTINF:0, Fox Sports #EXTVLCOPT:network-caching=1000
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+#EXTINF:0,KTV SPORTS #EXTVLCOPT:network-caching=1000
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:0, IRIB3 #EXTVLCOPT:network-caching=1000
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+#EXTINF:0, Varzesh TV #EXTVLCOPT:network-caching=1000
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:0, NETO SPORTS #EXTVLCOPT:network-caching=1000
+https://netohls.wns.live/hls/stream.m3u8
+#EXTINF:0, MMN Sport #EXTVLCOPT:network-caching=1000
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+#EXTINF:0, RTA SPORT #EXTVLCOPT:network-caching=1000
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:0, Telewebion Sport 3 #EXTVLCOPT:network-caching=1000
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
+#EXTINF:0, MASR #EXTVLCOPT:network-caching=1000
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
+#EXTINF:0, MASR #EXTVLCOPT:network-caching=1000
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_47.m3u8
+#EXTINF:0, MASR #EXTVLCOPT:network-caching=1000
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:0, MASR #EXTVLCOPT:network-caching=1000
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:0, beIN SPORTS #EXTVLCOPT:network-caching=1000
+http://154.197.91.169:8000/play/a0f3/index.m3u8
+#EXTINF:0,  Arryadia HD1 #EXTVLCOPT:network-caching=1000
+http://154.197.91.169:8000/play/a0hu/index.m3u8
+#EXTINF:0,  Arryadia HD2 #EXTVLCOPT:network-caching=1000
+http://154.197.91.169:8000/play/a0hv/index.m3u8
+#EXTINF:0,  Arryadia HD3 #EXTVLCOPT:network-caching=1000
+http://154.197.91.169:8000/play/a0hw/index.m3u8
+#EXTINF:0, Thmanyah 1 #EXTVLCOPT:network-caching=1000
+http://154.197.91.169:8000/play/a0ii/index.m3u8
+#EXTINF:0, Thmanyah 1 #EXTVLCOPT:network-caching=1000
+http://154.197.91.169:8000/play/a0hk/index.m3u8
+#EXTINF:0, Thmanyah 2 #EXTVLCOPT:network-caching=1000
+http://154.197.91.169:8000/play/a0ij/index.m3u8
+#EXTINF:0, Thmanyah 2 #EXTVLCOPT:network-caching=1000
+http://154.197.91.169:8000/play/a0hl/index.m3u8
+#EXTINF:0, Thmanyah 3 #EXTVLCOPT:network-caching=1000
+http://154.197.91.169:8000/play/a0ik/index.m3u8
+#EXTINF:0, Thmanyah 3 #EXTVLCOPT:network-caching=1000
+http://154.197.91.169:8000/play/a0hm/index.m3u8
+#EXTINF:0, YAS Sports HD #EXTVLCOPT:network-caching=1000
+http://154.197.91.169:8000/play/a0ie/index.m3u8
+#EXTINF:0, Africa 24 Sport #EXTVLCOPT:network-caching=1000
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:0, TELETRAK #EXTVLCOPT:network-caching=1000
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:0,Setanta Sport 2 #EXTVLCOPT:network-caching=1000
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:0,5 SPORT #EXTVLCOPT:network-caching=1000
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:0,Arena Premium 1 HD #EXTVLCOPT:network-caching=1000
+http://169.150.223.25/ArenaPremium1HD/index.m3u8
+#EXTINF:0,bein_sd_1 #EXTVLCOPT:network-caching=1000
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:0,bein 1 #EXTVLCOPT:network-caching=1000
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:0,MAX SPORT 3 #EXTVLCOPT:network-caching=1000
+http://77.46.130.252:99/maxsport3
+#EXTINF:0, Sport5 #EXTVLCOPT:network-caching=1000
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#EXTINF:0, Sport5 #EXTVLCOPT:network-caching=1000
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
+#EXTINF:0, TUDN #EXTVLCOPT:network-caching=1000
+http://45.5.119.43:4000/play/a05q/index.m3u8
+#EXTINF:0, ESPN #EXTVLCOPT:network-caching=1000
+http://200.106.13.204:8000/play/a00i/index.m3u8
+#EXTINF:0, ESPN #EXTVLCOPT:network-caching=1000
+http://200.106.13.204:8000/play/a0kp/index.m3u8
+#EXTINF:11,ESPN7
+#EXTVLCOPT:network-caching=1000
+http://181.118.156.46:8000/play/a04g/index.m3u8
+#EXTINF:0, ESPN 2 #EXTVLCOPT:network-caching=1000
+http://200.10.30.241:8000/play/a01r/index.m3u8
+#EXTINF:0, Sony Ten 1 #EXTVLCOPT:network-caching=1000
+http://stvlive.net:8080/sonyten1/index.m3u8
+#EXTINF:0, Sony Ten 2 #EXTVLCOPT:network-caching=1000
+http://stvlive.net:8080/sonyten2/index.m3u8
+#EXTINF:0, Sony Ten 5 #EXTVLCOPT:network-caching=1000
+http://stvlive.net:8080/sonyten5/index.m3u8
+#EXTINF:0, CANAL + Sport #EXTVLCOPT:network-caching=1000
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:0, Setanta Sport 1 #EXTVLCOPT:network-caching=1000
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:0, beIN SPORTS 1 #EXTVLCOPT:network-caching=1000
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:0, MAX SPORT 3 #EXTVLCOPT:network-caching=1000
+http://77.46.130.252:99/maxsport3
+#EXTINF:11,ESPN 2 #EXTVLCOPT:network-caching=1000
+http://45.228.234.30:16000/play/a01l/index.m3u8
