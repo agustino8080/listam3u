@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://170.82.202.31/Viva/index.m3u8
+#EXTINF:60,index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://188.138.29.131/nhl/index.m3u8

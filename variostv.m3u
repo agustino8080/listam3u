@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:0,Channel 6
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+#EXTINF:0,Channel 7
+http://45.5.117.57:8200/play/a050/index.m3u8   
+#EXTINF:0,Channel 8
+http://190.92.10.66:4000/play/a001/index.m3u8  
+#EXTINF:0,Skysport
+http://179.60.224.196:8000/play/a0i7/index.m3u8  
+#EXTINF:0,Skysport
+http://181.78.109.48:9998/play/a06r/index.m3u8   
+#EXTINF:0,Channel 11
+http://77.137.40.221:8000/play/a01e   NO
+#EXTINF:0,Channel 12
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=ts&play_token=dKKpb8gzTG NO
+#EXTINF:0,Channel 13
+http://cdntv.online/low/9mlxywika2/778.m3u8  NO
+#EXTINF:0,Channel 14
+http://201.230.121.186:8000/play/a0od/index.m3u8   NO
+#EXTINF:0,Channel 15
+http://190.117.20.37:8000/play/a08d/index.m3u8     NO
+#EXTINF:0,ESPN 3 HD
+http://167.250.223.26:8085/play/a069/index.m3u8    
+#EXTINF:0,CORGOLXXXX
+https://www.corgol.com/television/00ero00.m3u
+#EXTINF:0,Channel 18
+http://206.212.244.71:8080/?username=dwayne.usa@hotmail.com&password=9MGPKFX7XC&type=m3u_plus&output=ts  
+#EXTINF:0,Channel 19
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts  
+#EXTINF:0,Channel 20
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47851.ts   
+#EXTINF:0,Channel 21
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47852.ts  
+#EXTINF:0,Channel 22
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts  
+#EXTINF:0,Channel 23
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8  
+#EXTINF:0,Channel 24
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/4000/index.m3u8  
+#EXTINF:0,Channel 25
+http://eqatmiyg.megogo.xyz/iptv/MVTMCC4UTAZVDT/20099/index.m3u8  
+#EXTINF:0,Channel 26
+http://eqatmiyg.megogo.xyz/iptv/EBUCGK992DRF6L/20103/index.m3u8   
+#EXTINF:0,Channel 27
+http://musdjgc4.akciatv.ru/iptv/VWX3U69RGEHNDD/20104/index.m3u8
+#EXTINF:0,Channel 28
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8 todos
+#EXTINF:0,Channel 29
+https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8  todos
+#EXTINF:0,Channel 30
+https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
+#EXTINF:0,Channel 31
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:0,Channel 32
+https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
+#EXTINF:0,Channel 33
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:0,Channel 34
+https://2e90a1efd576492a8eaf4364feedf8d5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_Popflix/playlist.m3u8
+#EXTINF:0,Channel 35
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15270&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_us&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]     todos
+#EXTINF:0,Channel 36
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:0,Channel 37
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:0,Channel 38
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:0,Channel 39
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:0,Channel 40
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:0,Channel 41
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:0,Channel 42
+http://mytvstream.net:8080/live/30550113/30550113/120952.m3u8
+#EXTINF:0,Channel 43
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:0,Channel 44
+http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
+#EXTINF:0,Channel 45
+0000000208844300
+#EXTINF:0,Channel 46
+https://github.com/amirnise/IPTV/blob/main/Israel-TV-2025-1.m3u
+#EXTINF:0,Channel 47
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List_TV.m3u
+#EXTINF:0,Channel 48
+https://raw.githubusercontent.com/la22lo/sports/refs/heads/main/futbol.m3u
+#EXTINF:0,Channel 49
+https://raw.githubusercontent.com/la22lo/sports/refs/heads/main/futbol.m3u
+#EXTINF:0,Channel 50
+https://raw.githubusercontent.com/amirnise/IPTV/refs/heads/main/index.m3u
+#EXTINF:0,Channel 51
+https://raw.githubusercontent.com/amirnise/IPTV/refs/heads/main/playlist_amirnise233.m3u
+#EXTINF:0,Channel 52
+https://raw.githubusercontent.com/agustino8080/comedia-/refs/heads/main/comedia1tv.m3u
+#EXTINF:0,Channel 53
+https://iptv-org.github.io/channels/ec/ElCanaldelFutbol#SD
+#EXTINF:0,Channel 54
+https://iptv-org.github.io/iptv/index.m3u
+#EXTINF:0,Channel 55
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=ts&play_token=dKKpb8gzTG solo vlc -3
+#EXTINF:0,Channel 56
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:18:16:2C&stream=2034481.mkv&play_token=W06y1owuwT&type=movie
+#EXTINF:0,Channel 57
+
