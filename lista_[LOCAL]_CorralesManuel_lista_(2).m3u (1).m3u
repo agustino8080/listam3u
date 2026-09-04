@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="EC | CANAL UNO HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/CanalUnoEcuador2019.png/revision/latest?cb=20201021025407&path-prefix=es" group-title="ECUADOR",EC | CANAL UNO HD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIbXFJZEJSRzNtWFV1VFJqam1oMUZXVVJldzk0bFlzVjM4MUZZR2lIcWVQOQ
+#EXTINF:-1 tvg-name="EC | CANELA TV" tvg-logo="https://play-lh.googleusercontent.com/n7CZYeIMsNI2oVgTCUZYh27t1R78GzVxNwjRRPEl_RoLkKnGhuW7BHuRnW7r78AWXDY" group-title="ECUADOR",EC | CANELA TV
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIaktYbXBvemNuVStqV2ZsalVxMXhhWUx1K3psaWZDK2xTR0dsUWgvR0ErSw
+#EXTINF:-1 tvg-name="EC | ECOTEL TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Ecotel-TV-en-vivo-Online.png" group-title="ECUADOR",EC | ECOTEL TV
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIb0l0K3ZMYTJKMlJPbW5tbUJYOFdPR3RLUWpVNGxGVVdZNnFQYmZJUXNTMw
+#EXTINF:-1 tvg-name="EC | ECUADOR TV" tvg-logo="https://i.postimg.cc/Z5gj7bjy/ecuadortv.jpg" group-title="ECUADOR",EC | ECUADOR TV
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIcmNXTkwzR1ZsNTZsRUl1b0NjVi9SaU5DcXdKVkNKL2pvbk5kN0VHeE1rdw
+#EXTINF:-1 tvg-name="EC | ECUADOR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/1200px-EcuadorTV_logo.png" group-title="ECUADOR",EC | ECUADOR TV HD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIdldKaU1KV2lvOVRNNlIyczhTeDlPZFdGOFBBdnJhY3RScE11ZHA5UUFZTA
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC | ECUAVISA GUAYAQUIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR",EC | ECUAVISA GUAYAQUIL HD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIbEFwUnpxb3puUWkyUXpQV0EzbFQrYzVLRy85K0NmeVJHbzlYelFsWnIzTA
+#EXTINF:-1 tvg-name="EC | ECUAVISA INTERNACIONAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR",EC | ECUAVISA INTERNACIONAL HD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIcnNqN0JuYndZdURtRGtFa2NIUjFiMjBuRVovelEzdkxTRnU3WHM0UWtqUw
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC | ECUAVISA QUITO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR",EC | ECUAVISA QUITO HD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIaURkdExIdWY2L1cwN0xWWFZUd1FMdmIrYmtDcE14TENMUGkydzV1WlNTMQ
+#EXTINF:-1 tvg-name="EC | EL CANAL DEL FÚTBOL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Canal_del_F%C3%BAtbol_-_logo_2015.png" group-title="ECUADOR",EC | EL CANAL DEL FÚTBOL SD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIbit2SWJ4TUJwQ25LTk5jZlBOQWN0QW9UUDBpaEE1U3NqSHFpMzgrL1VHQg
+#EXTINF:-1 tvg-name="EC | FRECUENCIA MUSICAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSje85UeM53ryOshSR3o7E5NyU0euKVAd-xqQ&s" group-title="ECUADOR",EC | FRECUENCIA MUSICAL TV
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIb1ZUOGYrQ2tUdTkxNzBaYnZYMjR4cjUwZEpPdHk2VHNqS3ZWM25ZUDhlMw
+#EXTINF:-1 tvg-name="EC | GAMAVISIÓN" tvg-logo="http://xplatinmedia.com:8080/images/2aaa89e47637adbf9df70ea33bd2055f.png" group-title="ECUADOR",EC | GAMAVISIÓN
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIaE5IaEs4akRpUFF6QnNNNWxpaTU0QUp3VmZCdW9ubHdNSzRJTW4zYXdteg
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="EC | GAMAVISIÓN SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Nuevologo-Gamavisi%C3%B3n.png/revision/latest?cb=20201021164832&path-prefix=es" group-title="ECUADOR",EC | GAMAVISIÓN SD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIa0J2aEhPcStVRTZ6ZEtjTjkzaFlKRW1tYWZydFlzWVFDbTNlRW1KeUUzWg
+#EXTINF:-1 tvg-name="EC | GOL TV (SOLO EVENTOS)" tvg-logo="https://ipuntotv.com/IMAGES/Goltv-ecuador.png" group-title="ECUADOR",EC | GOL TV (SOLO EVENTOS)
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIZ0JncUFualUxWXI4KzhrVXovQ0ZrQ1NucG9OSWhnc3h6Mlp2aXk3TmdnRQ
+#EXTINF:-1 tvg-name="EC | GOL TV SD" tvg-logo="https://ipuntotv.com/IMAGES/Goltv-ecuador.png" group-title="ECUADOR",EC | GOL TV SD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIbUdIMFExM0xhWHhyNFhsbGs5U1NSYUVLUUJOT0k2L1M5Vmc2S1J5R3BxSQ
+#EXTINF:-1 tvg-name="EC | OROMAR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",EC | OROMAR FHD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIbk93QkgyNG14MzBrdXcrKzFNTVZ3WG96bDB6WWZNWStzU1o3bmNaYlhNMg
+#EXTINF:-1 tvg-name="EC | RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",EC | RTS
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIb0RqRWNBTC9DcEcrQVVRbWx6UkFDR3E5b2xmeXhaVHBLcXBESjlGVG9RRA
+#EXTINF:-1 tvg-name="EC | RTU HD" tvg-logo="http://xplatinmedia.com:8080/images/ca60ddf03143215840680cf7fbf3dc70.png" group-title="ECUADOR",EC | RTU HD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIZ0prYVVWdW1iRG52VzIyWUpJaEJxVityOGlEaG95SVo5M29Uck5MQTlCTw
+#EXTINF:-1 tvg-name="EC | TC TELEVISIÓN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/TCTelevision1995fullname.png/revision/latest?cb=20180325183639" group-title="ECUADOR",EC | TC TELEVISIÓN
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIakZXQ0kzbDMweHhqc1A4UEx5RTY3aExENHFSbGpKWDcxTDVSQ0MzQTNOQw
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Teleamazonas2021.png" group-title="ECUADOR",EC | TELEAMAZONAS FHD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIaHhQR2NwOTQzVjkyLy94RWcveGpmRUZua1lXSXgzcjl2S1JOZW9Kb3NaTQ
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Teleamazonas2021.png" group-title="ECUADOR",EC | TELEAMAZONAS SD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIaG9ka1M4alJrK3pJQ3VPdUNodWxWc3k3eXc3dGFzdnd2alZzWjFVamVFLw
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC | TELEAMAZONAS GQUIL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Teleamazonas2021.png" group-title="ECUADOR",EC | TELEAMAZONAS GQUIL HD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIdVIvUDJ5b1ZpdUhKTTBuMllkcVpMNTJEVVN1eWpuaDNuMllFcFYwUHFjRQ
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS QUITO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Teleamazonas2021.png" group-title="ECUADOR",EC | TELEAMAZONAS QUITO
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIckI0VnVVTU5qMG15WENZYVB5R1Y1dUxIenZFa095Vmc0T1lGN201dWwvRg
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS SIERRA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Teleamazonas2021.png" group-title="ECUADOR",EC | TELEAMAZONAS SIERRA HD
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIdUNxNXo1d3pOZ2FFUDY3Yy9OZlliWldRVU4vQUo2SzJacVJhMVFNQ05IOA
+#EXTINF:-1 tvg-name="EC | ZAPPING SPORTS 1 (SOLO EVENTOS)" tvg-logo="https://img.listaiptvhd.live/images/zapping_sports.png" group-title="ECUADOR",EC | ZAPPING SPORTS 1 (SOLO EVENTOS)
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIbHVvSjExd3Z1L0d0QU9iTnlTT1hCQUdTK1I5QzRwcjRVVlBHc1kzUm85cw
+#EXTINF:-1 tvg-name="EC | ZAPPING SPORTS 2 (SOLO EVENTOS)" tvg-logo="https://img.listaiptvhd.live/images/zapping_sports.png" group-title="ECUADOR",EC | ZAPPING SPORTS 2 (SOLO EVENTOS)
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIbElaV1U5U2lScU9YZGVaWTdrWEtkK0wvNXlrTG9RaFBZZVJ1TXNSdEl4Sw
+#EXTINF:-1 tvg-name="EC | ZAPPING SPORTS 3 (SOLO EVENTOS)" tvg-logo="https://img.listaiptvhd.live/images/zapping_sports.png" group-title="ECUADOR",EC | ZAPPING SPORTS 3 (SOLO EVENTOS)
+http://45.12.1.106:8880/Vit2eXV2Z2prYmlINGJZR2ErS0VIdmQvY2hvQkhjaGQyQkYvUU91eVBOTzhxWlFNdm55WU9lZFgrU01GbXprNw
