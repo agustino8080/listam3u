@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:20,Dorcel
+http://162.19.243.184:8080/701/manifest.m3u8?token=S40EA67AEC
+#EXTINF:24, Canal 702
+http://162.19.243.184:8080/702/manifest.m3u8?token=S40EA67AEC
+#EXTINF:26, Canal 703
+http://162.19.243.184:8080/703/manifest.m3u8?token=S40EA67AEC
+#EXTINF:20, Canal 704
+http://162.19.243.184:8080/704/manifest.m3u8?token=S40EA67AEC
+#EXTINF:26, Canal 705
+http://162.19.243.184:8080/705/manifest.m3u8?token=S40EA67AEC
+#EXTINF:40, Canal 706
+http://162.19.243.184:8080/706/manifest.m3u8?token=S40EA67AEC
+#EXTINF:40, Canal 707
+http://162.19.243.184:8080/707/manifest.m3u8?token=S40EA67AEC
+#EXTINF:40, Canal 708
+http://162.19.243.184:8080/708/manifest.m3u8?token=S40EA67AEC
+#EXTINF:20, Canal 709
+http://162.19.243.184:8080/709/manifest.m3u8?token=S40EA67AEC
+#EXTINF:24, Canal 710
+http://162.19.243.184:8080/710/manifest.m3u8?token=S40EA67AEC
+#EXTINF:25, Canal 711
+http://162.19.243.184:8080/711/manifest.m3u8?token=S40EA67AEC
+#EXTINF:40, Canal 712
+http://162.19.243.184:8080/712/manifest.m3u8?token=S40EA67AEC
+#EXTINF:42, Canal 713
+http://162.19.243.184:8080/713/manifest.m3u8?token=S40EA67AEC
+#EXTINF:40, Canal 714
+http://162.19.243.184:8080/714/manifest.m3u8?token=S40EA67AEC
+#EXTINF:39, Canal 715
+http://162.19.243.184:8080/715/manifest.m3u8?token=S40EA67AEC
+#EXTINF:40, Canal 716
+http://162.19.243.184:8080/716/manifest.m3u8?token=S40EA67AEC
